@@ -1,0 +1,14 @@
+Metric,Value
+Original Columns,44
+Columns Removed,6
+Final Columns,38
+Reduction Percentage,13.6%
+,
+Metadata Removed,4
+Redundant Removed,2
+High Missing Removed,0
+Low Variance Removed,0
+,
+Records (unchanged),"56,896"
+Students (unchanged),"4,500"
+Courses (unchanged),10

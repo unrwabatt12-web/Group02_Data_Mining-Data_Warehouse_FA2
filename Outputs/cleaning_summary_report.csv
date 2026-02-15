@@ -1,0 +1,16 @@
+Metric,Before,After,Improvement
+Students Records,4635,4500,135
+Courses Records,24652,23719,933
+Assessments Records,75401,56896,18505
+Missing Gender,1160,0,1160
+Missing DOB,224,0,224
+Missing Phone,324,318,6
+Missing Course_Code (Courses),933,0,933
+Missing Credits,520,0,520
+Missing Course_Code (Assessments),2844,0,2844
+Missing Mark,3610,0,3610
+Missing Attendance,7683,0,7683
+Duplicate Students,135,0,135
+Duplicate Courses,2,0,2
+Duplicate Assessments,16273,0,16273
+Invalid Marks (outliers),1509,0,1509

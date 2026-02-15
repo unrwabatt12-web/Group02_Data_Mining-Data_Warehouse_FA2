@@ -1,0 +1,1546 @@
+Student_ID,Full_Name,Gender,DOB,Phone,Program,Level,Intake_Year,Email
+RPK20230001,Alice Mutabazi,M,2004-04-12,0794857977,Civil Engineering,L5,2023,alice.mutabazi@rp.ac.rw
+RPK20220002,Benjamin Mutabazi,,2000-08-09,0732199660,Computer Science,L5,2022,benjamin.mutabazi@rp.ac.rw
+RPK20230003,Grace Mutabazi,F,2003-04-17,0795634957,Civil Engineering,Level 4,2023,grace.mutabazi@rp.ac.rw
+RPK20240004,Samuel Niyonzima,,2000-01-21,0799581653,Mechanical Engineering,Level 4,2024,samuel.niyonzima@rp.ac.rw
+RPK20250005,Patrick Kamanzi,,2006-06-10,0793053613,Computer Science,Level 6,2025,patrick.kamanzi@rp.ac.rw
+RPK20250006,Sarah Iradukunda,Male,1998-01-26,0728693303,Electronics,L6,2025,sarah.iradukunda@rp.ac.rw
+RPK20250007,Samuel Uwase,M,1999-11-26,0799360034,Electronics,L6,2025,samuel.uwase@rp.ac.rw
+RPK20250008,Benjamin Niyibizi,,2004-01-06,0796716143,Mechanical Engineering,L5,2025,benjamin.niyibizi@rp.ac.rw
+RPK20240009,Sarah Niyonzima,F,2006-10-21,0738557835,Mechanical Engineering,Level 6,2024,sarah.niyonzima@rp.ac.rw
+RPK20220010,Claude Ntawukuriryayo,Male,2003-01-27,0738225521,Computer Science,L4,2022,claude.ntawukuriryayo@rp.ac.rw
+RPK20230011,Joseph Kamanzi,f,1998-08-27,0732347570,Software Engineering,Level 5,2023,joseph.kamanzi@rp.ac.rw
+RPK20250012,  Marie Habimana  ,F,2005-07-01,0787309524,Civil Engineering,L5,2025,..marie.habimana..@rp.ac.rw
+RPK20230013,Kevine Mutabazi,f,2004-08-13,0739639550,Information Technology,L4,2023,kevine.mutabazi@rp.ac.rw
+RPK20250014,Emmanuel Iradukunda,,1999-04-21,0728395621,Computer Science,Level 6,2025,emmanuel.iradukunda@rp.ac.rw
+RPK20220015,Joseph Niyibizi,M,2004-06-08,0725466227,Mechanical Engineering,L4,2022,joseph.niyibizi@rp.ac.rw
+RPK20220016,Emmanuel Ntawukuriryayo,,1999-07-15,0793235810,Mechanical Engineering,L6,2022,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20230017,  Eric Niyibizi  ,Female,2005-09-28,0728758995,Computer Science,L6,2023,..eric.niyibizi..@rp.ac.rw
+RPK20220018,francine niyibizi,,2002-12-02,0788020261,Civil Engineering,L4,2022,francine.niyibizi@rp.ac.rw
+RPK20250019,Joseph Kamanzi,M,2006-09-18,0787809172,Information Technology,Level 5,2025,joseph.kamanzi@rp.ac.rw
+RPK20230020,Joseph Mutabazi,m,1999-11-05,0786205482,Computer Science,Level 6,2023,joseph.mutabazi@rp.ac.rw
+RPK20230021,francine iradukunda,m,2001-03-15,0789320259,Electronics,Level 5,2023,francine.iradukunda@rp.ac.rw
+RPK20250022,Jean Gasana,m,1999-12-01,0782549847,Electronics,Level 4,2025,jean.gasana@rp.ac.rw
+RPK20230023,Benjamin Mukamana,M,1998-03-27,0721436147,Mechanical Engineering,L6,2023,benjamin.mukamana@rp.ac.rw
+RPK20230024,benjamin ntawukuriryayo,F,2002-06-11,0727388201,Mechanical Engineering,L5,2023,benjamin.ntawukuriryayo@rp.ac.rw
+RPK20250025,Joseph Mutabazi,,1998-05-20,0722516011,Mechanical Engineering,L4,2025,joseph.mutabazi@rp.ac.rw
+RPK20230026,Francine Iradukunda,m,2004-11-20,0788352200,Software Engineering,L4,2023,francine.iradukunda@rp.ac.rw
+RPK20230027,Emmanuel Niyibizi,f,2004-06-10,0724446731,Software Engineering,Level 5,2023,emmanuel.niyibizi@rp.ac.rw
+RPK20250028,Emmanuel Mutabazi,Male,1999-12-23,,Electronics,L6,2025,emmanuel.mutabazi@rp.ac.rw
+RPK20230029,Diane Uwase,,2002-11-04,0738189592,Computer Science,Level 4,2023,diane.uwase@rp.ac.rw
+RPK20220030,Grace Tuyisenge,Male,2002-02-21,0787273930,Mechanical Engineering,L5,2022,grace.tuyisenge@rp.ac.rw
+RPK20250031,  Alice Nshimiyimana  ,m,1998-11-04,0793041349,Electronics,Level 4,2025,..alice.nshimiyimana..@rp.ac.rw
+RPK20220032,Aline Uwamahoro,F,2006-10-01,0731331238,Software Engineering,L4,2022,aline.uwamahoro@rp.ac.rw
+RPK20240033,Grace Tuyisenge,,1998-05-12,0738341792,Computer Science,L6,2024,grace.tuyisenge@rp.ac.rw
+RPK20220034,Joseph Uwase,F,2003-10-04,,Mechanical Engineering,Level 6,2022,joseph.uwase@rp.ac.rw
+RPK20220035,Jean Nshimiyimana,Male,2003-08-27,0736534983,Information Technology,Level 4,2022,jean.nshimiyimana@rp.ac.rw
+RPK20240036,Claude Kamanzi,f,2000-09-25,0793833953,Information Technology,L5,2024,claude.kamanzi@rp.ac.rw
+RPK20250037,joseph gasana,,2001-07-17,0739277026,Mechanical Engineering,L5,2025,joseph.gasana@rp.ac.rw
+RPK20240038,Grace Mugisha,Female,1998-02-02,0728103834,Information Technology,Level 4,2024,grace.mugisha@rp.ac.rw
+RPK20220039,Joseph Niyonzima,f,1999-03-15,,COMPUTER SCIENCE,L6,2022,joseph.niyonzima@rp.ac.rw
+RPK20220040,David Mukamana,Female,2001-08-17,0735940122,Computer Science,Level 4,2022,david.mukamana@rp.ac.rw
+RPK20220041,DIANE MUTABAZI,,2004-07-25,0729338701,Civil Engineering,L4,2022,diane.mutabazi@rp.ac.rw
+RPK20250042,Sarah Mukamana,F,,0798965903,Software Engineering,Level 4,2025,sarah.mukamana@rp.ac.rw
+RPK20250043,  Benjamin Niyonzima  ,M,2005-04-12,0739450326,Information Technology,Level 4,2025,..benjamin.niyonzima..@rp.ac.rw
+RPK20220044,Jean Mugisha,,1999-04-27,0723732784,Computer Science,L5,2022,jean.mugisha@rp.ac.rw
+RPK20230045,Joseph Iradukunda,F,2006-04-23,,Information Technology,Level 6,2023,joseph.iradukunda@rp.ac.rw
+RPK20220046,Francine Ntawukuriryayo,m,2001-01-19,0784150318,Software Engineering,L4,2022,francine.ntawukuriryayo@rp.ac.rw
+RPK20220047,Emmanuel Iradukunda,F,2006-02-06,,Civil Engineering,Level 5,2022,emmanuel.iradukunda@rp.ac.rw
+RPK20240048,  Marie Uwase  ,,2006-06-01,0787014692,INFORMATION TECHNOLOGY,L6,2024,..marie.uwase..@rp.ac.rw
+RPK20230049,Beatrice Mutabazi,,2005-06-23,0734751366,Civil Engineering,L6,2023,beatrice.mutabazi@rp.ac.rw
+RPK20250050,Emmanuel Mutabazi,,2003-06-11,0785308412,Computer Science,L6,2025,emmanuel.mutabazi@rp.ac.rw
+RPK20220051,Joseph Uwamahoro,f,,0728954210,Software Engineering,Level 6,2022,joseph.uwamahoro@rp.ac.rw
+RPK20220052,Marie Mugisha,m,,0736852748,Software Engineering,L6,2022,marie.mugisha@rp.ac.rw
+RPK20230053,David Mukamana,Female,2006-09-02,0735481460,Electronics,Level 4,2023,david.mukamana@rp.ac.rw
+RPK20240054,Grace Mukamana,Male,2005-02-12,0735632039,Information Technology,L5,2024,grace.mukamana@rp.ac.rw
+RPK20230055,Beatrice Mutabazi,,2001-04-19,0725120019,Software Engineering,L4,2023,beatrice.mutabazi@rp.ac.rw
+RPK20220056,emmanuel niyonzima,M,2006-12-10,0786310436,Electronics,Level 4,2022,emmanuel.niyonzima@rp.ac.rw
+RPK20240057,Grace Mugisha,,1998-12-10,0724063186,Electronics,L6,2024,grace.mugisha@rp.ac.rw
+RPK20250058,David Mutabazi,Female,2005-07-06,0796638480,Information Technology,L4,2025,david.mutabazi@rp.ac.rw
+RPK20250059,Alice Nshimiyimana,Male,1998-04-21,0791851333,Mechanical Engineering,Level 5,2025,alice.nshimiyimana@rp.ac.rw
+RPK20240060,Benjamin Uwase,,2003-03-18,0798917132,Information Technology,L6,2024,benjamin.uwase@rp.ac.rw
+RPK20230061,Samuel Niyonzima,Female,,0735258654,Information Technology,Level 4,2023,samuel.niyonzima@rp.ac.rw
+RPK20230062,Marie Tuyisenge,Female,1999-12-04,,Electronics,L5,2023,marie.tuyisenge@rp.ac.rw
+RPK20240063,Claude Mukamana,,2005-03-21,0788898726,SOFTWARE ENGINEERING,Level 5,2024,claude.mukamana@rp.ac.rw
+RPK20250064,  Joseph Uwamahoro  ,,2000-02-08,0787287145,Civil Engineering,Level 4,2025,..joseph.uwamahoro..@rp.ac.rw
+RPK20240065,  Sarah Uwase  ,Male,1998-07-10,0799696506,Mechanical Engineering,L5,2024,..sarah.uwase..@rp.ac.rw
+RPK20240066,Claude Mukamana,,2006-01-19,0737630898,Mechanical Engineering,Level 6,2024,claude.mukamana@rp.ac.rw
+RPK20230067,jean uwase,F,2000-10-22,0783553171,Information Technology,Level 6,2023,jean.uwase@rp.ac.rw
+RPK20230068,Kevine Uwase,,2003-02-16,0782155849,Computer Science,L4,2023,kevine.uwase@rp.ac.rw
+RPK20220069,  Claude Nshimiyimana  ,,,0732244085,Civil Engineering,Level 5,2022,..claude.nshimiyimana..@rp.ac.rw
+RPK20250070,Samuel Mukamana,f,2002-12-10,0738659807,Software Engineering,L5,2025,samuel.mukamana@rp.ac.rw
+RPK20220071,Kevine Mutabazi,,2004-09-08,0725035294,Software Engineering,L4,2022,kevine.mutabazi@rp.ac.rw
+RPK20250072,Alice Habimana,,2003-09-26,0788968878,Electronics,L5,2025,alice.habimana@rp.ac.rw
+RPK20230073,Emmanuel Iradukunda,,2004-11-09,0732214674,SOFTWARE ENGINEERING,L6,2023,emmanuel.iradukunda@rp.ac.rw
+RPK20250074,  Marie Mutabazi  ,f,2000-01-28,0783457075,CIVIL ENGINEERING,Level 5,2025,..marie.mutabazi..@rp.ac.rw
+RPK20250075,Kevine Uwamahoro,,2003-04-25,0737034779,Civil Engineering,L6,2025,kevine.uwamahoro@rp.ac.rw
+RPK20230076,Jean Mugisha,,2006-08-08,0787374928,Mechanical Engineering,Level 5,2023,jean.mugisha@rp.ac.rw
+RPK20230077,Sarah Kamanzi,Male,2001-11-02,0788505827,Information Technology,L5,2023,sarah.kamanzi@rp.ac.rw
+RPK20230078,Emmanuel Mukamana,Female,2003-05-06,0723028028,Software Engineering,L4,2023,emmanuel.mukamana@rp.ac.rw
+RPK20220079,  Joseph Mugisha  ,,2002-08-11,0795718741,Software Engineering,Level 6,2022,..joseph.mugisha..@rp.ac.rw
+RPK20230080,Claude Uwamahoro,Female,2000-04-23,0732627026,Software Engineering,L6,2023,claude.uwamahoro@rp.ac.rw
+RPK20250081,Grace Mukamana,M,1999-08-16,0732808927,ELECTRONICS,Level 5,2025,grace.mukamana@rp.ac.rw
+RPK20230082,Kevine Iradukunda,Female,2001-12-26,0729688598,Mechanical Engineering,Level 6,2023,kevine.iradukunda@rp.ac.rw
+RPK20230083,David Niyonzima,m,2000-04-06,0735681569,Information Technology,Level 4,2023,david.niyonzima@rp.ac.rw
+RPK20250084,Kevine Uwamahoro,,1999-12-05,0785007579,Information Technology,L6,2025,kevine.uwamahoro@rp.ac.rw
+RPK20220085,emmanuel ntawukuriryayo,Female,2000-08-04,0782364970,Information Technology,Level 5,2022,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20240086,  Alice Mutabazi  ,Female,2000-11-27,0787883203,Civil Engineering,Level 4,2024,..alice.mutabazi..@rp.ac.rw
+RPK20240087,Grace Tuyisenge,M,2002-09-28,0728755720,Electronics,L5,2024,grace.tuyisenge@rp.ac.rw
+RPK20250088,Emmanuel Niyonzima,f,2002-07-03,0796422701,Software Engineering,Level 4,2025,emmanuel.niyonzima@rp.ac.rw
+RPK20250089,  sarah mugisha  ,,2002-05-15,0795735611,Information Technology,Level 5,2025,..sarah.mugisha..@rp.ac.rw
+RPK20230090,Patrick Tuyisenge,,2001-12-17,0782720174,Information Technology,L6,2023,patrick.tuyisenge@rp.ac.rw
+RPK20240091,Francine Kamanzi,f,2002-07-04,0735431747,Software Engineering,Level 4,2024,francine.kamanzi@rp.ac.rw
+RPK20250092,Marie Uwamahoro,,2006-02-07,0738123819,Software Engineering,L6,2025,marie.uwamahoro@rp.ac.rw
+RPK20220093,Jean Niyonzima,,1999-10-19,0731792903,Information Technology,L4,2022,jean.niyonzima@rp.ac.rw
+RPK20240094,Alice Uwamahoro,Female,1999-12-04,0784849894,Information Technology,L6,2024,alice.uwamahoro@rp.ac.rw
+RPK20240095,Samuel Iradukunda,f,2003-06-21,0794732453,Software Engineering,Level 5,2024,samuel.iradukunda@rp.ac.rw
+RPK20230096,Samuel Tuyisenge,Female,1998-05-15,0728411519,Civil Engineering,Level 6,2023,samuel.tuyisenge@rp.ac.rw
+RPK20220097,Eric Tuyisenge,F,2005-01-07,0734671259,Computer Science,L4,2022,eric.tuyisenge@rp.ac.rw
+RPK20220098,  Jean Niyibizi  ,f,2004-10-11,0738665053,Computer Science,Level 4,2022,..jean.niyibizi..@rp.ac.rw
+RPK20250099,Sarah Nshimiyimana,,2005-06-10,0738327306,Software Engineering,L4,2025,sarah.nshimiyimana@rp.ac.rw
+RPK20220100,Aline Mugisha,f,2000-01-25,0732782359,Software Engineering,Level 4,2022,aline.mugisha@rp.ac.rw
+RPK20240101,Sarah Niyonzima,Male,2005-02-02,0796608998,Software Engineering,L4,2024,sarah.niyonzima@rp.ac.rw
+RPK20240102,Aline Mugisha,Female,1998-12-05,0781042317,Electronics,Level 4,2024,aline.mugisha@rp.ac.rw
+RPK20230103,Kevine Habimana,f,2004-03-06,0739171339,Computer Science,Level 4,2023,kevine.habimana@rp.ac.rw
+RPK20220104,Patrick Tuyisenge,,2006-07-23,0793720531,CIVIL ENGINEERING,L6,2022,patrick.tuyisenge@rp.ac.rw
+RPK20220105,David Ntawukuriryayo,F,1999-05-25,,Civil Engineering,L4,2022,david.ntawukuriryayo@rp.ac.rw
+RPK20230106,Patrick Niyonzima,M,1999-10-07,0736124333,Computer Science,L6,2023,patrick.niyonzima@rp.ac.rw
+RPK20240107,Diane Kamanzi,f,1999-02-02,0724221268,Information Technology,L6,2024,diane.kamanzi@rp.ac.rw
+RPK20230108,Claude Iradukunda,,2005-02-12,,Information Technology,L5,2023,claude.iradukunda@rp.ac.rw
+RPK20250109,Jean Mukamana,Female,2004-10-20,0728345059,Mechanical Engineering,Level 4,2025,jean.mukamana@rp.ac.rw
+RPK20230110,Grace Gasana,F,2006-07-27,0799139576,Mechanical Engineering,L5,2023,grace.gasana@rp.ac.rw
+RPK20250111,Kevine Uwase,m,2002-09-05,0728106887,Software Engineering,Level 6,2025,kevine.uwase@rp.ac.rw
+RPK20240112,Sarah Kamanzi,M,2003-02-05,0733644403,Computer Science,Level 6,2024,sarah.kamanzi@rp.ac.rw
+RPK20230113,Grace Kamanzi,M,2003-10-10,0797285333,Mechanical Engineering,Level 6,2023,grace.kamanzi@rp.ac.rw
+RPK20230114,Claude Niyonzima,,1999-08-24,0727840569,Computer Science,L4,2023,claude.niyonzima@rp.ac.rw
+RPK20240115,David Tuyisenge,m,2003-08-22,0728348795,Mechanical Engineering,L4,2024,david.tuyisenge@rp.ac.rw
+RPK20230116,Sarah Mukamana,M,2005-04-27,0721285025,Civil Engineering,Level 5,2023,sarah.mukamana@rp.ac.rw
+RPK20220117,Jean Habimana,f,1999-05-17,0729288738,Software Engineering,L4,2022,jean.habimana@rp.ac.rw
+RPK20240118,Marie Niyonzima,Female,2002-05-20,0791470656,Mechanical Engineering,L4,2024,marie.niyonzima@rp.ac.rw
+RPK20240119,Grace Ntawukuriryayo,F,2006-08-07,0795307988,CIVIL ENGINEERING,Level 4,2024,grace.ntawukuriryayo@rp.ac.rw
+RPK20250120,Alice Kamanzi,m,2006-10-28,0795884207,Civil Engineering,Level 6,2025,alice.kamanzi@rp.ac.rw
+RPK20230121,Aline Tuyisenge,,2004-04-05,0734353143,Software Engineering,L5,2023,aline.tuyisenge@rp.ac.rw
+RPK20250122,Kevine Tuyisenge,Male,2001-04-09,0792555106,Information Technology,L5,2025,kevine.tuyisenge@rp.ac.rw
+RPK20220123,kevine nshimiyimana,Female,1998-04-16,0723234347,Software Engineering,Level 4,2022,kevine.nshimiyimana@rp.ac.rw
+RPK20240124,David Mugisha,f,2003-07-27,0735460699,Computer Science,Level 6,2024,david.mugisha@rp.ac.rw
+RPK20240125,David Uwase,F,2004-07-18,0734121532,Software Engineering,L4,2024,david.uwase@rp.ac.rw
+RPK20250126,Patrick Ntawukuriryayo,Male,2004-10-28,0786809923,Electronics,L6,2025,patrick.ntawukuriryayo@rp.ac.rw
+RPK20250127,Eric Tuyisenge,Female,2005-10-02,0735409890,Computer Science,Level 4,2025,eric.tuyisenge@rp.ac.rw
+RPK20240128,Eric Kamanzi,,2006-07-12,0729926399,Electronics,L5,2024,eric.kamanzi@rp.ac.rw
+RPK20220129,  Eric Iradukunda  ,Female,1999-08-04,0798470305,Mechanical Engineering,Level 5,2022,..eric.iradukunda..@rp.ac.rw
+RPK20230130,Grace Kamanzi,Male,2006-04-28,0736301540,Mechanical Engineering,L4,2023,grace.kamanzi@rp.ac.rw
+RPK20240131,Sarah Uwamahoro,,2001-01-16,0789817088,Mechanical Engineering,Level 4,2024,sarah.uwamahoro@rp.ac.rw
+RPK20250132,Eric Niyibizi,m,2005-10-06,0737489131,Mechanical Engineering,L4,2025,eric.niyibizi@rp.ac.rw
+RPK20240133,  Claude Iradukunda  ,,2003-03-04,0794107258,Software Engineering,Level 6,2024,..claude.iradukunda..@rp.ac.rw
+RPK20230134,Aline Uwase,,2001-04-22,0788721494,Civil Engineering,L5,2023,aline.uwase@rp.ac.rw
+RPK20250135,Emmanuel Gasana,Female,1998-12-16,0797211511,Information Technology,L6,2025,emmanuel.gasana@rp.ac.rw
+RPK20230136,Samuel Niyibizi,,2002-06-05,,Civil Engineering,Level 5,2023,samuel.niyibizi@rp.ac.rw
+RPK20230137,Francine Mukamana,Male,2004-11-16,0725352035,Computer Science,L4,2023,francine.mukamana@rp.ac.rw
+RPK20230138,  Claude Gasana  ,m,2004-08-14,0788399213,Information Technology,L5,2023,..claude.gasana..@rp.ac.rw
+RPK20230139,Diane Uwamahoro,f,1999-07-19,0793187325,Electronics,L6,2023,diane.uwamahoro@rp.ac.rw
+RPK20250140,  Samuel Kamanzi  ,f,2001-08-06,0728333165,Computer Science,L6,2025,..samuel.kamanzi..@rp.ac.rw
+RPK20240141,Kevine Ntawukuriryayo,F,1998-04-15,0739866809,Electronics,L5,2024,kevine.ntawukuriryayo@rp.ac.rw
+RPK20230142,JOSEPH IRADUKUNDA,M,2005-08-09,0796689822,Civil Engineering,L4,2023,joseph.iradukunda@rp.ac.rw
+RPK20220143,Eric Habimana,Male,1998-03-15,0782467409,Information Technology,Level 6,2022,eric.habimana@rp.ac.rw
+RPK20250144,Benjamin Nshimiyimana,,2003-07-25,0737065541,Electronics,L6,2025,benjamin.nshimiyimana@rp.ac.rw
+RPK20240145,Claude Uwase,M,2000-12-18,0791440020,Computer Science,Level 4,2024,claude.uwase@rp.ac.rw
+RPK20230146,DIANE MUKAMANA,,2001-02-06,0728738604,Mechanical Engineering,Level 6,2023,diane.mukamana@rp.ac.rw
+RPK20250147,samuel gasana,Male,2004-05-09,0728922809,Civil Engineering,Level 5,2025,samuel.gasana@rp.ac.rw
+RPK20230148,  Patrick Mutabazi  ,f,2004-07-21,0733001236,Mechanical Engineering,Level 6,2023,..patrick.mutabazi..@rp.ac.rw
+RPK20250149,Alice Iradukunda,,2003-11-01,0737399059,Software Engineering,Level 4,2025,alice.iradukunda@rp.ac.rw
+RPK20250150,David Mugisha,,2001-04-22,0739893815,Information Technology,L5,2025,david.mugisha@rp.ac.rw
+RPK20250151,Claude Niyonzima,,2000-06-26,0732896789,Electronics,Level 4,2025,claude.niyonzima@rp.ac.rw
+RPK20240152,Aline Tuyisenge,M,2003-04-25,0782792494,Computer Science,Level 4,2024,aline.tuyisenge@rp.ac.rw
+RPK20240153,Grace Mutabazi,,2001-07-21,0724568166,Civil Engineering,L5,2024,grace.mutabazi@rp.ac.rw
+RPK20240154,Patrick Niyonzima,F,2006-11-10,0782524131,Information Technology,Level 4,2024,patrick.niyonzima@rp.ac.rw
+RPK20250155,Benjamin Habimana,,2006-12-18,0781827802,Information Technology,L6,2025,benjamin.habimana@rp.ac.rw
+RPK20240156,Aline Mugisha,M,2006-05-23,0781806501,Computer Science,Level 4,2024,aline.mugisha@rp.ac.rw
+RPK20220157,Marie Uwase,,2001-07-18,0788208469,MECHANICAL ENGINEERING,L4,2022,marie.uwase@rp.ac.rw
+RPK20220158,Joseph Iradukunda,f,1998-07-14,0793021701,Electronics,Level 6,2022,joseph.iradukunda@rp.ac.rw
+RPK20220159,marie gasana,Female,2006-11-19,0723702717,Mechanical Engineering,Level 6,2022,marie.gasana@rp.ac.rw
+RPK20220160,Diane Niyonzima,,2006-10-25,0786783540,Civil Engineering,L4,2022,diane.niyonzima@rp.ac.rw
+RPK20220161,  Benjamin Mugisha  ,Female,2000-11-24,0799044315,Computer Science,Level 6,2022,..benjamin.mugisha..@rp.ac.rw
+RPK20220162,  Francine Uwase  ,,2000-01-22,0727726819,Mechanical Engineering,Level 5,2022,..francine.uwase..@rp.ac.rw
+RPK20230163,  JOSEPH NIYONZIMA  ,,2000-05-12,,Software Engineering,L5,2023,..joseph.niyonzima..@rp.ac.rw
+RPK20220164,  Benjamin Uwase  ,F,2006-10-26,0726374243,Computer Science,Level 4,2022,..benjamin.uwase..@rp.ac.rw
+RPK20250165,Sarah Ntawukuriryayo,m,1999-04-27,0783202308,Information Technology,Level 5,2025,sarah.ntawukuriryayo@rp.ac.rw
+RPK20230166,aline gasana,m,2005-10-06,0792671200,Computer Science,L4,2023,aline.gasana@rp.ac.rw
+RPK20220167,Joseph Mutabazi,Male,2004-06-28,0727664024,Civil Engineering,L4,2022,joseph.mutabazi@rp.ac.rw
+RPK20250168,Jean Nshimiyimana,,2002-05-10,,Mechanical Engineering,Level 4,2025,jean.nshimiyimana@rp.ac.rw
+RPK20240169,  Benjamin Mukamana  ,,2001-03-19,0737432502,Electronics,Level 5,2024,..benjamin.mukamana..@rp.ac.rw
+RPK20220170,Samuel Kamanzi,Male,2006-10-24,0726250339,Information Technology,L4,2022,samuel.kamanzi@rp.ac.rw
+RPK20240171,Samuel Gasana,Female,2004-06-01,0785917777,Civil Engineering,L4,2024,samuel.gasana@rp.ac.rw
+RPK20240172,Benjamin Kamanzi,f,2004-08-28,0792720595,Mechanical Engineering,Level 5,2024,benjamin.kamanzi@rp.ac.rw
+RPK20250173,David Tuyisenge,F,2002-08-11,0799324861,Electronics,Level 6,2025,david.tuyisenge@rp.ac.rw
+RPK20230174,Alice Tuyisenge,F,2005-11-07,0725965887,Software Engineering,Level 6,2023,alice.tuyisenge@rp.ac.rw
+RPK20230175,Beatrice Uwase,Female,2006-01-10,0782241619,Software Engineering,L5,2023,beatrice.uwase@rp.ac.rw
+RPK20250176,Claude Uwase,Female,2000-11-12,0732461264,Information Technology,Level 5,2025,claude.uwase@rp.ac.rw
+RPK20250177,Claude Mutabazi,,2004-02-21,0784355815,Software Engineering,L4,2025,claude.mutabazi@rp.ac.rw
+RPK20240178,David Uwase,Female,1998-07-22,0728860442,Civil Engineering,Level 6,2024,david.uwase@rp.ac.rw
+RPK20220179,Samuel Tuyisenge,Male,,0799437741,Electronics,Level 5,2022,samuel.tuyisenge@rp.ac.rw
+RPK20240180,Emmanuel Niyonzima,,1999-08-06,0799481150,COMPUTER SCIENCE,L5,2024,emmanuel.niyonzima@rp.ac.rw
+RPK20220181,Emmanuel Niyonzima,M,1998-11-26,0728196598,Software Engineering,L5,2022,emmanuel.niyonzima@rp.ac.rw
+RPK20220182,Diane Ntawukuriryayo,,2002-02-24,0799811244,Information Technology,Level 6,2022,diane.ntawukuriryayo@rp.ac.rw
+RPK20240183,Benjamin Habimana,Male,2006-09-01,0783332315,Computer Science,Level 5,2024,benjamin.habimana@rp.ac.rw
+RPK20240184,Alice Iradukunda,F,2004-10-18,0725419064,Mechanical Engineering,Level 5,2024,alice.iradukunda@rp.ac.rw
+RPK20220185,Grace Uwase,f,2001-12-25,0782073310,Civil Engineering,L5,2022,grace.uwase@rp.ac.rw
+RPK20230186,SARAH NTAWUKURIRYAYO,M,2005-12-15,0788905936,Software Engineering,L5,2023,sarah.ntawukuriryayo@rp.ac.rw
+RPK20250187,  Diane Habimana  ,Female,2001-09-12,,Electronics,L5,2025,..diane.habimana..@rp.ac.rw
+RPK20250188,Beatrice Niyibizi,Male,2005-08-09,0733508724,Electronics,L6,2025,beatrice.niyibizi@rp.ac.rw
+RPK20220189,Grace Mugisha,,1999-07-24,0736402226,Computer Science,L4,2022,grace.mugisha@rp.ac.rw
+RPK20230190,  Sarah Iradukunda  ,F,,0736645609,Civil Engineering,L4,2023,..sarah.iradukunda..@rp.ac.rw
+RPK20220191,FRANCINE GASANA,,2004-10-17,0795713021,Electronics,L5,2022,francine.gasana@rp.ac.rw
+RPK20250192,Claude Tuyisenge,f,2002-06-27,0784405952,Mechanical Engineering,L6,2025,claude.tuyisenge@rp.ac.rw
+RPK20220193,  Samuel Habimana  ,,2001-03-18,0797863354,Mechanical Engineering,Level 5,2022,..samuel.habimana..@rp.ac.rw
+RPK20220194,  Eric Tuyisenge  ,,2005-12-11,0789120718,Information Technology,Level 6,2022,..eric.tuyisenge..@rp.ac.rw
+RPK20250195,Samuel Mutabazi,f,2000-11-20,0787393998,Information Technology,L4,2025,samuel.mutabazi@rp.ac.rw
+RPK20240196,Patrick Mukamana,f,1998-02-28,0799724154,Civil Engineering,L5,2024,patrick.mukamana@rp.ac.rw
+RPK20250197,Marie Gasana,Male,2005-12-26,0783441293,Computer Science,L4,2025,marie.gasana@rp.ac.rw
+RPK20240198,Grace Mukamana,m,2006-05-06,0783092199,Software Engineering,L5,2024,grace.mukamana@rp.ac.rw
+RPK20220199,Benjamin Habimana,m,2004-03-05,0723802718,Software Engineering,Level 4,2022,benjamin.habimana@rp.ac.rw
+RPK20240200,Diane Mutabazi,,2003-07-17,0731188404,Civil Engineering,Level 6,2024,diane.mutabazi@rp.ac.rw
+RPK20220201,Benjamin Niyonzima,Male,2000-06-03,0733948182,Computer Science,L5,2022,benjamin.niyonzima@rp.ac.rw
+RPK20240202,Jean Habimana,Male,2001-05-24,0735892940,Computer Science,Level 4,2024,jean.habimana@rp.ac.rw
+RPK20240203,Samuel Kamanzi,F,2004-05-26,0787331248,Software Engineering,Level 5,2024,samuel.kamanzi@rp.ac.rw
+RPK20250204,Alice Nshimiyimana,Male,2002-06-10,0784407333,Computer Science,L6,2025,alice.nshimiyimana@rp.ac.rw
+RPK20240205,Aline Mukamana,m,2002-05-01,0782829540,Mechanical Engineering,L6,2024,aline.mukamana@rp.ac.rw
+RPK20220206,Grace Niyonzima,f,2005-06-08,0722623464,Information Technology,Level 4,2022,grace.niyonzima@rp.ac.rw
+RPK20240207,Diane Gasana,M,1998-03-05,0723272495,Electronics,L5,2024,diane.gasana@rp.ac.rw
+RPK20230208,JEAN GASANA,Male,2001-05-17,0724793712,Software Engineering,L6,2023,jean.gasana@rp.ac.rw
+RPK20240209,Aline Uwamahoro,m,2003-01-09,0734462897,Mechanical Engineering,Level 4,2024,aline.uwamahoro@rp.ac.rw
+RPK20220210,Samuel Ntawukuriryayo,,2005-08-03,0734266837,Civil Engineering,Level 6,2022,samuel.ntawukuriryayo@rp.ac.rw
+RPK20230211,Diane Niyonzima,m,2000-04-25,0794916555,Electronics,L5,2023,diane.niyonzima@rp.ac.rw
+RPK20220212,Eric Uwase,m,1999-04-06,0798022499,Computer Science,L6,2022,eric.uwase@rp.ac.rw
+RPK20250213,Benjamin Habimana,,2002-08-10,0721231101,Software Engineering,L5,2025,benjamin.habimana@rp.ac.rw
+RPK20250214,Jean Ntawukuriryayo,,2002-07-05,0735372553,Information Technology,L5,2025,jean.ntawukuriryayo@rp.ac.rw
+RPK20230215,Joseph Niyonzima,F,2003-05-03,0796133130,Mechanical Engineering,Level 5,2023,joseph.niyonzima@rp.ac.rw
+RPK20250216,Aline Niyonzima,F,1999-12-18,0782490011,Information Technology,L4,2025,aline.niyonzima@rp.ac.rw
+RPK20240217,Sarah Nshimiyimana,Male,2006-04-27,0781818780,Computer Science,Level 5,2024,sarah.nshimiyimana@rp.ac.rw
+RPK20250218,Beatrice Gasana,,1999-09-16,,Mechanical Engineering,Level 5,2025,beatrice.gasana@rp.ac.rw
+RPK20250219,Joseph Tuyisenge,m,2002-12-03,0799598759,Information Technology,Level 4,2025,joseph.tuyisenge@rp.ac.rw
+RPK20230220,Grace Niyonzima,,2002-01-16,0724579012,Software Engineering,Level 5,2023,grace.niyonzima@rp.ac.rw
+RPK20220221,Jean Tuyisenge,Female,2004-01-27,0735564090,Computer Science,Level 6,2022,jean.tuyisenge@rp.ac.rw
+RPK20230222,Emmanuel Ntawukuriryayo,m,1999-10-27,0792171659,Computer Science,L4,2023,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20230223,Joseph Uwamahoro,,2005-05-05,0737888655,ELECTRONICS,Level 4,2023,joseph.uwamahoro@rp.ac.rw
+RPK20220224,Sarah Nshimiyimana,m,2003-01-16,0791402661,Computer Science,Level 5,2022,sarah.nshimiyimana@rp.ac.rw
+RPK20240225,Grace Kamanzi,,2004-11-01,0783021721,Software Engineering,L4,2024,grace.kamanzi@rp.ac.rw
+RPK20250226,Benjamin Uwase,Female,2001-01-16,0786195654,Software Engineering,L4,2025,benjamin.uwase@rp.ac.rw
+RPK20240227,Grace Habimana,F,2006-07-25,0732751870,Civil Engineering,Level 4,2024,grace.habimana@rp.ac.rw
+RPK20240228,Diane Uwase,Male,2005-05-09,0733589882,INFORMATION TECHNOLOGY,L4,2024,diane.uwase@rp.ac.rw
+RPK20250229,Emmanuel Uwamahoro,M,2006-06-12,0793447022,Civil Engineering,L6,2025,emmanuel.uwamahoro@rp.ac.rw
+RPK20230230,Francine Uwamahoro,Male,2002-08-20,0728853644,Civil Engineering,L5,2023,francine.uwamahoro@rp.ac.rw
+RPK20240231,Claude Niyonzima,,2004-11-24,0781973127,Information Technology,Level 4,2024,claude.niyonzima@rp.ac.rw
+RPK20250232,Francine Uwamahoro,Female,2001-08-08,0781157554,Electronics,L5,2025,francine.uwamahoro@rp.ac.rw
+RPK20220233,Benjamin Niyibizi,,1998-11-11,0722144045,Civil Engineering,Level 5,2022,benjamin.niyibizi@rp.ac.rw
+RPK20250234,Aline Mugisha,,2004-10-17,0738857311,Information Technology,Level 6,2025,aline.mugisha@rp.ac.rw
+RPK20250235,Samuel Uwamahoro,m,2004-02-11,0787588551,Civil Engineering,L4,2025,samuel.uwamahoro@rp.ac.rw
+RPK20230236,  Emmanuel Kamanzi  ,,,0736512313,Mechanical Engineering,Level 4,2023,..emmanuel.kamanzi..@rp.ac.rw
+RPK20230237,Emmanuel Kamanzi,f,1999-08-09,0794409429,Information Technology,L5,2023,emmanuel.kamanzi@rp.ac.rw
+RPK20220238,Benjamin Uwamahoro,,2003-03-20,0737888822,Electronics,Level 6,2022,benjamin.uwamahoro@rp.ac.rw
+RPK20220239,Benjamin Niyibizi,f,2006-04-18,0783373341,Software Engineering,Level 6,2022,benjamin.niyibizi@rp.ac.rw
+RPK20220240,Patrick Ntawukuriryayo,m,1998-04-21,0792539320,Civil Engineering,L4,2022,patrick.ntawukuriryayo@rp.ac.rw
+RPK20250241,Alice Mutabazi,Female,2004-06-12,0783418066,Mechanical Engineering,Level 5,2025,alice.mutabazi@rp.ac.rw
+RPK20230242,Francine Gasana,Female,,0786255167,COMPUTER SCIENCE,L4,2023,francine.gasana@rp.ac.rw
+RPK20220243,Samuel Kamanzi,M,2002-01-17,0723481432,Mechanical Engineering,L6,2022,samuel.kamanzi@rp.ac.rw
+RPK20250244,Grace Niyibizi,m,2005-02-09,0797057928,Mechanical Engineering,L4,2025,grace.niyibizi@rp.ac.rw
+RPK20240245,Emmanuel Niyibizi,m,2005-08-19,0737825056,Information Technology,L6,2024,emmanuel.niyibizi@rp.ac.rw
+RPK20220246,Diane Mukamana,f,2004-07-09,0781400040,Computer Science,Level 5,2022,diane.mukamana@rp.ac.rw
+RPK20220247,Jean Iradukunda,Male,1998-12-05,0781749511,SOFTWARE ENGINEERING,Level 6,2022,jean.iradukunda@rp.ac.rw
+RPK20250248,Francine Uwase,M,2004-06-05,0798928504,Mechanical Engineering,L5,2025,francine.uwase@rp.ac.rw
+RPK20230249,Benjamin Mukamana,F,2005-01-12,0726887750,Electronics,Level 6,2023,benjamin.mukamana@rp.ac.rw
+RPK20220250,Marie Nshimiyimana,F,2000-11-12,0789300345,Electronics,Level 5,2022,marie.nshimiyimana@rp.ac.rw
+RPK20240251,ALICE MUKAMANA,Male,2006-01-21,0729717618,Computer Science,Level 6,2024,alice.mukamana@rp.ac.rw
+RPK20250252,Alice Nshimiyimana,,1998-10-06,0788585012,Electronics,Level 6,2025,alice.nshimiyimana@rp.ac.rw
+RPK20250253,Francine Uwamahoro,Female,2004-04-07,0725550341,Information Technology,L4,2025,francine.uwamahoro@rp.ac.rw
+RPK20220254,Grace Uwase,,2000-07-06,0722153216,Electronics,Level 6,2022,grace.uwase@rp.ac.rw
+RPK20230255,Samuel Uwamahoro,f,,0732357652,Information Technology,Level 6,2023,samuel.uwamahoro@rp.ac.rw
+RPK20250256,Francine Ntawukuriryayo,,2002-06-27,0727712104,Computer Science,L5,2025,francine.ntawukuriryayo@rp.ac.rw
+RPK20220257,GRACE UWASE,M,2005-10-04,0733795164,Information Technology,L5,2022,grace.uwase@rp.ac.rw
+RPK20250258,patrick gasana,F,2001-04-28,0736141842,COMPUTER SCIENCE,L4,2025,patrick.gasana@rp.ac.rw
+RPK20220259,David Gasana,M,2000-09-11,0727186519,Electronics,L5,2022,david.gasana@rp.ac.rw
+RPK20230260,Emmanuel Ntawukuriryayo,,2005-11-07,0732815632,Mechanical Engineering,Level 4,2023,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20230261,david iradukunda,m,2003-08-10,0725383829,Electronics,Level 6,2023,david.iradukunda@rp.ac.rw
+RPK20240262,Diane Tuyisenge,Male,1998-07-08,,Computer Science,Level 6,2024,diane.tuyisenge@rp.ac.rw
+RPK20250263,Eric Mukamana,,2002-08-27,0734737410,Civil Engineering,L6,2025,eric.mukamana@rp.ac.rw
+RPK20220264,Jean Niyonzima,f,2001-08-24,0793501205,Electronics,Level 6,2022,jean.niyonzima@rp.ac.rw
+RPK20230265,Eric Habimana,M,2005-11-02,0797992546,COMPUTER SCIENCE,L4,2023,eric.habimana@rp.ac.rw
+RPK20240266,  Grace Uwase  ,f,1998-08-12,0795935035,Electronics,L6,2024,..grace.uwase..@rp.ac.rw
+RPK20220267,  Alice Gasana  ,m,2006-12-18,0733154889,Information Technology,L6,2022,..alice.gasana..@rp.ac.rw
+RPK20220268,Grace Mukamana,m,1998-09-10,0788443246,Mechanical Engineering,L4,2022,grace.mukamana@rp.ac.rw
+RPK20250269,  Benjamin Niyibizi  ,F,2006-09-28,0793602122,Mechanical Engineering,Level 4,2025,..benjamin.niyibizi..@rp.ac.rw
+RPK20240270,Emmanuel Uwase,,2003-08-27,0725085222,Electronics,Level 6,2024,emmanuel.uwase@rp.ac.rw
+RPK20250271,Aline Uwase,Female,2001-08-04,0784792999,Information Technology,Level 4,2025,aline.uwase@rp.ac.rw
+RPK20220272,David Uwase,Male,2006-05-11,0799073278,Information Technology,Level 4,2022,david.uwase@rp.ac.rw
+RPK20240273,Grace Uwase,M,2006-11-14,0738076598,Mechanical Engineering,Level 6,2024,grace.uwase@rp.ac.rw
+RPK20250274,  Grace Gasana  ,M,1998-08-23,0722968054,Computer Science,Level 5,2025,..grace.gasana..@rp.ac.rw
+RPK20230275,grace mugisha,Female,2003-06-05,0737203223,Electronics,L6,2023,grace.mugisha@rp.ac.rw
+RPK20240276,Kevine Uwamahoro,Male,,0736814224,Software Engineering,Level 5,2024,kevine.uwamahoro@rp.ac.rw
+RPK20230277,Sarah Uwamahoro,m,1999-11-16,0731923147,Software Engineering,L4,2023,sarah.uwamahoro@rp.ac.rw
+RPK20220278,  Kevine Uwase  ,Male,2005-10-26,0732706983,Electronics,Level 5,2022,..kevine.uwase..@rp.ac.rw
+RPK20230279,Jean Gasana,,1999-01-09,0736432261,Mechanical Engineering,L6,2023,jean.gasana@rp.ac.rw
+RPK20250280,Samuel Iradukunda,f,2003-12-15,0734628249,Software Engineering,L6,2025,samuel.iradukunda@rp.ac.rw
+RPK20240281,Beatrice Niyonzima,F,,0789101764,Software Engineering,Level 4,2024,beatrice.niyonzima@rp.ac.rw
+RPK20240282,Eric Uwase,f,2006-07-12,0791230535,Civil Engineering,Level 6,2024,eric.uwase@rp.ac.rw
+RPK20220283,Grace Mugisha,Female,2005-07-07,0797286744,Mechanical Engineering,L6,2022,grace.mugisha@rp.ac.rw
+RPK20220284,Kevine Niyonzima,Male,1999-06-11,,Electronics,Level 4,2022,kevine.niyonzima@rp.ac.rw
+RPK20220285,Eric Uwase,F,2002-01-04,0734643777,MECHANICAL ENGINEERING,Level 5,2022,eric.uwase@rp.ac.rw
+RPK20230286,Alice Mukamana,M,2003-10-18,0739261054,Information Technology,L4,2023,alice.mukamana@rp.ac.rw
+RPK20220287,Eric Uwase,F,2001-03-11,0797732712,Information Technology,Level 4,2022,eric.uwase@rp.ac.rw
+RPK20220288,David Habimana,,1998-12-16,0737019644,ELECTRONICS,Level 5,2022,david.habimana@rp.ac.rw
+RPK20220289,Diane Mukamana,Female,1998-07-05,0737475544,Information Technology,Level 6,2022,diane.mukamana@rp.ac.rw
+RPK20220290,Jean Iradukunda,,1999-03-14,0792540798,Civil Engineering,Level 6,2022,jean.iradukunda@rp.ac.rw
+RPK20220291,Samuel Mukamana,f,2000-12-20,,Mechanical Engineering,Level 6,2022,samuel.mukamana@rp.ac.rw
+RPK20250292,Alice Niyonzima,,2000-08-06,,Computer Science,Level 4,2025,alice.niyonzima@rp.ac.rw
+RPK20230293,Francine Habimana,f,1998-10-14,0799199714,Electronics,L5,2023,francine.habimana@rp.ac.rw
+RPK20240294,Aline Uwase,M,2003-11-09,0799834178,Information Technology,L5,2024,aline.uwase@rp.ac.rw
+RPK20240295,MARIE IRADUKUNDA,Female,1999-03-21,0732975889,Information Technology,Level 5,2024,marie.iradukunda@rp.ac.rw
+RPK20240296,  Benjamin Iradukunda  ,M,1998-03-25,0787393416,Software Engineering,Level 6,2024,..benjamin.iradukunda..@rp.ac.rw
+RPK20220297,EMMANUEL TUYISENGE,f,,0735776121,Information Technology,L5,2022,emmanuel.tuyisenge@rp.ac.rw
+RPK20240298,Diane Gasana,Female,1999-12-26,0786063970,Computer Science,Level 6,2024,diane.gasana@rp.ac.rw
+RPK20250299,Grace Habimana,M,2003-08-28,0736455849,Information Technology,L5,2025,grace.habimana@rp.ac.rw
+RPK20240300,claude mukamana,Female,2002-07-12,0799189663,Information Technology,L5,2024,claude.mukamana@rp.ac.rw
+RPK20220301,Patrick Niyibizi,M,2006-12-10,0782523136,Software Engineering,Level 5,2022,patrick.niyibizi@rp.ac.rw
+RPK20220302,Diane Kamanzi,f,2006-12-23,0735970750,Mechanical Engineering,Level 6,2022,diane.kamanzi@rp.ac.rw
+RPK20250303,Francine Habimana,M,2000-08-28,0795294836,Information Technology,Level 5,2025,francine.habimana@rp.ac.rw
+RPK20240304,Patrick Niyonzima,F,2001-10-10,,Mechanical Engineering,L4,2024,patrick.niyonzima@rp.ac.rw
+RPK20230305,Kevine Mutabazi,,1998-05-21,,Electronics,Level 4,2023,kevine.mutabazi@rp.ac.rw
+RPK20240306,Diane Tuyisenge,F,2001-03-09,0733733199,Mechanical Engineering,Level 4,2024,diane.tuyisenge@rp.ac.rw
+RPK20250307,  Eric Iradukunda  ,f,2000-07-05,0785552296,Mechanical Engineering,L4,2025,..eric.iradukunda..@rp.ac.rw
+RPK20230308,joseph mugisha,f,2006-09-19,0734858310,Computer Science,L5,2023,joseph.mugisha@rp.ac.rw
+RPK20240309,Joseph Mugisha,Male,2004-11-26,0787098265,Civil Engineering,Level 6,2024,joseph.mugisha@rp.ac.rw
+RPK20220310,  Emmanuel Niyibizi  ,Male,1999-11-17,0793247478,Software Engineering,L5,2022,..emmanuel.niyibizi..@rp.ac.rw
+RPK20230311,Grace Niyonzima,,2005-11-20,0733234802,Electronics,L4,2023,grace.niyonzima@rp.ac.rw
+RPK20240312,Kevine Uwase,f,2005-09-18,0726407072,Computer Science,Level 5,2024,kevine.uwase@rp.ac.rw
+RPK20230313,David Habimana,Female,2002-02-21,0799543319,Software Engineering,L6,2023,david.habimana@rp.ac.rw
+RPK20220314,Grace Iradukunda,Female,2002-10-28,0723422478,Computer Science,Level 6,2022,grace.iradukunda@rp.ac.rw
+RPK20240315,Samuel Gasana,Female,2004-11-04,0727847776,Software Engineering,L6,2024,samuel.gasana@rp.ac.rw
+RPK20220316,Jean Gasana,Male,2006-12-03,0738087989,COMPUTER SCIENCE,L4,2022,jean.gasana@rp.ac.rw
+RPK20230317,Claude Mukamana,,2002-03-28,0794621104,Civil Engineering,L4,2023,claude.mukamana@rp.ac.rw
+RPK20220318,Jean Niyibizi,f,2001-03-28,0792851389,Software Engineering,Level 5,2022,jean.niyibizi@rp.ac.rw
+RPK20220319,Sarah Iradukunda,M,1998-11-16,0735083040,Computer Science,L6,2022,sarah.iradukunda@rp.ac.rw
+RPK20230320,FRANCINE MUKAMANA,f,2001-03-20,0787287479,Computer Science,L4,2023,francine.mukamana@rp.ac.rw
+RPK20230321,  Diane Uwamahoro  ,f,2006-01-09,0788752511,Civil Engineering,Level 4,2023,..diane.uwamahoro..@rp.ac.rw
+RPK20240322,ERIC NTAWUKURIRYAYO,,2004-12-14,0724508319,Information Technology,Level 6,2024,eric.ntawukuriryayo@rp.ac.rw
+RPK20250323,diane nshimiyimana,,2002-02-16,0731604470,Civil Engineering,Level 6,2025,diane.nshimiyimana@rp.ac.rw
+RPK20240324,  Kevine Uwase  ,,1998-04-06,0727275672,Information Technology,L4,2024,..kevine.uwase..@rp.ac.rw
+RPK20250325,Beatrice Kamanzi,f,1999-03-11,0781202992,ELECTRONICS,L6,2025,beatrice.kamanzi@rp.ac.rw
+RPK20230326,Grace Kamanzi,Male,1998-08-15,0783029686,Software Engineering,L5,2023,grace.kamanzi@rp.ac.rw
+RPK20230327,Francine Niyibizi,m,2002-01-04,0795570405,Computer Science,L5,2023,francine.niyibizi@rp.ac.rw
+RPK20240328,Francine Iradukunda,Female,2001-12-25,0798765858,Information Technology,Level 6,2024,francine.iradukunda@rp.ac.rw
+RPK20230329,MARIE HABIMANA,Male,1999-07-10,0737598994,Electronics,L5,2023,marie.habimana@rp.ac.rw
+RPK20230330,Samuel Niyibizi,f,2002-11-20,0787839609,Computer Science,Level 4,2023,samuel.niyibizi@rp.ac.rw
+RPK20220331,Sarah Ntawukuriryayo,F,2006-12-18,0784979146,Mechanical Engineering,L6,2022,sarah.ntawukuriryayo@rp.ac.rw
+RPK20230332,Benjamin Gasana,f,2003-09-21,0721566242,Information Technology,L5,2023,benjamin.gasana@rp.ac.rw
+RPK20220333,Patrick Gasana,Male,2004-06-19,0798066937,Software Engineering,L5,2022,patrick.gasana@rp.ac.rw
+RPK20240334,Grace Mukamana,Male,1998-11-04,0791122774,Civil Engineering,Level 5,2024,grace.mukamana@rp.ac.rw
+RPK20240335,Joseph Mugisha,,1998-10-28,0784240301,Software Engineering,L4,2024,joseph.mugisha@rp.ac.rw
+RPK20240336,David Nshimiyimana,,2000-02-19,,Mechanical Engineering,Level 5,2024,david.nshimiyimana@rp.ac.rw
+RPK20250337,Beatrice Mukamana,M,1998-05-04,0797352462,Mechanical Engineering,Level 6,2025,beatrice.mukamana@rp.ac.rw
+RPK20250338,  Patrick Uwase  ,F,2001-08-04,,Information Technology,L4,2025,..patrick.uwase..@rp.ac.rw
+RPK20230339,Alice Habimana,Male,1998-07-09,0726713356,Electronics,Level 6,2023,alice.habimana@rp.ac.rw
+RPK20230340,Francine Mugisha,F,1998-12-22,0731921568,Electronics,Level 4,2023,francine.mugisha@rp.ac.rw
+RPK20240341,Sarah Iradukunda,f,2000-09-21,,Software Engineering,L6,2024,sarah.iradukunda@rp.ac.rw
+RPK20240342,Eric Nshimiyimana,M,2004-08-06,0725185309,Computer Science,L5,2024,eric.nshimiyimana@rp.ac.rw
+RPK20220343,Claude Uwase,m,1998-06-08,0723989828,Electronics,L6,2022,claude.uwase@rp.ac.rw
+RPK20250344,Claude Ntawukuriryayo,Female,,0789387475,Civil Engineering,Level 4,2025,claude.ntawukuriryayo@rp.ac.rw
+RPK20230345,Claude Nshimiyimana,,1998-02-10,0721961665,Computer Science,Level 6,2023,claude.nshimiyimana@rp.ac.rw
+RPK20240346,  Marie Iradukunda  ,m,1999-04-07,0738303257,Civil Engineering,L5,2024,..marie.iradukunda..@rp.ac.rw
+RPK20250347,Eric Iradukunda,m,2006-10-21,,Civil Engineering,L6,2025,eric.iradukunda@rp.ac.rw
+RPK20220348,Patrick Mutabazi,,2005-04-25,,Mechanical Engineering,L5,2022,patrick.mutabazi@rp.ac.rw
+RPK20230349,Beatrice Tuyisenge,m,2005-04-05,0731477588,Mechanical Engineering,Level 5,2023,beatrice.tuyisenge@rp.ac.rw
+RPK20240350,samuel uwamahoro,M,1998-10-27,0738236785,Information Technology,Level 4,2024,samuel.uwamahoro@rp.ac.rw
+RPK20250351,Aline Ntawukuriryayo,f,2006-02-03,0793525936,INFORMATION TECHNOLOGY,L4,2025,aline.ntawukuriryayo@rp.ac.rw
+RPK20240352,David Mutabazi,Male,2005-07-14,0721155068,Mechanical Engineering,L4,2024,david.mutabazi@rp.ac.rw
+RPK20220353,  SARAH KAMANZI  ,Female,2002-09-07,0782782767,Civil Engineering,L5,2022,..sarah.kamanzi..@rp.ac.rw
+RPK20220354,  Sarah Iradukunda  ,F,2006-08-09,0725288716,Computer Science,L4,2022,..sarah.iradukunda..@rp.ac.rw
+RPK20250355,Alice Mukamana,f,2002-12-13,0736377489,Software Engineering,Level 5,2025,alice.mukamana@rp.ac.rw
+RPK20230356,Alice Uwamahoro,Male,2005-07-10,0724738744,Computer Science,Level 4,2023,alice.uwamahoro@rp.ac.rw
+RPK20220357,Beatrice Mugisha,F,1998-10-21,0738910966,Information Technology,Level 5,2022,beatrice.mugisha@rp.ac.rw
+RPK20220358,Grace Mukamana,m,2003-01-13,0731748808,Mechanical Engineering,L5,2022,grace.mukamana@rp.ac.rw
+RPK20250359,Francine Mutabazi,Female,2003-12-01,0735028953,Electronics,Level 5,2025,francine.mutabazi@rp.ac.rw
+RPK20230360,Samuel Mukamana,m,2005-11-08,0794700839,Computer Science,Level 4,2023,samuel.mukamana@rp.ac.rw
+RPK20250361,Patrick Tuyisenge,F,2006-12-21,0724057142,Software Engineering,L4,2025,patrick.tuyisenge@rp.ac.rw
+RPK20220362,Jean Niyibizi,F,,0797255196,Software Engineering,L4,2022,jean.niyibizi@rp.ac.rw
+RPK20230363,Kevine Tuyisenge,m,2002-02-23,0727488619,Software Engineering,Level 6,2023,kevine.tuyisenge@rp.ac.rw
+RPK20230364,Aline Iradukunda,Male,1999-06-11,0738050518,Mechanical Engineering,Level 4,2023,aline.iradukunda@rp.ac.rw
+RPK20220365,Kevine Habimana,m,2003-07-13,0734811810,Computer Science,L4,2022,kevine.habimana@rp.ac.rw
+RPK20220366,grace uwase,,2000-12-09,0731297720,Electronics,Level 6,2022,grace.uwase@rp.ac.rw
+RPK20250367,Benjamin Niyonzima,Male,2004-08-12,0734907788,SOFTWARE ENGINEERING,L6,2025,benjamin.niyonzima@rp.ac.rw
+RPK20250368,Sarah Niyibizi,f,2003-06-25,0788036533,Civil Engineering,L5,2025,sarah.niyibizi@rp.ac.rw
+RPK20220369,JEAN MUTABAZI,M,2001-06-23,0722749063,Software Engineering,L5,2022,jean.mutabazi@rp.ac.rw
+RPK20220370,  Patrick Niyibizi  ,,1998-12-19,0731177774,Mechanical Engineering,Level 4,2022,..patrick.niyibizi..@rp.ac.rw
+RPK20250371,David Uwamahoro,,2003-11-28,0728802332,Information Technology,Level 4,2025,david.uwamahoro@rp.ac.rw
+RPK20220372,Beatrice Uwamahoro,f,2004-04-06,0735502883,Electronics,L6,2022,beatrice.uwamahoro@rp.ac.rw
+RPK20250373,  Patrick Ntawukuriryayo  ,F,2006-10-22,0792798737,Software Engineering,L6,2025,..patrick.ntawukuriryayo..@rp.ac.rw
+RPK20250374,Samuel Mukamana,,2002-03-08,0725171726,Computer Science,Level 5,2025,samuel.mukamana@rp.ac.rw
+RPK20240375,Benjamin Tuyisenge,,2003-05-17,0738924766,COMPUTER SCIENCE,Level 5,2024,benjamin.tuyisenge@rp.ac.rw
+RPK20240376,Francine Niyibizi,,,0732194801,Information Technology,L6,2024,francine.niyibizi@rp.ac.rw
+RPK20250377,Jean Iradukunda,,2005-08-28,0734777104,CIVIL ENGINEERING,Level 6,2025,jean.iradukunda@rp.ac.rw
+RPK20250378,Claude Uwamahoro,F,2004-12-15,0788803579,Information Technology,Level 6,2025,claude.uwamahoro@rp.ac.rw
+RPK20250379,Diane Kamanzi,,2002-10-05,0799420907,Computer Science,Level 6,2025,diane.kamanzi@rp.ac.rw
+RPK20220380,David Uwamahoro,,2002-07-22,0723294467,Computer Science,Level 4,2022,david.uwamahoro@rp.ac.rw
+RPK20230381,  Kevine Niyibizi  ,,,0794602478,Mechanical Engineering,L6,2023,..kevine.niyibizi..@rp.ac.rw
+RPK20250382,Patrick Uwamahoro,F,2002-02-07,0788486049,Computer Science,Level 6,2025,patrick.uwamahoro@rp.ac.rw
+RPK20250383,Grace Uwase,,2002-09-06,0787614775,Information Technology,L5,2025,grace.uwase@rp.ac.rw
+RPK20250384,Francine Uwase,Female,2002-04-23,0724910363,INFORMATION TECHNOLOGY,L6,2025,francine.uwase@rp.ac.rw
+RPK20230385,  Benjamin Niyibizi  ,F,2005-01-06,,Civil Engineering,L6,2023,..benjamin.niyibizi..@rp.ac.rw
+RPK20220386,Claude Mugisha,m,2006-12-22,0721229114,INFORMATION TECHNOLOGY,L5,2022,claude.mugisha@rp.ac.rw
+RPK20230387,  Francine Nshimiyimana  ,F,1999-05-22,0799032616,Software Engineering,Level 5,2023,..francine.nshimiyimana..@rp.ac.rw
+RPK20240388,David Kamanzi,Female,2000-06-08,0791171041,Software Engineering,L6,2024,david.kamanzi@rp.ac.rw
+RPK20220389,Emmanuel Kamanzi,m,,0738166928,Mechanical Engineering,Level 6,2022,emmanuel.kamanzi@rp.ac.rw
+RPK20220390,Sarah Niyibizi,f,2006-06-28,0784633922,Civil Engineering,Level 6,2022,sarah.niyibizi@rp.ac.rw
+RPK20230391,Joseph Tuyisenge,,2006-02-10,0794445651,Civil Engineering,L6,2023,joseph.tuyisenge@rp.ac.rw
+RPK20250392,Claude Mugisha,,2004-01-15,0739262755,Software Engineering,Level 6,2025,claude.mugisha@rp.ac.rw
+RPK20220393,Eric Ntawukuriryayo,Male,,0789830532,Computer Science,Level 5,2022,eric.ntawukuriryayo@rp.ac.rw
+RPK20230394,Claude Mugisha,Male,2006-02-27,,Electronics,L4,2023,claude.mugisha@rp.ac.rw
+RPK20250395,  Claude Uwamahoro  ,m,2003-07-08,0737968885,Mechanical Engineering,Level 5,2025,..claude.uwamahoro..@rp.ac.rw
+RPK20220396,Aline Nshimiyimana,m,2002-06-04,0784229467,Software Engineering,Level 4,2022,aline.nshimiyimana@rp.ac.rw
+RPK20240397,Grace Niyibizi,M,1998-03-18,0722643853,Computer Science,L6,2024,grace.niyibizi@rp.ac.rw
+RPK20240398,Aline Uwamahoro,f,2005-10-05,0737329657,Mechanical Engineering,Level 6,2024,aline.uwamahoro@rp.ac.rw
+RPK20230399,Claude Mukamana,M,1999-08-10,0794041515,Civil Engineering,L6,2023,claude.mukamana@rp.ac.rw
+RPK20240400,Jean Mukamana,,2003-07-13,0732707379,Mechanical Engineering,L6,2024,jean.mukamana@rp.ac.rw
+RPK20230401,David Habimana,f,2006-09-02,0786469394,ELECTRONICS,L6,2023,david.habimana@rp.ac.rw
+RPK20240402,Alice Niyonzima,f,2006-09-06,0791606178,Information Technology,L4,2024,alice.niyonzima@rp.ac.rw
+RPK20220403,Benjamin Kamanzi,F,2005-05-13,0729829513,Software Engineering,L5,2022,benjamin.kamanzi@rp.ac.rw
+RPK20250404,Joseph Uwamahoro,M,2003-10-17,0722964579,Computer Science,Level 5,2025,joseph.uwamahoro@rp.ac.rw
+RPK20220405,David Mutabazi,F,,,Information Technology,Level 4,2022,david.mutabazi@rp.ac.rw
+RPK20240406,Benjamin Uwase,,1999-09-22,0784713010,Computer Science,Level 6,2024,benjamin.uwase@rp.ac.rw
+RPK20230407,marie mukamana,M,,0781372007,Mechanical Engineering,Level 5,2023,marie.mukamana@rp.ac.rw
+RPK20250408,  Claude Mugisha  ,Male,2004-05-05,0797058350,Civil Engineering,Level 4,2025,..claude.mugisha..@rp.ac.rw
+RPK20240409,Kevine Mugisha,Female,2002-07-07,0734998203,MECHANICAL ENGINEERING,L5,2024,kevine.mugisha@rp.ac.rw
+RPK20230410,Diane Uwase,Female,2005-06-10,0722838485,Computer Science,Level 4,2023,diane.uwase@rp.ac.rw
+RPK20240411,Marie Mutabazi,m,2005-02-12,0726618532,Mechanical Engineering,L4,2024,marie.mutabazi@rp.ac.rw
+RPK20240412,Emmanuel Niyibizi,M,2004-06-27,0783600139,COMPUTER SCIENCE,L5,2024,emmanuel.niyibizi@rp.ac.rw
+RPK20250413,Eric Niyonzima,f,2000-07-23,0734282184,Electronics,Level 5,2025,eric.niyonzima@rp.ac.rw
+RPK20250414,Samuel Mukamana,Female,1998-11-25,0729730575,MECHANICAL ENGINEERING,L6,2025,samuel.mukamana@rp.ac.rw
+RPK20240415,marie tuyisenge,F,2005-10-04,0738305341,Mechanical Engineering,L6,2024,marie.tuyisenge@rp.ac.rw
+RPK20220416,Aline Kamanzi,,1998-06-21,0796394101,Computer Science,Level 6,2022,aline.kamanzi@rp.ac.rw
+RPK20240417,david niyibizi,,2001-08-18,0789875790,Software Engineering,L6,2024,david.niyibizi@rp.ac.rw
+RPK20240418,Jean Nshimiyimana,Female,2002-06-15,0736907127,Information Technology,Level 6,2024,jean.nshimiyimana@rp.ac.rw
+RPK20220419,Alice Gasana,Male,1999-10-23,0785118725,Electronics,Level 6,2022,alice.gasana@rp.ac.rw
+RPK20230420,ALICE KAMANZI,Female,2006-09-24,0799791385,Electronics,L4,2023,alice.kamanzi@rp.ac.rw
+RPK20250421,Emmanuel Uwamahoro,f,2001-08-08,0738743753,Information Technology,L5,2025,emmanuel.uwamahoro@rp.ac.rw
+RPK20220422,David Gasana,,2002-10-06,0791903816,Software Engineering,L5,2022,david.gasana@rp.ac.rw
+RPK20250423,Grace Iradukunda,m,2003-05-16,0789431500,Mechanical Engineering,L5,2025,grace.iradukunda@rp.ac.rw
+RPK20230424,Beatrice Mukamana,,2004-01-06,0795850912,Information Technology,Level 4,2023,beatrice.mukamana@rp.ac.rw
+RPK20220425,Jean Nshimiyimana,,2005-04-06,0795778282,Software Engineering,L6,2022,jean.nshimiyimana@rp.ac.rw
+RPK20230426,Kevine Uwamahoro,F,1998-07-28,0737905427,Information Technology,Level 5,2023,kevine.uwamahoro@rp.ac.rw
+RPK20220427,ERIC MUTABAZI,,2006-08-18,0785168512,Software Engineering,L4,2022,eric.mutabazi@rp.ac.rw
+RPK20230428,Patrick Gasana,,2006-08-25,0739063051,Mechanical Engineering,L5,2023,patrick.gasana@rp.ac.rw
+RPK20240429,Francine Habimana,M,2000-12-07,0733327325,Civil Engineering,L4,2024,francine.habimana@rp.ac.rw
+RPK20220430,Marie Mukamana,m,1999-02-13,0726814047,Electronics,L5,2022,marie.mukamana@rp.ac.rw
+RPK20250431,  Emmanuel Niyibizi  ,f,2004-09-10,0735111337,Computer Science,L6,2025,..emmanuel.niyibizi..@rp.ac.rw
+RPK20230432,  Eric Habimana  ,f,2006-03-18,0792763911,Electronics,Level 4,2023,..eric.habimana..@rp.ac.rw
+RPK20230433,Alice Habimana,Female,2006-06-02,0798092409,Civil Engineering,Level 6,2023,alice.habimana@rp.ac.rw
+RPK20250434,Aline Kamanzi,M,1999-10-09,0791789953,Mechanical Engineering,L4,2025,aline.kamanzi@rp.ac.rw
+RPK20220435,Benjamin Habimana,M,2003-08-16,0731468088,Information Technology,L4,2022,benjamin.habimana@rp.ac.rw
+RPK20250436,Diane Uwamahoro,F,2004-06-14,0783261186,Mechanical Engineering,L4,2025,diane.uwamahoro@rp.ac.rw
+RPK20230437,Patrick Mugisha,,2002-01-02,0793620517,Electronics,L4,2023,patrick.mugisha@rp.ac.rw
+RPK20240438,  Sarah Niyibizi  ,m,2005-09-27,0739384393,Information Technology,Level 4,2024,..sarah.niyibizi..@rp.ac.rw
+RPK20250439,Claude Tuyisenge,f,,0789394945,Information Technology,Level 6,2025,claude.tuyisenge@rp.ac.rw
+RPK20230440,Francine Mutabazi,F,2000-03-11,0725652879,Computer Science,L4,2023,francine.mutabazi@rp.ac.rw
+RPK20220441,Emmanuel Ntawukuriryayo,M,2005-12-14,0799486044,Software Engineering,L4,2022,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20220442,  Sarah Mugisha  ,m,2004-11-08,0785377826,Electronics,Level 5,2022,..sarah.mugisha..@rp.ac.rw
+RPK20250443,jean uwase,m,2003-10-02,0729687221,Information Technology,L5,2025,jean.uwase@rp.ac.rw
+RPK20230444,Diane Kamanzi,m,1999-03-23,0794193189,Civil Engineering,L6,2023,diane.kamanzi@rp.ac.rw
+RPK20240445,Kevine Habimana,m,2002-06-13,0791777283,Mechanical Engineering,Level 6,2024,kevine.habimana@rp.ac.rw
+RPK20220446,Beatrice Uwamahoro,Male,2003-09-24,0728224528,Civil Engineering,Level 6,2022,beatrice.uwamahoro@rp.ac.rw
+RPK20230447,sarah niyonzima,M,2003-09-02,0786214834,Information Technology,L4,2023,sarah.niyonzima@rp.ac.rw
+RPK20240448,Emmanuel Tuyisenge,,2002-12-07,0794478888,Civil Engineering,Level 4,2024,emmanuel.tuyisenge@rp.ac.rw
+RPK20250449,Claude Habimana,Male,2000-08-12,0729384747,Civil Engineering,Level 5,2025,claude.habimana@rp.ac.rw
+RPK20230450,  Claude Iradukunda  ,m,2002-05-15,0724240694,Civil Engineering,L6,2023,..claude.iradukunda..@rp.ac.rw
+RPK20250451,  Claude Mutabazi  ,F,2004-06-02,0783110432,Mechanical Engineering,Level 4,2025,..claude.mutabazi..@rp.ac.rw
+RPK20230452,Jean Habimana,f,2003-11-01,0726110372,Electronics,Level 5,2023,jean.habimana@rp.ac.rw
+RPK20230453,Grace Iradukunda,F,2003-08-05,0786555335,Civil Engineering,Level 5,2023,grace.iradukunda@rp.ac.rw
+RPK20240454,Benjamin Niyonzima,Male,1998-01-21,0725349162,Mechanical Engineering,Level 5,2024,benjamin.niyonzima@rp.ac.rw
+RPK20250455,  Joseph Mukamana  ,f,2005-04-14,0725063607,Information Technology,L5,2025,..joseph.mukamana..@rp.ac.rw
+RPK20230456,Diane Habimana,Female,2000-04-22,0797232621,Information Technology,L6,2023,diane.habimana@rp.ac.rw
+RPK20240457,BENJAMIN NIYONZIMA,,2001-03-02,0793114964,Software Engineering,L6,2024,benjamin.niyonzima@rp.ac.rw
+RPK20220458,Samuel Niyibizi,F,2003-08-17,0789602222,Mechanical Engineering,Level 4,2022,samuel.niyibizi@rp.ac.rw
+RPK20220459,Sarah Uwase,Female,2004-12-06,0788769575,SOFTWARE ENGINEERING,Level 4,2022,sarah.uwase@rp.ac.rw
+RPK20250460,  Grace Tuyisenge  ,M,1998-11-21,0732844523,Electronics,Level 5,2025,..grace.tuyisenge..@rp.ac.rw
+RPK20230461,  CLAUDE NSHIMIYIMANA  ,,2005-12-20,,Computer Science,Level 5,2023,..claude.nshimiyimana..@rp.ac.rw
+RPK20220462,Joseph Kamanzi,Male,2000-10-19,0736337288,Mechanical Engineering,L6,2022,joseph.kamanzi@rp.ac.rw
+RPK20230463,Aline Niyonzima,m,2006-04-13,0785297750,Information Technology,Level 4,2023,aline.niyonzima@rp.ac.rw
+RPK20230464,Samuel Niyibizi,M,2005-04-06,0794564458,Civil Engineering,L6,2023,samuel.niyibizi@rp.ac.rw
+RPK20230465,Beatrice Niyonzima,,2006-07-09,0794962533,Computer Science,L6,2023,beatrice.niyonzima@rp.ac.rw
+RPK20250466,ALINE MUKAMANA,m,,,Computer Science,Level 6,2025,aline.mukamana@rp.ac.rw
+RPK20230467,Emmanuel Mugisha,Male,2002-04-22,0797347690,Mechanical Engineering,Level 4,2023,emmanuel.mugisha@rp.ac.rw
+RPK20220468,Alice Mugisha,m,2006-12-01,0792011800,Mechanical Engineering,L6,2022,alice.mugisha@rp.ac.rw
+RPK20250469,Joseph Niyibizi,M,1998-09-26,0791311941,Computer Science,Level 6,2025,joseph.niyibizi@rp.ac.rw
+RPK20240470,Sarah Mugisha,m,1999-05-24,0788854060,Civil Engineering,L4,2024,sarah.mugisha@rp.ac.rw
+RPK20250471,Patrick Iradukunda,m,1999-09-04,,Civil Engineering,L4,2025,patrick.iradukunda@rp.ac.rw
+RPK20220472,Patrick Mukamana,f,2001-10-02,0783048895,Computer Science,L6,2022,patrick.mukamana@rp.ac.rw
+RPK20250473,Grace Mukamana,Female,2005-09-04,0731882669,Information Technology,L5,2025,grace.mukamana@rp.ac.rw
+RPK20230474,  Patrick Ntawukuriryayo  ,,2000-02-07,0721628771,Information Technology,L4,2023,..patrick.ntawukuriryayo..@rp.ac.rw
+RPK20230475,ALICE NIYONZIMA,Male,2003-11-02,0731333607,Software Engineering,Level 4,2023,alice.niyonzima@rp.ac.rw
+RPK20220476,Claude Kamanzi,M,2003-07-21,0726387787,Civil Engineering,L5,2022,claude.kamanzi@rp.ac.rw
+RPK20240477,David Mukamana,m,2005-04-22,0785159561,Software Engineering,Level 6,2024,david.mukamana@rp.ac.rw
+RPK20250478,patrick nshimiyimana,,2002-03-23,0736044627,Computer Science,Level 4,2025,patrick.nshimiyimana@rp.ac.rw
+RPK20240479,Claude Tuyisenge,m,2006-01-18,0728181280,Information Technology,L5,2024,claude.tuyisenge@rp.ac.rw
+RPK20230480,Marie Uwamahoro,,2003-01-24,0726312002,Software Engineering,L6,2023,marie.uwamahoro@rp.ac.rw
+RPK20220481,Diane Mutabazi,,1998-11-24,0721394553,Civil Engineering,Level 4,2022,diane.mutabazi@rp.ac.rw
+RPK20220482,  Samuel Ntawukuriryayo  ,f,2001-01-11,0734042095,Electronics,L6,2022,..samuel.ntawukuriryayo..@rp.ac.rw
+RPK20250483,Aline Uwase,,2002-12-01,0731064631,Electronics,L5,2025,aline.uwase@rp.ac.rw
+RPK20230484,Diane Nshimiyimana,Female,1998-10-09,0783689940,MECHANICAL ENGINEERING,L4,2023,diane.nshimiyimana@rp.ac.rw
+RPK20230485,  Benjamin Mukamana  ,F,2004-01-17,0795451813,Mechanical Engineering,L5,2023,..benjamin.mukamana..@rp.ac.rw
+RPK20240486,Samuel Habimana,f,2004-08-06,0783435135,Electronics,Level 6,2024,samuel.habimana@rp.ac.rw
+RPK20240487,Emmanuel Mugisha,F,1998-10-02,0734052163,Software Engineering,Level 5,2024,emmanuel.mugisha@rp.ac.rw
+RPK20250488,Grace Iradukunda,Male,2005-04-06,0736691536,ELECTRONICS,L6,2025,grace.iradukunda@rp.ac.rw
+RPK20240489,Alice Niyibizi,,1999-02-01,,Mechanical Engineering,Level 6,2024,alice.niyibizi@rp.ac.rw
+RPK20230490,Beatrice Ntawukuriryayo,,2005-01-09,0721574183,Information Technology,Level 4,2023,beatrice.ntawukuriryayo@rp.ac.rw
+RPK20250491,Samuel Mutabazi,F,1999-04-23,0724600474,Computer Science,L5,2025,samuel.mutabazi@rp.ac.rw
+RPK20240492,Eric Niyibizi,M,2004-09-28,0727714566,Mechanical Engineering,L4,2024,eric.niyibizi@rp.ac.rw
+RPK20250493,David Habimana,f,2005-03-17,0738582013,Computer Science,Level 4,2025,david.habimana@rp.ac.rw
+RPK20250494,Emmanuel Mukamana,Female,2006-07-20,0786940947,Mechanical Engineering,Level 5,2025,emmanuel.mukamana@rp.ac.rw
+RPK20220495,Eric Uwase,Female,2001-01-16,0797350580,Electronics,L5,2022,eric.uwase@rp.ac.rw
+RPK20240496,  Emmanuel Niyonzima  ,Female,1998-11-04,0735095672,Civil Engineering,L4,2024,..emmanuel.niyonzima..@rp.ac.rw
+RPK20240497,Eric Kamanzi,F,2004-11-03,0724001771,Computer Science,Level 4,2024,eric.kamanzi@rp.ac.rw
+RPK20230498,Claude Iradukunda,Female,1998-04-02,0735362339,Electronics,Level 5,2023,claude.iradukunda@rp.ac.rw
+RPK20240499,  Patrick Habimana  ,,2000-04-07,0786269073,Electronics,Level 5,2024,..patrick.habimana..@rp.ac.rw
+RPK20230500,Claude Mukamana,Male,2000-08-19,0725492207,Mechanical Engineering,L4,2023,claude.mukamana@rp.ac.rw
+RPK20250501,Benjamin Nshimiyimana,Female,,0792295844,CIVIL ENGINEERING,Level 5,2025,benjamin.nshimiyimana@rp.ac.rw
+RPK20240502,Beatrice Mutabazi,,2004-01-05,0737519580,Software Engineering,Level 5,2024,beatrice.mutabazi@rp.ac.rw
+RPK20220503,Sarah Uwamahoro,F,2000-10-02,0781844503,INFORMATION TECHNOLOGY,L4,2022,sarah.uwamahoro@rp.ac.rw
+RPK20220504,Aline Uwamahoro,f,2006-12-10,0791130075,Electronics,L6,2022,aline.uwamahoro@rp.ac.rw
+RPK20220505,Samuel Niyonzima,F,2004-03-25,0728700560,Software Engineering,Level 5,2022,samuel.niyonzima@rp.ac.rw
+RPK20220506,Eric Iradukunda,Male,2006-10-08,,COMPUTER SCIENCE,Level 5,2022,eric.iradukunda@rp.ac.rw
+RPK20250507,Emmanuel Mukamana,m,2002-04-14,0736390740,Information Technology,L6,2025,emmanuel.mukamana@rp.ac.rw
+RPK20230508,David Ntawukuriryayo,Female,,,Mechanical Engineering,L5,2023,david.ntawukuriryayo@rp.ac.rw
+RPK20250509,  Kevine Uwamahoro  ,,2002-12-16,0724197620,Civil Engineering,Level 5,2025,..kevine.uwamahoro..@rp.ac.rw
+RPK20240510,Kevine Iradukunda,f,1999-02-06,0721916690,Computer Science,L4,2024,kevine.iradukunda@rp.ac.rw
+RPK20250511,Beatrice Uwamahoro,,2002-03-25,0783916783,Mechanical Engineering,Level 6,2025,beatrice.uwamahoro@rp.ac.rw
+RPK20220512,Sarah Habimana,Female,2001-12-01,,Information Technology,L6,2022,sarah.habimana@rp.ac.rw
+RPK20250513,Marie Ntawukuriryayo,F,1999-11-24,0787487681,Information Technology,Level 4,2025,marie.ntawukuriryayo@rp.ac.rw
+RPK20240514,Marie Nshimiyimana,,2005-02-27,0798932032,Electronics,Level 4,2024,marie.nshimiyimana@rp.ac.rw
+RPK20220515,Grace Niyibizi,,2005-03-11,,Mechanical Engineering,Level 6,2022,grace.niyibizi@rp.ac.rw
+RPK20240516,Emmanuel Habimana,Female,,0783289703,Information Technology,L4,2024,emmanuel.habimana@rp.ac.rw
+RPK20250517,Diane Ntawukuriryayo,,2006-01-24,0736350155,Computer Science,L6,2025,diane.ntawukuriryayo@rp.ac.rw
+RPK20250518,Francine Nshimiyimana,M,2002-02-14,0797884114,Computer Science,L4,2025,francine.nshimiyimana@rp.ac.rw
+RPK20230519,Eric Nshimiyimana,,2002-12-23,0731668132,Computer Science,Level 6,2023,eric.nshimiyimana@rp.ac.rw
+RPK20240520,Sarah Mutabazi,,1999-04-19,0781031641,Civil Engineering,L5,2024,sarah.mutabazi@rp.ac.rw
+RPK20230521,Kevine Kamanzi,,,,Civil Engineering,Level 4,2023,kevine.kamanzi@rp.ac.rw
+RPK20230522,MARIE MUGISHA,m,2001-02-20,0724114509,Civil Engineering,Level 6,2023,marie.mugisha@rp.ac.rw
+RPK20250523,David Niyonzima,F,2006-10-09,0724968353,Information Technology,Level 6,2025,david.niyonzima@rp.ac.rw
+RPK20230524,Claude Niyonzima,Female,2004-06-22,0721686062,Electronics,L6,2023,claude.niyonzima@rp.ac.rw
+RPK20250525,Beatrice Gasana,m,1998-02-07,0735761356,Mechanical Engineering,Level 4,2025,beatrice.gasana@rp.ac.rw
+RPK20230526,Sarah Niyonzima,Male,2001-01-22,0739907242,Computer Science,Level 5,2023,sarah.niyonzima@rp.ac.rw
+RPK20220527,Grace Niyibizi,F,2001-02-08,0797119573,Software Engineering,Level 6,2022,grace.niyibizi@rp.ac.rw
+RPK20220528,Jean Habimana,M,1999-05-13,0736061021,Civil Engineering,Level 4,2022,jean.habimana@rp.ac.rw
+RPK20240529,  JOSEPH KAMANZI  ,f,2001-09-28,0798064760,Electronics,L4,2024,..joseph.kamanzi..@rp.ac.rw
+RPK20230530,Patrick Nshimiyimana,Male,2001-02-23,0728677418,Mechanical Engineering,L6,2023,patrick.nshimiyimana@rp.ac.rw
+RPK20230531,Kevine Ntawukuriryayo,Female,2001-11-20,0796147653,Mechanical Engineering,L6,2023,kevine.ntawukuriryayo@rp.ac.rw
+RPK20250532,Samuel Tuyisenge,f,2005-06-08,0782846347,Mechanical Engineering,Level 5,2025,samuel.tuyisenge@rp.ac.rw
+RPK20250533,Joseph Niyonzima,f,2000-04-22,0798170702,Electronics,L4,2025,joseph.niyonzima@rp.ac.rw
+RPK20220534,Claude Ntawukuriryayo,M,1998-10-23,0725055273,Mechanical Engineering,Level 6,2022,claude.ntawukuriryayo@rp.ac.rw
+RPK20240535,  Eric Uwamahoro  ,f,1999-07-26,0781976799,Information Technology,Level 5,2024,..eric.uwamahoro..@rp.ac.rw
+RPK20230536,Francine Uwamahoro,,2005-07-12,0794513426,Information Technology,Level 6,2023,francine.uwamahoro@rp.ac.rw
+RPK20230537,Eric Kamanzi,m,2001-04-26,0726118708,Civil Engineering,L5,2023,eric.kamanzi@rp.ac.rw
+RPK20220538,Jean Kamanzi,f,2000-07-20,0785515777,Information Technology,Level 4,2022,jean.kamanzi@rp.ac.rw
+RPK20250539,Joseph Tuyisenge,F,2001-08-23,0792876598,Electronics,Level 5,2025,joseph.tuyisenge@rp.ac.rw
+RPK20230540,Sarah Mugisha,Male,1998-02-12,0792261422,Mechanical Engineering,Level 4,2023,sarah.mugisha@rp.ac.rw
+RPK20230541,Eric Iradukunda,M,2000-07-16,0792368894,Software Engineering,L4,2023,eric.iradukunda@rp.ac.rw
+RPK20230542,Kevine Mugisha,Female,2004-09-15,0724888418,Electronics,Level 5,2023,kevine.mugisha@rp.ac.rw
+RPK20250543,Aline Uwamahoro,,2000-09-23,0793179844,Information Technology,L5,2025,aline.uwamahoro@rp.ac.rw
+RPK20220544,  Emmanuel Nshimiyimana  ,F,1999-01-19,0724492429,INFORMATION TECHNOLOGY,L5,2022,..emmanuel.nshimiyimana..@rp.ac.rw
+RPK20230545,Sarah Mukamana,M,2002-07-11,0797355744,Electronics,L5,2023,sarah.mukamana@rp.ac.rw
+RPK20220546,Francine Tuyisenge,Female,2005-10-13,,Civil Engineering,L6,2022,francine.tuyisenge@rp.ac.rw
+RPK20220547,Alice Uwase,F,2005-04-27,,Computer Science,Level 5,2022,alice.uwase@rp.ac.rw
+RPK20240548,Beatrice Iradukunda,Female,2003-12-27,0785755566,Information Technology,L4,2024,beatrice.iradukunda@rp.ac.rw
+RPK20230549,Marie Mukamana,m,2002-06-05,0726354220,Information Technology,Level 4,2023,marie.mukamana@rp.ac.rw
+RPK20250550,Marie Uwase,m,,0724466541,Electronics,L6,2025,marie.uwase@rp.ac.rw
+RPK20220551,  Marie Niyibizi  ,m,2004-01-28,0785819934,Information Technology,Level 4,2022,..marie.niyibizi..@rp.ac.rw
+RPK20240552,Diane Uwamahoro,M,1998-06-10,0798686957,Software Engineering,L4,2024,diane.uwamahoro@rp.ac.rw
+RPK20250553,Aline Mukamana,Male,2000-11-24,0781983246,Information Technology,L6,2025,aline.mukamana@rp.ac.rw
+RPK20220554,Kevine Niyonzima,Female,1998-12-26,,Electronics,Level 5,2022,kevine.niyonzima@rp.ac.rw
+RPK20250555,Emmanuel Niyibizi,M,2000-02-23,0787576980,MECHANICAL ENGINEERING,Level 4,2025,emmanuel.niyibizi@rp.ac.rw
+RPK20250556,Sarah Kamanzi,,2004-03-12,0786015973,Information Technology,L4,2025,sarah.kamanzi@rp.ac.rw
+RPK20230557,Benjamin Gasana,,2000-01-27,0794634915,Mechanical Engineering,L5,2023,benjamin.gasana@rp.ac.rw
+RPK20240558,Alice Niyonzima,M,2005-06-05,0784551308,Mechanical Engineering,L4,2024,alice.niyonzima@rp.ac.rw
+RPK20230559,Sarah Iradukunda,Female,1999-04-22,0727603433,Information Technology,L4,2023,sarah.iradukunda@rp.ac.rw
+RPK20220560,Aline Gasana,F,1998-09-12,0789290320,Mechanical Engineering,Level 5,2022,aline.gasana@rp.ac.rw
+RPK20250561,Claude Niyonzima,F,1998-07-07,0796589606,INFORMATION TECHNOLOGY,L5,2025,claude.niyonzima@rp.ac.rw
+RPK20230562,Patrick Tuyisenge,,2003-11-06,0731797028,CIVIL ENGINEERING,L5,2023,patrick.tuyisenge@rp.ac.rw
+RPK20220563,ALICE IRADUKUNDA,f,2006-04-11,0788215664,Computer Science,L4,2022,alice.iradukunda@rp.ac.rw
+RPK20240564,emmanuel uwase,m,2003-10-15,0732068214,Software Engineering,Level 6,2024,emmanuel.uwase@rp.ac.rw
+RPK20250565,Marie Kamanzi,Male,1998-12-22,0727100869,Electronics,Level 6,2025,marie.kamanzi@rp.ac.rw
+RPK20230566,Patrick Habimana,Female,2001-10-19,0793613622,Mechanical Engineering,Level 4,2023,patrick.habimana@rp.ac.rw
+RPK20250567,Beatrice Uwamahoro,f,2002-09-01,0734337460,Information Technology,L5,2025,beatrice.uwamahoro@rp.ac.rw
+RPK20250568,Grace Tuyisenge,f,2000-08-03,0732612141,Computer Science,Level 4,2025,grace.tuyisenge@rp.ac.rw
+RPK20220569,Eric Mugisha,f,2004-06-25,0731650914,Computer Science,L5,2022,eric.mugisha@rp.ac.rw
+RPK20230570,Claude Nshimiyimana,,2002-03-12,0798695803,Electronics,L5,2023,claude.nshimiyimana@rp.ac.rw
+RPK20220571,Eric Habimana,,1998-03-23,0783196153,Mechanical Engineering,L5,2022,eric.habimana@rp.ac.rw
+RPK20220572,Claude Uwamahoro,Female,2002-01-27,0794094694,Software Engineering,L5,2022,claude.uwamahoro@rp.ac.rw
+RPK20250573,Grace Gasana,,2003-04-20,0722742072,Mechanical Engineering,L4,2025,grace.gasana@rp.ac.rw
+RPK20240574,Beatrice Nshimiyimana,,,0796465322,Mechanical Engineering,Level 6,2024,beatrice.nshimiyimana@rp.ac.rw
+RPK20220575,  Beatrice Iradukunda  ,f,2001-06-02,0784975767,Information Technology,L6,2022,..beatrice.iradukunda..@rp.ac.rw
+RPK20230576,Grace Niyonzima,m,2001-07-22,0737378577,Software Engineering,Level 6,2023,grace.niyonzima@rp.ac.rw
+RPK20250577,Aline Mugisha,Female,1999-09-02,0729285113,Software Engineering,L6,2025,aline.mugisha@rp.ac.rw
+RPK20250578,Marie Gasana,m,2001-09-22,0788580305,Software Engineering,Level 5,2025,marie.gasana@rp.ac.rw
+RPK20240579,  jean mukamana  ,M,2005-07-27,0737658075,COMPUTER SCIENCE,L4,2024,..jean.mukamana..@rp.ac.rw
+RPK20230580,Jean Niyonzima,,1999-11-10,0737810623,Civil Engineering,L6,2023,jean.niyonzima@rp.ac.rw
+RPK20250581,  Jean Habimana  ,Male,2002-09-21,0737284687,Electronics,L5,2025,..jean.habimana..@rp.ac.rw
+RPK20220582,Kevine Kamanzi,,2006-08-20,0738761291,Information Technology,Level 6,2022,kevine.kamanzi@rp.ac.rw
+RPK20220583,Aline Nshimiyimana,m,1998-04-15,0787334607,Information Technology,L6,2022,aline.nshimiyimana@rp.ac.rw
+RPK20250584,Marie Niyonzima,f,,0721072361,Mechanical Engineering,Level 6,2025,marie.niyonzima@rp.ac.rw
+RPK20240585,Diane Uwase,Male,1998-07-20,0789098292,Computer Science,Level 6,2024,diane.uwase@rp.ac.rw
+RPK20220586,David Iradukunda,,1998-10-08,0783158313,Software Engineering,Level 5,2022,david.iradukunda@rp.ac.rw
+RPK20220587,MARIE MUGISHA,m,1999-09-04,0735192686,Computer Science,Level 6,2022,marie.mugisha@rp.ac.rw
+RPK20230588,  GRACE NIYIBIZI  ,Female,1999-01-09,0735948623,Software Engineering,Level 5,2023,..grace.niyibizi..@rp.ac.rw
+RPK20240589,  Alice Habimana  ,M,1999-12-25,0782813336,Software Engineering,L5,2024,..alice.habimana..@rp.ac.rw
+RPK20220590,Kevine Nshimiyimana,f,2006-06-16,0793371446,Mechanical Engineering,Level 4,2022,kevine.nshimiyimana@rp.ac.rw
+RPK20250591,David Gasana,f,1999-07-17,0735481066,Computer Science,Level 6,2025,david.gasana@rp.ac.rw
+RPK20250592,Diane Nshimiyimana,,2003-09-05,0727418346,Information Technology,Level 6,2025,diane.nshimiyimana@rp.ac.rw
+RPK20230593,Patrick Mugisha,,2004-12-19,0786790119,Mechanical Engineering,L6,2023,patrick.mugisha@rp.ac.rw
+RPK20240594,Joseph Mukamana,F,2006-09-20,0787128975,Electronics,L5,2024,joseph.mukamana@rp.ac.rw
+RPK20240595,MARIE NIYONZIMA,Female,2001-08-22,0789114006,Information Technology,Level 5,2024,marie.niyonzima@rp.ac.rw
+RPK20220596,Aline Niyibizi,,2005-12-07,0725064884,Electronics,Level 5,2022,aline.niyibizi@rp.ac.rw
+RPK20240597,Patrick Mugisha,Male,2002-11-26,0786841090,Computer Science,Level 5,2024,patrick.mugisha@rp.ac.rw
+RPK20240598,  Marie Iradukunda  ,Male,2003-07-24,0732397074,Information Technology,Level 5,2024,..marie.iradukunda..@rp.ac.rw
+RPK20220599,  Kevine Mukamana  ,F,2002-10-17,0792777332,Electronics,L6,2022,..kevine.mukamana..@rp.ac.rw
+RPK20230600,Jean Tuyisenge,f,2000-04-14,0784900838,Information Technology,L6,2023,jean.tuyisenge@rp.ac.rw
+RPK20250601,Sarah Mutabazi,F,2005-06-19,0722496423,Civil Engineering,Level 4,2025,sarah.mutabazi@rp.ac.rw
+RPK20220602,Jean Nshimiyimana,Female,1999-01-22,0782038557,Civil Engineering,Level 5,2022,jean.nshimiyimana@rp.ac.rw
+RPK20220603,David Uwase,,2005-02-23,0785928924,Civil Engineering,Level 4,2022,david.uwase@rp.ac.rw
+RPK20230604,DAVID NTAWUKURIRYAYO,M,1998-11-09,0734130427,Software Engineering,L6,2023,david.ntawukuriryayo@rp.ac.rw
+RPK20250605,Grace Niyonzima,M,2001-06-21,0738503146,Information Technology,L5,2025,grace.niyonzima@rp.ac.rw
+RPK20230606,Beatrice Iradukunda,,1999-03-24,0724056136,Information Technology,L5,2023,beatrice.iradukunda@rp.ac.rw
+RPK20220607,David Gasana,Female,2004-12-03,0724833334,Computer Science,L5,2022,david.gasana@rp.ac.rw
+RPK20250608,Grace Mutabazi,Female,2002-04-28,0738831702,Computer Science,Level 4,2025,grace.mutabazi@rp.ac.rw
+RPK20240609,Jean Mugisha,M,2006-12-03,0784820458,Computer Science,L6,2024,jean.mugisha@rp.ac.rw
+RPK20230610,Francine Niyonzima,Male,2000-01-15,0797517026,Mechanical Engineering,L5,2023,francine.niyonzima@rp.ac.rw
+RPK20220611,Benjamin Mukamana,f,2000-10-22,0795947262,Information Technology,Level 4,2022,benjamin.mukamana@rp.ac.rw
+RPK20250612,  Beatrice Uwamahoro  ,f,2006-12-23,0788481394,Mechanical Engineering,L6,2025,..beatrice.uwamahoro..@rp.ac.rw
+RPK20220613,Eric Mutabazi,Male,2000-06-26,0786862523,Computer Science,L5,2022,eric.mutabazi@rp.ac.rw
+RPK20240614,  Sarah Mukamana  ,M,2005-12-06,0736913931,Electronics,Level 5,2024,..sarah.mukamana..@rp.ac.rw
+RPK20230615,Aline Tuyisenge,f,2005-11-16,0794795466,Civil Engineering,L4,2023,aline.tuyisenge@rp.ac.rw
+RPK20230616,  Benjamin Mugisha  ,Male,2000-03-28,0737890290,Electronics,L4,2023,..benjamin.mugisha..@rp.ac.rw
+RPK20230617,Samuel Tuyisenge,F,2005-03-24,0794478265,Information Technology,L6,2023,samuel.tuyisenge@rp.ac.rw
+RPK20240618,Samuel Mutabazi,f,1999-05-21,0796747369,Computer Science,Level 4,2024,samuel.mutabazi@rp.ac.rw
+RPK20240619,Diane Mutabazi,,2000-07-17,0735213792,Software Engineering,L5,2024,diane.mutabazi@rp.ac.rw
+RPK20230620,ERIC NSHIMIYIMANA,F,2000-05-07,0727489963,Software Engineering,Level 6,2023,eric.nshimiyimana@rp.ac.rw
+RPK20220621,Jean Mugisha,,1998-04-23,,Computer Science,L4,2022,jean.mugisha@rp.ac.rw
+RPK20230622,Samuel Uwase,m,2002-08-24,0734030000,Mechanical Engineering,Level 4,2023,samuel.uwase@rp.ac.rw
+RPK20250623,Samuel Mugisha,Male,2006-07-26,0731163345,Software Engineering,L5,2025,samuel.mugisha@rp.ac.rw
+RPK20240624,Sarah Mukamana,f,2004-07-23,0792791729,SOFTWARE ENGINEERING,L4,2024,sarah.mukamana@rp.ac.rw
+RPK20250625,SAMUEL HABIMANA,,2001-10-25,0799828820,ELECTRONICS,L4,2025,samuel.habimana@rp.ac.rw
+RPK20220626,David Kamanzi,Female,2002-12-21,,Mechanical Engineering,Level 4,2022,david.kamanzi@rp.ac.rw
+RPK20220627,Francine Ntawukuriryayo,Male,2001-08-20,0734347422,Software Engineering,L4,2022,francine.ntawukuriryayo@rp.ac.rw
+RPK20250628,Marie Nshimiyimana,f,1999-11-05,0737851956,Mechanical Engineering,Level 6,2025,marie.nshimiyimana@rp.ac.rw
+RPK20240629,Samuel Mukamana,Male,2000-12-27,,Civil Engineering,L5,2024,samuel.mukamana@rp.ac.rw
+RPK20220630,Patrick Niyibizi,Female,2006-11-19,0733187131,Computer Science,Level 4,2022,patrick.niyibizi@rp.ac.rw
+RPK20240631,Patrick Mukamana,,2002-03-21,0731904279,Mechanical Engineering,L6,2024,patrick.mukamana@rp.ac.rw
+RPK20230632,Francine Kamanzi,Female,2003-07-01,,Civil Engineering,Level 4,2023,francine.kamanzi@rp.ac.rw
+RPK20250633,  David Tuyisenge  ,F,2006-02-12,0734849143,Software Engineering,Level 4,2025,..david.tuyisenge..@rp.ac.rw
+RPK20250634,Francine Niyibizi,,,0728993746,Information Technology,L5,2025,francine.niyibizi@rp.ac.rw
+RPK20230635,Eric Niyibizi,Female,2006-05-05,0798256626,Civil Engineering,Level 4,2023,eric.niyibizi@rp.ac.rw
+RPK20230636,Beatrice Tuyisenge,m,2002-03-10,0731650668,Electronics,Level 5,2023,beatrice.tuyisenge@rp.ac.rw
+RPK20250637,Benjamin Uwamahoro,Female,1998-08-27,0796216176,Software Engineering,Level 4,2025,benjamin.uwamahoro@rp.ac.rw
+RPK20240638,Benjamin Iradukunda,Female,2004-08-07,0786918397,MECHANICAL ENGINEERING,Level 5,2024,benjamin.iradukunda@rp.ac.rw
+RPK20240639,Eric Iradukunda,Male,2003-11-04,0725258536,Mechanical Engineering,L4,2024,eric.iradukunda@rp.ac.rw
+RPK20230640,Beatrice Iradukunda,,1999-09-12,0728718390,Civil Engineering,L4,2023,beatrice.iradukunda@rp.ac.rw
+RPK20250641,Francine Kamanzi,m,2005-12-10,0732434006,Information Technology,Level 5,2025,francine.kamanzi@rp.ac.rw
+RPK20240642,Claude Nshimiyimana,M,2000-07-27,0731071628,Computer Science,L4,2024,claude.nshimiyimana@rp.ac.rw
+RPK20220643,  Beatrice Uwase  ,Male,2004-10-13,0791694943,Mechanical Engineering,L5,2022,..beatrice.uwase..@rp.ac.rw
+RPK20220644,Samuel Nshimiyimana,,1999-06-12,0798650747,Information Technology,L5,2022,samuel.nshimiyimana@rp.ac.rw
+RPK20250645,Sarah Tuyisenge,Male,2002-02-11,0788207175,Computer Science,Level 5,2025,sarah.tuyisenge@rp.ac.rw
+RPK20250646,Marie Habimana,,1998-11-24,0789254023,Electronics,L5,2025,marie.habimana@rp.ac.rw
+RPK20220647,Emmanuel Habimana,Male,2003-12-01,0733802551,Computer Science,L4,2022,emmanuel.habimana@rp.ac.rw
+RPK20240648,Diane Tuyisenge,m,2000-05-25,0731628357,ELECTRONICS,Level 6,2024,diane.tuyisenge@rp.ac.rw
+RPK20250649,Joseph Uwase,,2000-08-03,0795446116,Electronics,Level 4,2025,joseph.uwase@rp.ac.rw
+RPK20230650,  Francine Mukamana  ,,2003-12-07,0737917989,Civil Engineering,L5,2023,..francine.mukamana..@rp.ac.rw
+RPK20220651,Jean Uwase,F,2006-04-11,,Software Engineering,Level 6,2022,jean.uwase@rp.ac.rw
+RPK20220652,Emmanuel Niyibizi,,2005-09-08,0732756108,Civil Engineering,Level 4,2022,emmanuel.niyibizi@rp.ac.rw
+RPK20240653,Eric Iradukunda,Female,1999-04-03,0795504647,Mechanical Engineering,Level 5,2024,eric.iradukunda@rp.ac.rw
+RPK20230654,Patrick Mugisha,,2005-09-20,0729097603,Information Technology,L5,2023,patrick.mugisha@rp.ac.rw
+RPK20240655,  Diane Nshimiyimana  ,,1999-12-18,0784892429,Civil Engineering,L5,2024,..diane.nshimiyimana..@rp.ac.rw
+RPK20230656,Francine Uwase,M,2002-09-09,0783575194,Mechanical Engineering,L5,2023,francine.uwase@rp.ac.rw
+RPK20220657,Emmanuel Kamanzi,f,2001-05-11,0735619228,Computer Science,Level 6,2022,emmanuel.kamanzi@rp.ac.rw
+RPK20230658,Benjamin Mutabazi,m,2003-04-03,0788186570,Electronics,L4,2023,benjamin.mutabazi@rp.ac.rw
+RPK20240659,Diane Uwase,f,2001-03-21,0728263339,Mechanical Engineering,Level 6,2024,diane.uwase@rp.ac.rw
+RPK20220660,Alice Iradukunda,,2006-01-03,0725326965,Computer Science,Level 4,2022,alice.iradukunda@rp.ac.rw
+RPK20230661,Claude Tuyisenge,m,2005-02-14,0793815350,Civil Engineering,L6,2023,claude.tuyisenge@rp.ac.rw
+RPK20230662,Francine Niyonzima,,1998-02-22,,Information Technology,L6,2023,francine.niyonzima@rp.ac.rw
+RPK20250663,Joseph Niyibizi,M,2000-11-18,0726848633,Electronics,Level 4,2025,joseph.niyibizi@rp.ac.rw
+RPK20220664,Samuel Mukamana,Male,2000-10-04,0724839771,Mechanical Engineering,L5,2022,samuel.mukamana@rp.ac.rw
+RPK20220665,Claude Niyonzima,,2002-12-02,0784196661,Mechanical Engineering,Level 5,2022,claude.niyonzima@rp.ac.rw
+RPK20230666,Francine Uwase,,2000-09-16,0796796632,Software Engineering,L6,2023,francine.uwase@rp.ac.rw
+RPK20230667,KEVINE NTAWUKURIRYAYO,Female,2000-02-09,0793256714,Electronics,L6,2023,kevine.ntawukuriryayo@rp.ac.rw
+RPK20250668,Joseph Niyonzima,Female,1999-01-16,0723862932,Software Engineering,Level 5,2025,joseph.niyonzima@rp.ac.rw
+RPK20230669,Marie Tuyisenge,Male,1998-04-14,0737926130,Information Technology,L6,2023,marie.tuyisenge@rp.ac.rw
+RPK20250670,  Beatrice Niyibizi  ,M,2004-05-14,0736093494,Civil Engineering,L4,2025,..beatrice.niyibizi..@rp.ac.rw
+RPK20240671,Claude Niyonzima,,2004-11-18,0738993088,Software Engineering,L6,2024,claude.niyonzima@rp.ac.rw
+RPK20240672,  Benjamin Iradukunda  ,,1999-11-03,0789581490,Information Technology,L5,2024,..benjamin.iradukunda..@rp.ac.rw
+RPK20250673,diane tuyisenge,f,2003-04-03,0796792165,Civil Engineering,L6,2025,diane.tuyisenge@rp.ac.rw
+RPK20250674,  Grace Iradukunda  ,,2003-05-28,,Mechanical Engineering,L6,2025,..grace.iradukunda..@rp.ac.rw
+RPK20220675,David Uwamahoro,Male,2006-04-22,0798193354,Civil Engineering,Level 4,2022,david.uwamahoro@rp.ac.rw
+RPK20230676,Joseph Uwase,Male,2003-12-08,0739507022,Mechanical Engineering,L5,2023,joseph.uwase@rp.ac.rw
+RPK20230677,Diane Iradukunda,,2002-11-06,0788766948,Computer Science,L4,2023,diane.iradukunda@rp.ac.rw
+RPK20230678,Eric Kamanzi,M,2003-06-08,0791982827,Electronics,L4,2023,eric.kamanzi@rp.ac.rw
+RPK20230679,Benjamin Tuyisenge,Male,2005-07-07,,INFORMATION TECHNOLOGY,L6,2023,benjamin.tuyisenge@rp.ac.rw
+RPK20220680,  Eric Uwase  ,,2004-05-23,0793824600,MECHANICAL ENGINEERING,Level 5,2022,..eric.uwase..@rp.ac.rw
+RPK20250681,Emmanuel Mugisha,F,2000-10-05,0737120602,Civil Engineering,Level 6,2025,emmanuel.mugisha@rp.ac.rw
+RPK20220682,Joseph Mugisha,,1999-03-15,0735448603,SOFTWARE ENGINEERING,L4,2022,joseph.mugisha@rp.ac.rw
+RPK20230683,Claude Uwamahoro,,2002-04-28,0728219581,COMPUTER SCIENCE,Level 6,2023,claude.uwamahoro@rp.ac.rw
+RPK20220684,Sarah Mukamana,F,1999-08-20,0781952972,CIVIL ENGINEERING,L6,2022,sarah.mukamana@rp.ac.rw
+RPK20220685,Samuel Niyonzima,F,1999-02-10,0728672051,Software Engineering,Level 5,2022,samuel.niyonzima@rp.ac.rw
+RPK20220686,Joseph Mutabazi,,2000-04-12,,Software Engineering,L4,2022,joseph.mutabazi@rp.ac.rw
+RPK20240687,Marie Ntawukuriryayo,F,2004-06-21,0786471074,Civil Engineering,Level 4,2024,marie.ntawukuriryayo@rp.ac.rw
+RPK20240688,  Marie Mukamana  ,Female,2004-09-23,0783823209,Mechanical Engineering,Level 6,2024,..marie.mukamana..@rp.ac.rw
+RPK20250689,Marie Niyonzima,M,2000-05-28,0799322120,Information Technology,L5,2025,marie.niyonzima@rp.ac.rw
+RPK20230690,  Aline Habimana  ,,2005-03-26,,Civil Engineering,Level 6,2023,..aline.habimana..@rp.ac.rw
+RPK20220691,Claude Uwamahoro,Female,2001-11-03,0787919349,ELECTRONICS,L4,2022,claude.uwamahoro@rp.ac.rw
+RPK20240692,Diane Habimana,Female,2002-11-07,0723115710,Computer Science,Level 6,2024,diane.habimana@rp.ac.rw
+RPK20230693,Benjamin Mugisha,M,2002-09-12,0735624288,Civil Engineering,Level 4,2023,benjamin.mugisha@rp.ac.rw
+RPK20220694,Francine Kamanzi,Male,,0724978567,ELECTRONICS,Level 5,2022,francine.kamanzi@rp.ac.rw
+RPK20240695,Benjamin Tuyisenge,,2004-10-10,0785089821,Civil Engineering,L6,2024,benjamin.tuyisenge@rp.ac.rw
+RPK20240696,Grace Niyonzima,f,1998-01-09,0725108644,Information Technology,L5,2024,grace.niyonzima@rp.ac.rw
+RPK20240697,Kevine Mutabazi,,2000-10-23,0795201195,Information Technology,Level 5,2024,kevine.mutabazi@rp.ac.rw
+RPK20240698,Eric Ntawukuriryayo,f,2002-10-24,0786424890,Software Engineering,L6,2024,eric.ntawukuriryayo@rp.ac.rw
+RPK20230699,Aline Mutabazi,Female,1999-10-13,0791645088,SOFTWARE ENGINEERING,L6,2023,aline.mutabazi@rp.ac.rw
+RPK20220700,Emmanuel Kamanzi,Male,2001-08-02,0722907789,Mechanical Engineering,L6,2022,emmanuel.kamanzi@rp.ac.rw
+RPK20250701,Sarah Ntawukuriryayo,Male,2004-02-12,0792708090,Mechanical Engineering,L5,2025,sarah.ntawukuriryayo@rp.ac.rw
+RPK20250702,  Aline Ntawukuriryayo  ,F,2000-04-26,0722010923,Computer Science,Level 5,2025,..aline.ntawukuriryayo..@rp.ac.rw
+RPK20240703,  Diane Uwase  ,M,2003-02-13,0725143423,Mechanical Engineering,Level 5,2024,..diane.uwase..@rp.ac.rw
+RPK20230704,Eric Iradukunda,Male,2005-05-26,,Information Technology,Level 5,2023,eric.iradukunda@rp.ac.rw
+RPK20250705,Alice Niyonzima,,2000-03-27,0788548587,Information Technology,Level 6,2025,alice.niyonzima@rp.ac.rw
+RPK20220706,Kevine Niyonzima,m,2003-07-13,0739263813,Computer Science,L6,2022,kevine.niyonzima@rp.ac.rw
+RPK20250707,DAVID UWASE,Male,2001-01-15,0733720860,Electronics,L4,2025,david.uwase@rp.ac.rw
+RPK20240708,Samuel Mugisha,f,1998-04-16,0739006944,Civil Engineering,Level 4,2024,samuel.mugisha@rp.ac.rw
+RPK20230709,Jean Niyonzima,f,2006-11-27,0797632285,Mechanical Engineering,L6,2023,jean.niyonzima@rp.ac.rw
+RPK20230710,Jean Uwamahoro,f,1999-09-28,0792564108,Software Engineering,L6,2023,jean.uwamahoro@rp.ac.rw
+RPK20220711,Emmanuel Uwamahoro,m,2003-11-20,,ELECTRONICS,Level 5,2022,emmanuel.uwamahoro@rp.ac.rw
+RPK20240712,Beatrice Kamanzi,f,2000-07-15,0799976221,Electronics,L6,2024,beatrice.kamanzi@rp.ac.rw
+RPK20230713,Grace Mutabazi,Male,1998-07-22,0735524716,Information Technology,Level 6,2023,grace.mutabazi@rp.ac.rw
+RPK20240714,  Patrick Uwase  ,Male,2000-08-16,0788639329,Software Engineering,L5,2024,..patrick.uwase..@rp.ac.rw
+RPK20240715,Alice Niyonzima,Female,1998-07-05,0738816142,Civil Engineering,L4,2024,alice.niyonzima@rp.ac.rw
+RPK20240716,Diane Uwamahoro,Female,2005-06-10,0793556874,Mechanical Engineering,Level 6,2024,diane.uwamahoro@rp.ac.rw
+RPK20230717,Diane Uwase,M,2004-06-24,0732665303,Mechanical Engineering,L5,2023,diane.uwase@rp.ac.rw
+RPK20230718,Diane Habimana,,2003-06-11,0794425272,Information Technology,L6,2023,diane.habimana@rp.ac.rw
+RPK20240719,Francine Nshimiyimana,,2004-05-15,0789928634,Civil Engineering,Level 4,2024,francine.nshimiyimana@rp.ac.rw
+RPK20250720,Claude Tuyisenge,m,2003-11-07,0789660350,Computer Science,L4,2025,claude.tuyisenge@rp.ac.rw
+RPK20250721,Kevine Ntawukuriryayo,Female,2005-02-18,0794420368,CIVIL ENGINEERING,Level 4,2025,kevine.ntawukuriryayo@rp.ac.rw
+RPK20240722,Kevine Niyonzima,F,2005-10-19,0791193919,Information Technology,Level 5,2024,kevine.niyonzima@rp.ac.rw
+RPK20230723,  Aline Iradukunda  ,Female,2001-06-10,0737432471,Electronics,L4,2023,..aline.iradukunda..@rp.ac.rw
+RPK20220724,Claude Niyonzima,F,2001-12-04,0786154230,Mechanical Engineering,L6,2022,claude.niyonzima@rp.ac.rw
+RPK20240725,Marie Mutabazi,M,2000-08-09,0781232426,Information Technology,Level 5,2024,marie.mutabazi@rp.ac.rw
+RPK20230726,  Sarah Nshimiyimana  ,,2001-05-11,0785454226,INFORMATION TECHNOLOGY,L4,2023,..sarah.nshimiyimana..@rp.ac.rw
+RPK20240727,  Grace Habimana  ,F,2000-07-26,0724388570,Civil Engineering,L4,2024,..grace.habimana..@rp.ac.rw
+RPK20230728,David Kamanzi,,2004-05-04,0785565273,Civil Engineering,Level 4,2023,david.kamanzi@rp.ac.rw
+RPK20240729,Sarah Niyonzima,M,2006-04-16,0727448220,Civil Engineering,Level 5,2024,sarah.niyonzima@rp.ac.rw
+RPK20230730,Sarah Ntawukuriryayo,M,2004-01-02,0783645812,Computer Science,L5,2023,sarah.ntawukuriryayo@rp.ac.rw
+RPK20250731,Samuel Mugisha,,2006-05-24,0729887652,Computer Science,Level 6,2025,samuel.mugisha@rp.ac.rw
+RPK20250732,Kevine Tuyisenge,F,2000-03-07,0783811912,Civil Engineering,Level 5,2025,kevine.tuyisenge@rp.ac.rw
+RPK20220733,Eric Mutabazi,,2002-07-06,0738847931,Information Technology,Level 5,2022,eric.mutabazi@rp.ac.rw
+RPK20220734,BENJAMIN NTAWUKURIRYAYO,,2001-02-20,0725980132,Computer Science,Level 6,2022,benjamin.ntawukuriryayo@rp.ac.rw
+RPK20250735,Claude Uwamahoro,f,2003-02-13,0783564898,Software Engineering,Level 6,2025,claude.uwamahoro@rp.ac.rw
+RPK20230736,Benjamin Gasana,,2003-05-10,0729518988,Software Engineering,Level 4,2023,benjamin.gasana@rp.ac.rw
+RPK20230737,Claude Mutabazi,m,1998-03-08,0731702721,Electronics,Level 4,2023,claude.mutabazi@rp.ac.rw
+RPK20250738,JOSEPH GASANA,M,1998-05-09,0788343867,Mechanical Engineering,L4,2025,joseph.gasana@rp.ac.rw
+RPK20240739,Emmanuel Mutabazi,M,2005-05-17,0788440159,Computer Science,Level 5,2024,emmanuel.mutabazi@rp.ac.rw
+RPK20230740,Joseph Habimana,,2004-01-16,0735774279,Mechanical Engineering,L4,2023,joseph.habimana@rp.ac.rw
+RPK20240741,Samuel Mukamana,Female,2005-01-05,0731595024,Information Technology,Level 6,2024,samuel.mukamana@rp.ac.rw
+RPK20250742,FRANCINE KAMANZI,f,2001-10-03,0734488823,Computer Science,L5,2025,francine.kamanzi@rp.ac.rw
+RPK20230743,Joseph Mukamana,f,2003-07-03,0731550268,Mechanical Engineering,Level 4,2023,joseph.mukamana@rp.ac.rw
+RPK20250744,Jean Kamanzi,Female,1998-04-10,0727748921,Computer Science,Level 6,2025,jean.kamanzi@rp.ac.rw
+RPK20250745,Kevine Mugisha,F,2003-05-26,0793655165,Electronics,Level 6,2025,kevine.mugisha@rp.ac.rw
+RPK20230746,Aline Mutabazi,M,2006-07-01,0797054475,Civil Engineering,Level 4,2023,aline.mutabazi@rp.ac.rw
+RPK20230747,Beatrice Niyibizi,m,2000-09-06,0736860209,Software Engineering,L4,2023,beatrice.niyibizi@rp.ac.rw
+RPK20240748,Samuel Ntawukuriryayo,Male,2005-10-24,0727809922,Mechanical Engineering,Level 4,2024,samuel.ntawukuriryayo@rp.ac.rw
+RPK20250749,David Kamanzi,Female,2001-01-03,0791317052,Electronics,L6,2025,david.kamanzi@rp.ac.rw
+RPK20220750,Grace Nshimiyimana,m,2006-03-21,0722739530,Computer Science,Level 6,2022,grace.nshimiyimana@rp.ac.rw
+RPK20220751,Samuel Mutabazi,Male,2001-06-11,0782857034,Electronics,Level 4,2022,samuel.mutabazi@rp.ac.rw
+RPK20230752,Sarah Uwase,m,1999-04-09,0787537684,Software Engineering,Level 5,2023,sarah.uwase@rp.ac.rw
+RPK20230753,SAMUEL UWASE,f,2001-02-21,0726734263,Electronics,Level 4,2023,samuel.uwase@rp.ac.rw
+RPK20240754,Benjamin Tuyisenge,,2006-02-08,0792134614,Information Technology,L5,2024,benjamin.tuyisenge@rp.ac.rw
+RPK20240755,Emmanuel Uwamahoro,M,2005-12-12,0725872852,Computer Science,L5,2024,emmanuel.uwamahoro@rp.ac.rw
+RPK20230756,Alice Mukamana,F,2000-02-02,0726587153,Software Engineering,L5,2023,alice.mukamana@rp.ac.rw
+RPK20250757,Eric Iradukunda,F,2000-07-16,0727235494,Computer Science,Level 5,2025,eric.iradukunda@rp.ac.rw
+RPK20230758,  Diane Mugisha  ,f,2003-07-01,0787961764,Mechanical Engineering,L6,2023,..diane.mugisha..@rp.ac.rw
+RPK20220759,Francine Uwase,,2004-02-26,0785206798,Mechanical Engineering,L4,2022,francine.uwase@rp.ac.rw
+RPK20220760,Jean Ntawukuriryayo,F,2002-01-04,0799496179,Civil Engineering,L4,2022,jean.ntawukuriryayo@rp.ac.rw
+RPK20220761,Sarah Niyibizi,,2006-02-15,0732858135,Mechanical Engineering,L4,2022,sarah.niyibizi@rp.ac.rw
+RPK20250762,David Iradukunda,F,2003-07-19,0791375296,Software Engineering,Level 4,2025,david.iradukunda@rp.ac.rw
+RPK20250763,emmanuel niyibizi,F,1999-03-16,0729502171,Software Engineering,Level 4,2025,emmanuel.niyibizi@rp.ac.rw
+RPK20240764,Diane Niyibizi,M,2002-11-09,0725485963,CIVIL ENGINEERING,L6,2024,diane.niyibizi@rp.ac.rw
+RPK20230765,Aline Mugisha,,1998-11-03,0799198241,MECHANICAL ENGINEERING,L6,2023,aline.mugisha@rp.ac.rw
+RPK20220766,Jean Mugisha,M,2002-08-24,0795328249,Civil Engineering,L5,2022,jean.mugisha@rp.ac.rw
+RPK20230767,Diane Tuyisenge,f,1998-02-22,,Software Engineering,L6,2023,diane.tuyisenge@rp.ac.rw
+RPK20250768,  JEAN UWASE  ,,2001-10-26,0732874885,Civil Engineering,Level 4,2025,..jean.uwase..@rp.ac.rw
+RPK20220769,Francine Gasana,m,2001-06-19,0728826349,Computer Science,Level 6,2022,francine.gasana@rp.ac.rw
+RPK20240770,  kevine kamanzi  ,F,1998-11-25,0724702306,Mechanical Engineering,L6,2024,..kevine.kamanzi..@rp.ac.rw
+RPK20250771,Aline Mugisha,F,1999-02-26,0724314274,Software Engineering,L4,2025,aline.mugisha@rp.ac.rw
+RPK20230772,Marie Nshimiyimana,m,2000-02-10,0782764708,Information Technology,L5,2023,marie.nshimiyimana@rp.ac.rw
+RPK20230773,Patrick Nshimiyimana,f,2000-03-16,0729145270,Mechanical Engineering,L4,2023,patrick.nshimiyimana@rp.ac.rw
+RPK20240774,Beatrice Tuyisenge,Female,2004-09-01,0781813450,Mechanical Engineering,Level 6,2024,beatrice.tuyisenge@rp.ac.rw
+RPK20230775,Alice Nshimiyimana,F,1998-10-20,0729079175,Electronics,L6,2023,alice.nshimiyimana@rp.ac.rw
+RPK20250776,Claude Mukamana,,2006-02-14,0789519842,Software Engineering,L4,2025,claude.mukamana@rp.ac.rw
+RPK20240777,grace tuyisenge,M,1999-06-17,0797047272,Civil Engineering,L5,2024,grace.tuyisenge@rp.ac.rw
+RPK20250778,Alice Mugisha,Female,2000-01-02,0783862104,Computer Science,Level 5,2025,alice.mugisha@rp.ac.rw
+RPK20240779,  Beatrice Mukamana  ,Female,2001-02-02,0725497075,MECHANICAL ENGINEERING,Level 4,2024,..beatrice.mukamana..@rp.ac.rw
+RPK20250780,  Kevine Uwase  ,F,2002-01-17,,Electronics,L4,2025,..kevine.uwase..@rp.ac.rw
+RPK20250781,Grace Gasana,Female,1999-06-11,0733945214,Civil Engineering,Level 5,2025,grace.gasana@rp.ac.rw
+RPK20230782,Kevine Ntawukuriryayo,M,2005-07-21,,Information Technology,Level 4,2023,kevine.ntawukuriryayo@rp.ac.rw
+RPK20220783,Grace Mugisha,,1999-07-15,0798173321,Software Engineering,Level 5,2022,grace.mugisha@rp.ac.rw
+RPK20220784,CLAUDE NTAWUKURIRYAYO,,2003-04-09,0738525121,Civil Engineering,Level 6,2022,claude.ntawukuriryayo@rp.ac.rw
+RPK20250785,Emmanuel Uwamahoro,F,2001-07-23,0723328084,Software Engineering,L4,2025,emmanuel.uwamahoro@rp.ac.rw
+RPK20250786,Grace Uwamahoro,,2000-07-19,0787567874,Software Engineering,L5,2025,grace.uwamahoro@rp.ac.rw
+RPK20250787,Kevine Mutabazi,Male,2005-06-19,0734911379,Civil Engineering,L5,2025,kevine.mutabazi@rp.ac.rw
+RPK20240788,Grace Uwamahoro,Female,2004-12-05,0793373553,Computer Science,L6,2024,grace.uwamahoro@rp.ac.rw
+RPK20230789,Kevine Habimana,,2006-01-18,0739205133,Electronics,L6,2023,kevine.habimana@rp.ac.rw
+RPK20220790,  Claude Mukamana  ,m,2002-05-08,0722694131,Civil Engineering,L5,2022,..claude.mukamana..@rp.ac.rw
+RPK20220791,Grace Habimana,Female,2005-09-14,0787907164,Software Engineering,L5,2022,grace.habimana@rp.ac.rw
+RPK20230792,Patrick Habimana,,2005-12-25,0799340195,Civil Engineering,L4,2023,patrick.habimana@rp.ac.rw
+RPK20220793,Samuel Ntawukuriryayo,,1999-03-10,,Computer Science,L5,2022,samuel.ntawukuriryayo@rp.ac.rw
+RPK20250794,Alice Mutabazi,f,2005-05-17,0725234351,Mechanical Engineering,Level 6,2025,alice.mutabazi@rp.ac.rw
+RPK20250795,Francine Niyonzima,M,2001-01-11,0739881450,Computer Science,L5,2025,francine.niyonzima@rp.ac.rw
+RPK20240796,samuel iradukunda,F,2005-01-19,0725647515,Electronics,Level 5,2024,samuel.iradukunda@rp.ac.rw
+RPK20230797,Sarah Tuyisenge,M,2005-01-04,0732672682,Civil Engineering,Level 6,2023,sarah.tuyisenge@rp.ac.rw
+RPK20240798,  Eric Tuyisenge  ,Female,2006-12-17,0786303091,Mechanical Engineering,Level 6,2024,..eric.tuyisenge..@rp.ac.rw
+RPK20230799,Sarah Niyibizi,m,2001-01-21,0798984817,Electronics,L6,2023,sarah.niyibizi@rp.ac.rw
+RPK20240800,Joseph Mugisha,m,2002-09-16,0738022600,Computer Science,Level 5,2024,joseph.mugisha@rp.ac.rw
+RPK20220801,Claude Niyonzima,M,2004-11-07,0725096295,Civil Engineering,Level 6,2022,claude.niyonzima@rp.ac.rw
+RPK20240802,Benjamin Mukamana,m,2001-01-23,0787964969,Electronics,Level 6,2024,benjamin.mukamana@rp.ac.rw
+RPK20240803,  David Mutabazi  ,f,2006-12-01,0723765131,Software Engineering,L5,2024,..david.mutabazi..@rp.ac.rw
+RPK20220804,  Eric Niyibizi  ,M,2006-06-07,0721551544,Electronics,Level 4,2022,..eric.niyibizi..@rp.ac.rw
+RPK20220805,beatrice habimana,,,0786647113,Mechanical Engineering,L6,2022,beatrice.habimana@rp.ac.rw
+RPK20220806,Francine Niyibizi,Female,2002-01-28,0735013220,Civil Engineering,L4,2022,francine.niyibizi@rp.ac.rw
+RPK20230807,Joseph Niyonzima,F,2002-11-20,0784665692,Information Technology,Level 4,2023,joseph.niyonzima@rp.ac.rw
+RPK20220808,Aline Habimana,f,2000-05-27,0738555163,Computer Science,L5,2022,aline.habimana@rp.ac.rw
+RPK20220809,Sarah Mutabazi,F,2004-04-25,0789871676,Information Technology,L4,2022,sarah.mutabazi@rp.ac.rw
+RPK20240810,Marie Ntawukuriryayo,m,1999-07-16,0797766888,Information Technology,L6,2024,marie.ntawukuriryayo@rp.ac.rw
+RPK20240811,david mutabazi,m,1998-03-03,0731953007,Civil Engineering,L5,2024,david.mutabazi@rp.ac.rw
+RPK20220812,Grace Kamanzi,F,2006-12-16,0729216186,CIVIL ENGINEERING,L4,2022,grace.kamanzi@rp.ac.rw
+RPK20230813,Sarah Habimana,f,2005-08-12,0791715212,Mechanical Engineering,L4,2023,sarah.habimana@rp.ac.rw
+RPK20230814,David Habimana,,2004-11-26,0792316008,Mechanical Engineering,L6,2023,david.habimana@rp.ac.rw
+RPK20250815,Claude Mukamana,,2006-02-02,0735215839,Electronics,Level 5,2025,claude.mukamana@rp.ac.rw
+RPK20250816,Claude Tuyisenge,,2003-11-17,0781315493,Information Technology,Level 6,2025,claude.tuyisenge@rp.ac.rw
+RPK20230817,JEAN NIYIBIZI,,2004-02-16,0785563507,Software Engineering,L4,2023,jean.niyibizi@rp.ac.rw
+RPK20240818,  Alice Niyonzima  ,F,2000-12-17,0731386834,Software Engineering,Level 4,2024,..alice.niyonzima..@rp.ac.rw
+RPK20220819,Alice Iradukunda,,1999-09-19,0732986213,Software Engineering,Level 5,2022,alice.iradukunda@rp.ac.rw
+RPK20240820,Grace Uwase,Male,1999-07-25,,Information Technology,Level 5,2024,grace.uwase@rp.ac.rw
+RPK20230821,Joseph Iradukunda,m,2004-06-23,0781406193,Mechanical Engineering,Level 5,2023,joseph.iradukunda@rp.ac.rw
+RPK20250822,  Eric Uwamahoro  ,m,2001-06-02,0736881679,Computer Science,Level 5,2025,..eric.uwamahoro..@rp.ac.rw
+RPK20230823,Jean Kamanzi,m,2002-03-05,0794295673,Computer Science,Level 6,2023,jean.kamanzi@rp.ac.rw
+RPK20230824,samuel niyibizi,M,1999-12-09,0797433483,Software Engineering,Level 5,2023,samuel.niyibizi@rp.ac.rw
+RPK20250825,Grace Tuyisenge,m,1999-02-15,0729850796,Mechanical Engineering,L4,2025,grace.tuyisenge@rp.ac.rw
+RPK20240826,sarah gasana,,2006-04-14,0725167086,Mechanical Engineering,Level 6,2024,sarah.gasana@rp.ac.rw
+RPK20230827,Emmanuel Nshimiyimana,F,1998-01-13,0789351815,MECHANICAL ENGINEERING,L4,2023,emmanuel.nshimiyimana@rp.ac.rw
+RPK20240828,Alice Habimana,Male,2000-02-02,0738748354,Civil Engineering,Level 4,2024,alice.habimana@rp.ac.rw
+RPK20240829,Eric Nshimiyimana,,2002-10-26,0792464363,Software Engineering,Level 4,2024,eric.nshimiyimana@rp.ac.rw
+RPK20230830,Benjamin Mukamana,m,1998-09-22,0727405839,Mechanical Engineering,Level 4,2023,benjamin.mukamana@rp.ac.rw
+RPK20220831,Patrick Niyibizi,Female,2006-05-20,0731853531,Software Engineering,L4,2022,patrick.niyibizi@rp.ac.rw
+RPK20220832,Jean Kamanzi,Male,2005-03-25,0794975595,Electronics,Level 4,2022,jean.kamanzi@rp.ac.rw
+RPK20220833,Benjamin Iradukunda,,2001-06-04,0732604602,Information Technology,L5,2022,benjamin.iradukunda@rp.ac.rw
+RPK20250834,Emmanuel Mutabazi,Female,2002-04-02,0793049101,Mechanical Engineering,Level 4,2025,emmanuel.mutabazi@rp.ac.rw
+RPK20250835,Claude Habimana,f,2002-02-16,0734194386,Information Technology,Level 6,2025,claude.habimana@rp.ac.rw
+RPK20240836,emmanuel mukamana,Female,1998-05-13,0792869888,Electronics,L5,2024,emmanuel.mukamana@rp.ac.rw
+RPK20240837,Patrick Nshimiyimana,F,2006-09-02,0789649482,Information Technology,L6,2024,patrick.nshimiyimana@rp.ac.rw
+RPK20250838,Alice Mugisha,,2002-05-04,0791322718,Software Engineering,L6,2025,alice.mugisha@rp.ac.rw
+RPK20220839,Alice Mukamana,M,2004-05-10,0795684118,Civil Engineering,Level 4,2022,alice.mukamana@rp.ac.rw
+RPK20250840,Emmanuel Tuyisenge,,2003-01-02,0783087788,Civil Engineering,L6,2025,emmanuel.tuyisenge@rp.ac.rw
+RPK20250841,Samuel Uwase,Female,2002-01-09,0729248716,Information Technology,Level 6,2025,samuel.uwase@rp.ac.rw
+RPK20250842,Eric Tuyisenge,,2005-11-08,0785652535,Civil Engineering,L6,2025,eric.tuyisenge@rp.ac.rw
+RPK20250843,sarah uwase,f,2003-10-09,0727442816,Computer Science,L5,2025,sarah.uwase@rp.ac.rw
+RPK20230844,Francine Kamanzi,,,0726645646,Information Technology,Level 4,2023,francine.kamanzi@rp.ac.rw
+RPK20230845,  Samuel Uwase  ,Male,,0799430943,Mechanical Engineering,Level 6,2023,..samuel.uwase..@rp.ac.rw
+RPK20250846,  Jean Mukamana  ,F,2001-07-27,0791157649,Civil Engineering,L6,2025,..jean.mukamana..@rp.ac.rw
+RPK20220847,benjamin mutabazi,F,2000-05-18,0792000595,Mechanical Engineering,L4,2022,benjamin.mutabazi@rp.ac.rw
+RPK20240848,Eric Iradukunda,F,2000-12-12,0737644397,Software Engineering,L4,2024,eric.iradukunda@rp.ac.rw
+RPK20240849,Emmanuel Kamanzi,M,2004-10-08,0727353273,COMPUTER SCIENCE,Level 5,2024,emmanuel.kamanzi@rp.ac.rw
+RPK20250850,Patrick Mukamana,Female,2000-06-24,0793306054,Mechanical Engineering,L4,2025,patrick.mukamana@rp.ac.rw
+RPK20240851,Marie Uwase,,2006-10-25,0795031351,Electronics,Level 6,2024,marie.uwase@rp.ac.rw
+RPK20220852,Samuel Mutabazi,M,2004-06-24,0781179716,Software Engineering,L4,2022,samuel.mutabazi@rp.ac.rw
+RPK20220853,Claude Ntawukuriryayo,M,2001-07-10,0739099998,Computer Science,Level 5,2022,claude.ntawukuriryayo@rp.ac.rw
+RPK20250854,kevine mutabazi,F,2006-05-15,0782923557,Software Engineering,L5,2025,kevine.mutabazi@rp.ac.rw
+RPK20240855,  Diane Mugisha  ,f,2001-12-15,0727736198,Mechanical Engineering,L6,2024,..diane.mugisha..@rp.ac.rw
+RPK20220856,Sarah Habimana,,2006-10-12,0782210906,Electronics,Level 6,2022,sarah.habimana@rp.ac.rw
+RPK20250857,Jean Uwamahoro,Male,2004-03-18,0737411548,Information Technology,L4,2025,jean.uwamahoro@rp.ac.rw
+RPK20230858,emmanuel habimana,,2005-10-16,,Mechanical Engineering,L6,2023,emmanuel.habimana@rp.ac.rw
+RPK20240859,emmanuel uwase,F,2003-05-16,0798371552,Computer Science,Level 6,2024,emmanuel.uwase@rp.ac.rw
+RPK20250860,Grace Kamanzi,f,2002-08-05,0721739358,ELECTRONICS,Level 5,2025,grace.kamanzi@rp.ac.rw
+RPK20230861,Alice Mugisha,F,2002-12-24,0733639566,Electronics,L4,2023,alice.mugisha@rp.ac.rw
+RPK20230862,Beatrice Mukamana,m,2000-03-09,,Information Technology,Level 4,2023,beatrice.mukamana@rp.ac.rw
+RPK20240863,DIANE NIYIBIZI,f,,0738296187,Information Technology,Level 5,2024,diane.niyibizi@rp.ac.rw
+RPK20250864,David Nshimiyimana,Male,2002-10-05,0728591295,Mechanical Engineering,L4,2025,david.nshimiyimana@rp.ac.rw
+RPK20250865,sarah ntawukuriryayo,F,2005-05-17,0785179364,Computer Science,L5,2025,sarah.ntawukuriryayo@rp.ac.rw
+RPK20240866,Diane Habimana,Male,2003-11-11,0726873541,Mechanical Engineering,Level 6,2024,diane.habimana@rp.ac.rw
+RPK20250867,SARAH GASANA,M,2002-12-17,0798943076,Software Engineering,Level 4,2025,sarah.gasana@rp.ac.rw
+RPK20230868,Benjamin Gasana,m,2004-06-20,0736038351,Electronics,Level 4,2023,benjamin.gasana@rp.ac.rw
+RPK20230869,  Samuel Tuyisenge  ,F,1999-12-01,0794306634,Mechanical Engineering,Level 6,2023,..samuel.tuyisenge..@rp.ac.rw
+RPK20230870,Francine Habimana,,1999-06-03,0721672601,Information Technology,L6,2023,francine.habimana@rp.ac.rw
+RPK20220871,Marie Ntawukuriryayo,f,1998-05-25,0797682900,MECHANICAL ENGINEERING,Level 6,2022,marie.ntawukuriryayo@rp.ac.rw
+RPK20230872,Benjamin Mugisha,m,2006-08-03,0738688970,Electronics,Level 6,2023,benjamin.mugisha@rp.ac.rw
+RPK20220873,Jean Iradukunda,f,2000-01-16,0721498442,Civil Engineering,L6,2022,jean.iradukunda@rp.ac.rw
+RPK20220874,Eric Uwase,Male,2006-04-12,0738367589,COMPUTER SCIENCE,Level 6,2022,eric.uwase@rp.ac.rw
+RPK20220875,Beatrice Habimana,f,2002-04-01,0735166185,Electronics,Level 5,2022,beatrice.habimana@rp.ac.rw
+RPK20240876,Benjamin Habimana,f,2001-08-02,0727060276,Civil Engineering,Level 5,2024,benjamin.habimana@rp.ac.rw
+RPK20240877,Eric Uwamahoro,f,1999-03-13,0792156755,Civil Engineering,Level 6,2024,eric.uwamahoro@rp.ac.rw
+RPK20250878,Sarah Niyibizi,Female,2003-05-09,0723560317,Electronics,L4,2025,sarah.niyibizi@rp.ac.rw
+RPK20250879,  Joseph Gasana  ,f,1999-02-27,0735328970,Information Technology,Level 5,2025,..joseph.gasana..@rp.ac.rw
+RPK20240880,Marie Mukamana,,2001-07-07,0798283247,Electronics,L4,2024,marie.mukamana@rp.ac.rw
+RPK20220881,  jean habimana  ,M,1999-03-05,0727828615,Information Technology,Level 5,2022,..jean.habimana..@rp.ac.rw
+RPK20220882,Claude Tuyisenge,F,2004-12-10,0739543990,Information Technology,Level 5,2022,claude.tuyisenge@rp.ac.rw
+RPK20250883,Patrick Habimana,Female,2000-05-07,0796677101,Civil Engineering,Level 5,2025,patrick.habimana@rp.ac.rw
+RPK20220884,Benjamin Iradukunda,,1998-07-07,0788877101,Electronics,L4,2022,benjamin.iradukunda@rp.ac.rw
+RPK20230885,Alice Iradukunda,,2002-07-16,0723112382,Electronics,Level 4,2023,alice.iradukunda@rp.ac.rw
+RPK20220886,Aline Iradukunda,Female,2004-10-21,0737633138,Software Engineering,L5,2022,aline.iradukunda@rp.ac.rw
+RPK20250887,Sarah Habimana,,2003-12-12,0727202263,Electronics,L6,2025,sarah.habimana@rp.ac.rw
+RPK20240888,Sarah Niyonzima,f,2006-01-07,0798120694,Mechanical Engineering,L6,2024,sarah.niyonzima@rp.ac.rw
+RPK20220889,Aline Mugisha,M,1999-01-25,0782715422,Information Technology,L6,2022,aline.mugisha@rp.ac.rw
+RPK20230890,Aline Kamanzi,,1999-02-05,0783899177,Software Engineering,L6,2023,aline.kamanzi@rp.ac.rw
+RPK20240891,Diane Gasana,f,1999-06-17,0785521746,Information Technology,L4,2024,diane.gasana@rp.ac.rw
+RPK20220892,Jean Mugisha,Female,1999-05-01,0787718246,Information Technology,Level 6,2022,jean.mugisha@rp.ac.rw
+RPK20250893,benjamin kamanzi,Male,2005-09-05,0784419046,Software Engineering,L5,2025,benjamin.kamanzi@rp.ac.rw
+RPK20240894,david tuyisenge,F,2003-04-19,0785499778,Civil Engineering,Level 6,2024,david.tuyisenge@rp.ac.rw
+RPK20250895,Emmanuel Kamanzi,M,2004-09-14,0725461320,CIVIL ENGINEERING,L6,2025,emmanuel.kamanzi@rp.ac.rw
+RPK20240896,Claude Nshimiyimana,F,1998-12-21,,Civil Engineering,Level 6,2024,claude.nshimiyimana@rp.ac.rw
+RPK20250897,Patrick Mugisha,,2003-04-08,0791577172,Computer Science,Level 4,2025,patrick.mugisha@rp.ac.rw
+RPK20240898,  Patrick Ntawukuriryayo  ,M,2000-10-05,0728499496,Information Technology,L5,2024,..patrick.ntawukuriryayo..@rp.ac.rw
+RPK20220899,patrick mukamana,F,2000-08-28,0784321947,Computer Science,L6,2022,patrick.mukamana@rp.ac.rw
+RPK20240900,Diane Ntawukuriryayo,F,2005-07-28,0729742829,Software Engineering,Level 4,2024,diane.ntawukuriryayo@rp.ac.rw
+RPK20250901,FRANCINE MUKAMANA,,2002-04-21,0723051788,MECHANICAL ENGINEERING,Level 6,2025,francine.mukamana@rp.ac.rw
+RPK20240902,Eric Kamanzi,F,2004-02-01,0736667989,Computer Science,Level 5,2024,eric.kamanzi@rp.ac.rw
+RPK20250903,Alice Mutabazi,f,2001-03-22,0791030242,Civil Engineering,Level 5,2025,alice.mutabazi@rp.ac.rw
+RPK20220904,Diane Uwamahoro,F,2003-09-22,0736115193,COMPUTER SCIENCE,L6,2022,diane.uwamahoro@rp.ac.rw
+RPK20220905,  Joseph Mugisha  ,f,2004-10-17,0797620325,ELECTRONICS,L5,2022,..joseph.mugisha..@rp.ac.rw
+RPK20230906,Alice Niyibizi,F,2003-04-02,0788385848,Electronics,L4,2023,alice.niyibizi@rp.ac.rw
+RPK20250907,Sarah Uwamahoro,f,1999-02-05,0723057884,Mechanical Engineering,Level 5,2025,sarah.uwamahoro@rp.ac.rw
+RPK20240908,Emmanuel Mutabazi,F,,0728996526,Computer Science,Level 6,2024,emmanuel.mutabazi@rp.ac.rw
+RPK20250909,Patrick Tuyisenge,Female,2001-09-22,0737005679,ELECTRONICS,L4,2025,patrick.tuyisenge@rp.ac.rw
+RPK20220910,  Jean Niyonzima  ,F,2006-02-14,0782110805,Software Engineering,Level 5,2022,..jean.niyonzima..@rp.ac.rw
+RPK20230911,Eric Niyibizi,,2006-09-02,0786588216,Electronics,L6,2023,eric.niyibizi@rp.ac.rw
+RPK20240912,Aline Uwase,f,2000-05-27,0795002424,Electronics,L5,2024,aline.uwase@rp.ac.rw
+RPK20220913,ERIC MUGISHA,F,2005-03-13,,Mechanical Engineering,L4,2022,eric.mugisha@rp.ac.rw
+RPK20240914,Eric Habimana,,2006-02-23,0726296950,INFORMATION TECHNOLOGY,Level 4,2024,eric.habimana@rp.ac.rw
+RPK20240915,Francine Nshimiyimana,Female,2002-01-26,0785808812,Information Technology,Level 5,2024,francine.nshimiyimana@rp.ac.rw
+RPK20240916,Marie Tuyisenge,,2004-09-03,0734959020,Information Technology,L4,2024,marie.tuyisenge@rp.ac.rw
+RPK20230917,Eric Habimana,,2004-07-27,0786213348,Computer Science,Level 6,2023,eric.habimana@rp.ac.rw
+RPK20220918,Patrick Kamanzi,f,1999-11-04,0729586348,Information Technology,Level 5,2022,patrick.kamanzi@rp.ac.rw
+RPK20220919,Kevine Nshimiyimana,Male,2005-12-17,0725493481,SOFTWARE ENGINEERING,L5,2022,kevine.nshimiyimana@rp.ac.rw
+RPK20250920,Emmanuel Mukamana,,2004-02-13,0729074247,Mechanical Engineering,Level 5,2025,emmanuel.mukamana@rp.ac.rw
+RPK20220921,Beatrice Mutabazi,f,2005-12-21,0725028344,Computer Science,L5,2022,beatrice.mutabazi@rp.ac.rw
+RPK20220922,Sarah Uwase,,1999-12-04,0738795453,Computer Science,Level 6,2022,sarah.uwase@rp.ac.rw
+RPK20250923,Kevine Gasana,Female,2001-05-20,0725834298,Computer Science,L4,2025,kevine.gasana@rp.ac.rw
+RPK20250924,Samuel Uwase,Female,2001-02-02,0721457564,Information Technology,Level 6,2025,samuel.uwase@rp.ac.rw
+RPK20220925,Aline Niyibizi,Female,2000-05-02,0795342769,Software Engineering,L5,2022,aline.niyibizi@rp.ac.rw
+RPK20250926,Kevine Kamanzi,Male,2004-03-18,0787467507,Computer Science,L5,2025,kevine.kamanzi@rp.ac.rw
+RPK20240927,Joseph Niyonzima,M,1999-06-05,0793480918,Civil Engineering,Level 6,2024,joseph.niyonzima@rp.ac.rw
+RPK20220928,Alice Niyonzima,F,2004-03-01,0737548969,Information Technology,Level 4,2022,alice.niyonzima@rp.ac.rw
+RPK20240929,Samuel Mutabazi,,2001-09-11,0799427459,Mechanical Engineering,Level 5,2024,samuel.mutabazi@rp.ac.rw
+RPK20230930,  Joseph Mugisha  ,,2005-10-11,0793521786,Computer Science,L4,2023,..joseph.mugisha..@rp.ac.rw
+RPK20250931,alice niyonzima,M,2000-05-21,0732418141,Electronics,L6,2025,alice.niyonzima@rp.ac.rw
+RPK20240932,Grace Iradukunda,Male,2002-03-22,0786795919,Electronics,L6,2024,grace.iradukunda@rp.ac.rw
+RPK20240933,Aline Uwase,f,2000-10-17,0787912587,COMPUTER SCIENCE,Level 6,2024,aline.uwase@rp.ac.rw
+RPK20230934,Jean Uwase,Male,1998-12-10,0795853829,Civil Engineering,Level 5,2023,jean.uwase@rp.ac.rw
+RPK20240935,Francine Mukamana,F,2004-09-21,0729015538,Electronics,Level 4,2024,francine.mukamana@rp.ac.rw
+RPK20220936,Marie Mugisha,m,2002-11-20,0797880233,Information Technology,L6,2022,marie.mugisha@rp.ac.rw
+RPK20230937,Joseph Tuyisenge,f,2001-03-25,0725810507,Electronics,Level 5,2023,joseph.tuyisenge@rp.ac.rw
+RPK20250938,Benjamin Iradukunda,f,1998-07-06,,Software Engineering,L6,2025,benjamin.iradukunda@rp.ac.rw
+RPK20250939,Kevine Gasana,Male,1999-04-20,0791101180,Civil Engineering,Level 6,2025,kevine.gasana@rp.ac.rw
+RPK20250940,Sarah Kamanzi,m,2002-12-14,0792094523,SOFTWARE ENGINEERING,L6,2025,sarah.kamanzi@rp.ac.rw
+RPK20220941,Samuel Ntawukuriryayo,Male,2003-02-28,0724256958,Computer Science,L6,2022,samuel.ntawukuriryayo@rp.ac.rw
+RPK20220942,aline mukamana,f,2005-09-10,0727512372,CIVIL ENGINEERING,L5,2022,aline.mukamana@rp.ac.rw
+RPK20250943,Benjamin Iradukunda,Male,2004-11-21,0726027490,Civil Engineering,Level 6,2025,benjamin.iradukunda@rp.ac.rw
+RPK20240944,Benjamin Niyibizi,F,1999-07-26,0737414192,Mechanical Engineering,L5,2024,benjamin.niyibizi@rp.ac.rw
+RPK20250945,Joseph Mutabazi,,2004-12-09,0795705184,Information Technology,Level 4,2025,joseph.mutabazi@rp.ac.rw
+RPK20230946,Marie Iradukunda,f,2002-08-23,0738109193,Computer Science,L4,2023,marie.iradukunda@rp.ac.rw
+RPK20240947,  David Gasana  ,Male,2002-06-02,0787273159,Electronics,L4,2024,..david.gasana..@rp.ac.rw
+RPK20230948,Francine Uwase,m,2003-05-05,0722855138,Mechanical Engineering,L5,2023,francine.uwase@rp.ac.rw
+RPK20240949,  Marie Uwamahoro  ,m,2004-10-02,,Electronics,Level 4,2024,..marie.uwamahoro..@rp.ac.rw
+RPK20220950,Alice Mutabazi,m,2000-04-09,0722420975,Information Technology,L5,2022,alice.mutabazi@rp.ac.rw
+RPK20230951,David Kamanzi,M,1998-11-27,0732717673,Civil Engineering,Level 5,2023,david.kamanzi@rp.ac.rw
+RPK20220952,Marie Gasana,F,,0726747692,Computer Science,Level 4,2022,marie.gasana@rp.ac.rw
+RPK20240953,Kevine Mutabazi,,2001-05-19,0795219217,Computer Science,L4,2024,kevine.mutabazi@rp.ac.rw
+RPK20250954,Grace Gasana,,2005-03-26,0735629795,Electronics,Level 6,2025,grace.gasana@rp.ac.rw
+RPK20220955,Emmanuel Ntawukuriryayo,Male,2000-06-13,0787799714,Information Technology,L6,2022,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20230956,Marie Niyonzima,f,1998-01-03,0782990402,Mechanical Engineering,Level 6,2023,marie.niyonzima@rp.ac.rw
+RPK20220957,Emmanuel Kamanzi,F,2005-07-01,0791567424,Information Technology,L5,2022,emmanuel.kamanzi@rp.ac.rw
+RPK20250958,  Samuel Uwase  ,M,2002-04-24,0737550050,Mechanical Engineering,L5,2025,..samuel.uwase..@rp.ac.rw
+RPK20250959,Benjamin Niyonzima,Male,2002-12-19,0792791437,Information Technology,Level 6,2025,benjamin.niyonzima@rp.ac.rw
+RPK20250960,Jean Niyibizi,m,2002-08-28,0733523025,Information Technology,Level 5,2025,jean.niyibizi@rp.ac.rw
+RPK20250961,  Marie Mukamana  ,M,2006-04-12,0721228797,Mechanical Engineering,Level 6,2025,..marie.mukamana..@rp.ac.rw
+RPK20250962,  Jean Kamanzi  ,Female,2001-04-27,0783798796,Information Technology,Level 5,2025,..jean.kamanzi..@rp.ac.rw
+RPK20250963,Diane Mugisha,f,1998-11-27,0793133430,INFORMATION TECHNOLOGY,L4,2025,diane.mugisha@rp.ac.rw
+RPK20230964,Sarah Nshimiyimana,F,2006-03-27,0795884106,Electronics,L4,2023,sarah.nshimiyimana@rp.ac.rw
+RPK20240965,Grace Iradukunda,,2005-07-08,0796557888,Information Technology,Level 5,2024,grace.iradukunda@rp.ac.rw
+RPK20250966,  Grace Mukamana  ,,2004-04-11,0787279216,Mechanical Engineering,L4,2025,..grace.mukamana..@rp.ac.rw
+RPK20250967,Sarah Mutabazi,,2003-03-16,0736461302,Computer Science,Level 4,2025,sarah.mutabazi@rp.ac.rw
+RPK20250968,Sarah Uwase,F,2002-02-15,0791193957,Mechanical Engineering,L5,2025,sarah.uwase@rp.ac.rw
+RPK20240969,Benjamin Iradukunda,,2006-02-24,0787710146,Computer Science,L4,2024,benjamin.iradukunda@rp.ac.rw
+RPK20220970,Aline Ntawukuriryayo,,2002-09-20,0725132649,Civil Engineering,Level 4,2022,aline.ntawukuriryayo@rp.ac.rw
+RPK20230971,  Marie Uwamahoro  ,M,1999-05-24,0795442410,Computer Science,Level 5,2023,..marie.uwamahoro..@rp.ac.rw
+RPK20250972,Joseph Mugisha,F,2006-10-27,0738209255,Information Technology,Level 5,2025,joseph.mugisha@rp.ac.rw
+RPK20220973,Francine Ntawukuriryayo,f,1998-11-26,0787995152,Civil Engineering,Level 5,2022,francine.ntawukuriryayo@rp.ac.rw
+RPK20240974,Alice Uwamahoro,Male,2005-06-08,0733283242,Information Technology,L4,2024,alice.uwamahoro@rp.ac.rw
+RPK20240975,marie mutabazi,Male,2006-10-11,0736175683,Civil Engineering,Level 6,2024,marie.mutabazi@rp.ac.rw
+RPK20230976,Joseph Tuyisenge,Female,2002-06-25,0788853264,Software Engineering,Level 6,2023,joseph.tuyisenge@rp.ac.rw
+RPK20240977,Diane Uwamahoro,Female,2001-07-27,0724548530,Electronics,Level 5,2024,diane.uwamahoro@rp.ac.rw
+RPK20220978,Alice Habimana,,2003-02-24,0784916546,Mechanical Engineering,Level 5,2022,alice.habimana@rp.ac.rw
+RPK20240979,Diane Nshimiyimana,,2005-05-06,0721979648,Civil Engineering,Level 5,2024,diane.nshimiyimana@rp.ac.rw
+RPK20230980,Benjamin Kamanzi,M,2006-07-21,0782457685,Information Technology,L4,2023,benjamin.kamanzi@rp.ac.rw
+RPK20230981,Beatrice Tuyisenge,F,1998-11-03,0739608913,SOFTWARE ENGINEERING,Level 5,2023,beatrice.tuyisenge@rp.ac.rw
+RPK20230982,Diane Niyonzima,,2006-02-23,0784880555,Information Technology,L6,2023,diane.niyonzima@rp.ac.rw
+RPK20220983,Joseph Uwamahoro,,1999-01-21,0726159456,Software Engineering,Level 4,2022,joseph.uwamahoro@rp.ac.rw
+RPK20250984,SAMUEL UWAMAHORO,M,2003-06-22,0781264625,Software Engineering,Level 5,2025,samuel.uwamahoro@rp.ac.rw
+RPK20230985,Alice Mutabazi,Male,2003-11-25,0731312744,Civil Engineering,Level 5,2023,alice.mutabazi@rp.ac.rw
+RPK20220986,Francine Niyonzima,,,0784371842,Civil Engineering,L4,2022,francine.niyonzima@rp.ac.rw
+RPK20230987,Sarah Habimana,m,2000-04-24,0736132601,Computer Science,Level 6,2023,sarah.habimana@rp.ac.rw
+RPK20250988,MARIE HABIMANA,,2006-10-03,0781435405,Software Engineering,L5,2025,marie.habimana@rp.ac.rw
+RPK20230989,Benjamin Mugisha,F,1998-07-16,0791975839,Software Engineering,Level 5,2023,benjamin.mugisha@rp.ac.rw
+RPK20250990,marie tuyisenge,,2001-02-20,0799142323,Information Technology,L6,2025,marie.tuyisenge@rp.ac.rw
+RPK20250991,  Diane Gasana  ,f,1999-01-18,0799093851,Information Technology,Level 5,2025,..diane.gasana..@rp.ac.rw
+RPK20230992,Joseph Mutabazi,Female,2005-05-19,0783468010,Computer Science,Level 5,2023,joseph.mutabazi@rp.ac.rw
+RPK20240993,Eric Tuyisenge,Male,,0793147045,INFORMATION TECHNOLOGY,Level 5,2024,eric.tuyisenge@rp.ac.rw
+RPK20230994,Diane Ntawukuriryayo,,2005-08-20,,Electronics,Level 5,2023,diane.ntawukuriryayo@rp.ac.rw
+RPK20250995,Marie Habimana,m,1999-02-23,0728307960,Civil Engineering,Level 4,2025,marie.habimana@rp.ac.rw
+RPK20240996,Jean Uwase,M,2003-08-15,0739181986,Computer Science,Level 5,2024,jean.uwase@rp.ac.rw
+RPK20240997,Emmanuel Ntawukuriryayo,m,1998-11-28,0724559101,Information Technology,Level 4,2024,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20240998,Beatrice Tuyisenge,m,2005-06-26,0731028399,Information Technology,Level 6,2024,beatrice.tuyisenge@rp.ac.rw
+RPK20220999,Samuel Nshimiyimana,F,1999-01-08,0724245343,Electronics,Level 4,2022,samuel.nshimiyimana@rp.ac.rw
+RPK20221000,David Ntawukuriryayo,m,2004-05-23,0797457544,Electronics,L6,2022,david.ntawukuriryayo@rp.ac.rw
+RPK20241001,Diane Kamanzi,,1998-09-13,0785374302,Information Technology,L5,2024,diane.kamanzi@rp.ac.rw
+RPK20251002,Diane Iradukunda,F,2003-05-18,0785315257,Computer Science,Level 4,2025,diane.iradukunda@rp.ac.rw
+RPK20241003,Claude Uwase,M,2003-10-09,0736422976,Mechanical Engineering,Level 5,2024,claude.uwase@rp.ac.rw
+RPK20241004,Alice Niyonzima,Male,1998-05-17,0732323447,Mechanical Engineering,L4,2024,alice.niyonzima@rp.ac.rw
+RPK20241005,Emmanuel Niyonzima,,1998-06-14,0783041392,Software Engineering,L5,2024,emmanuel.niyonzima@rp.ac.rw
+RPK20251006,Marie Niyonzima,M,1999-10-06,0784219197,Mechanical Engineering,L4,2025,marie.niyonzima@rp.ac.rw
+RPK20221007,  Claude Mugisha  ,F,2005-10-02,,Mechanical Engineering,L4,2022,..claude.mugisha..@rp.ac.rw
+RPK20221008,Marie Niyonzima,,2002-07-08,0726296592,Software Engineering,L4,2022,marie.niyonzima@rp.ac.rw
+RPK20221009,Sarah Habimana,m,2002-12-08,0783399467,Mechanical Engineering,L6,2022,sarah.habimana@rp.ac.rw
+RPK20221010,  Sarah Mukamana  ,Female,,0789223604,Computer Science,L4,2022,..sarah.mukamana..@rp.ac.rw
+RPK20221011,Eric Iradukunda,Male,2000-11-16,0794228009,Software Engineering,Level 6,2022,eric.iradukunda@rp.ac.rw
+RPK20251012,Patrick Kamanzi,Female,2003-09-09,0737875192,Information Technology,Level 5,2025,patrick.kamanzi@rp.ac.rw
+RPK20251013,Emmanuel Uwamahoro,M,2001-12-22,0793711429,Software Engineering,Level 5,2025,emmanuel.uwamahoro@rp.ac.rw
+RPK20251014,Grace Ntawukuriryayo,,2001-03-24,0734701631,Civil Engineering,L4,2025,grace.ntawukuriryayo@rp.ac.rw
+RPK20241015,  Alice Gasana  ,m,2000-06-08,0737616442,Civil Engineering,L5,2024,..alice.gasana..@rp.ac.rw
+RPK20241016,diane ntawukuriryayo,,2004-05-05,0788739106,Electronics,L4,2024,diane.ntawukuriryayo@rp.ac.rw
+RPK20231017,Benjamin Mukamana,m,1998-12-05,0738789079,Computer Science,L5,2023,benjamin.mukamana@rp.ac.rw
+RPK20221018,Joseph Niyonzima,Female,1999-12-01,0731278304,Information Technology,L4,2022,joseph.niyonzima@rp.ac.rw
+RPK20241019,Eric Uwamahoro,F,1999-11-02,,Electronics,L4,2024,eric.uwamahoro@rp.ac.rw
+RPK20221020,Sarah Mutabazi,F,2006-12-05,0721252751,Electronics,L5,2022,sarah.mutabazi@rp.ac.rw
+RPK20231021,joseph niyonzima,Female,1999-08-05,0725161429,Mechanical Engineering,Level 6,2023,joseph.niyonzima@rp.ac.rw
+RPK20251022,Francine Mutabazi,F,1998-10-23,0737323398,Mechanical Engineering,L5,2025,francine.mutabazi@rp.ac.rw
+RPK20241023,  David Mukamana  ,f,2006-01-18,0736067228,Software Engineering,L6,2024,..david.mukamana..@rp.ac.rw
+RPK20241024,Diane Iradukunda,F,2002-07-04,0793219263,Civil Engineering,Level 4,2024,diane.iradukunda@rp.ac.rw
+RPK20231025,Samuel Tuyisenge,F,2004-06-19,0782532575,Information Technology,Level 5,2023,samuel.tuyisenge@rp.ac.rw
+RPK20251026,  Marie Mutabazi  ,M,2003-08-15,0732506033,Computer Science,L4,2025,..marie.mutabazi..@rp.ac.rw
+RPK20241027,Kevine Habimana,f,,0723983630,Mechanical Engineering,L4,2024,kevine.habimana@rp.ac.rw
+RPK20221028,Claude Uwase,,2004-04-20,0794247822,Software Engineering,L5,2022,claude.uwase@rp.ac.rw
+RPK20221029,Alice Iradukunda,m,2006-03-28,0722936025,Computer Science,Level 6,2022,alice.iradukunda@rp.ac.rw
+RPK20251030,Francine Mukamana,f,2006-10-28,0729245888,INFORMATION TECHNOLOGY,L4,2025,francine.mukamana@rp.ac.rw
+RPK20231031,Claude Habimana,F,1999-10-18,0735400069,Electronics,L4,2023,claude.habimana@rp.ac.rw
+RPK20221032,  Aline Gasana  ,f,2000-08-05,0735731668,Information Technology,Level 5,2022,..aline.gasana..@rp.ac.rw
+RPK20221033,  Francine Uwase  ,,2002-01-27,0798597074,INFORMATION TECHNOLOGY,L6,2022,..francine.uwase..@rp.ac.rw
+RPK20231034,Marie Kamanzi,M,2004-03-06,0797923938,Electronics,L5,2023,marie.kamanzi@rp.ac.rw
+RPK20251035,Diane Niyonzima,,1998-09-26,0723142822,INFORMATION TECHNOLOGY,Level 5,2025,diane.niyonzima@rp.ac.rw
+RPK20221036,Aline Ntawukuriryayo,M,2004-05-01,0791414482,Software Engineering,L6,2022,aline.ntawukuriryayo@rp.ac.rw
+RPK20251037,Beatrice Mukamana,Male,2004-06-09,0787240999,Electronics,L6,2025,beatrice.mukamana@rp.ac.rw
+RPK20241038,Kevine Tuyisenge,Female,2004-01-24,0723765359,Electronics,Level 4,2024,kevine.tuyisenge@rp.ac.rw
+RPK20241039,David Iradukunda,Female,2003-01-21,0798642360,Software Engineering,Level 4,2024,david.iradukunda@rp.ac.rw
+RPK20251040,Alice Uwamahoro,M,2004-05-21,0726324359,Civil Engineering,Level 4,2025,alice.uwamahoro@rp.ac.rw
+RPK20221041,diane uwamahoro,M,2006-09-15,0722418934,Information Technology,L5,2022,diane.uwamahoro@rp.ac.rw
+RPK20221042,Claude Uwamahoro,Female,2000-06-16,0781736177,Civil Engineering,L6,2022,claude.uwamahoro@rp.ac.rw
+RPK20221043,Samuel Gasana,,2004-09-25,0788522384,Software Engineering,Level 5,2022,samuel.gasana@rp.ac.rw
+RPK20221044,Sarah Gasana,Female,2004-12-18,0729632104,Software Engineering,Level 6,2022,sarah.gasana@rp.ac.rw
+RPK20251045,  MARIE NSHIMIYIMANA  ,f,2001-07-24,0729753651,Information Technology,Level 5,2025,..marie.nshimiyimana..@rp.ac.rw
+RPK20221046,Sarah Tuyisenge,,2003-10-23,0798073207,Software Engineering,L6,2022,sarah.tuyisenge@rp.ac.rw
+RPK20251047,Kevine Kamanzi,M,2002-05-27,0737142124,Software Engineering,L6,2025,kevine.kamanzi@rp.ac.rw
+RPK20241048,Francine Mugisha,,2004-10-02,0735093064,Computer Science,Level 6,2024,francine.mugisha@rp.ac.rw
+RPK20251049,Beatrice Mutabazi,M,2006-11-12,0729132207,Electronics,L6,2025,beatrice.mutabazi@rp.ac.rw
+RPK20231050,Grace Tuyisenge,Male,2002-02-08,,Information Technology,Level 6,2023,grace.tuyisenge@rp.ac.rw
+RPK20251051,beatrice tuyisenge,,,0788676443,Electronics,L5,2025,beatrice.tuyisenge@rp.ac.rw
+RPK20241052,Patrick Habimana,F,2001-06-27,0732108068,Civil Engineering,Level 6,2024,patrick.habimana@rp.ac.rw
+RPK20251053,Sarah Kamanzi,Male,2006-04-05,0722154851,Electronics,Level 5,2025,sarah.kamanzi@rp.ac.rw
+RPK20241054,  FRANCINE UWAMAHORO  ,Female,2004-08-12,0782741301,Electronics,Level 4,2024,..francine.uwamahoro..@rp.ac.rw
+RPK20231055,Diane Niyibizi,Female,2003-01-22,,Civil Engineering,Level 6,2023,diane.niyibizi@rp.ac.rw
+RPK20251056,Jean Kamanzi,Male,2006-04-15,0736183607,Computer Science,L4,2025,jean.kamanzi@rp.ac.rw
+RPK20221057,Eric Iradukunda,F,2000-06-19,0787472188,Civil Engineering,L6,2022,eric.iradukunda@rp.ac.rw
+RPK20231058,Sarah Uwamahoro,F,2006-07-21,0732320067,Software Engineering,L5,2023,sarah.uwamahoro@rp.ac.rw
+RPK20251059,Diane Iradukunda,,1998-12-05,,Software Engineering,L5,2025,diane.iradukunda@rp.ac.rw
+RPK20241060,Samuel Kamanzi,,2005-04-28,0798479294,Computer Science,L4,2024,samuel.kamanzi@rp.ac.rw
+RPK20231061,Kevine Mugisha,,2002-03-10,0788628600,Civil Engineering,L6,2023,kevine.mugisha@rp.ac.rw
+RPK20231062,David Niyibizi,F,2004-07-01,0738272518,Computer Science,Level 6,2023,david.niyibizi@rp.ac.rw
+RPK20241063,Sarah Mukamana,,2002-08-18,0798637994,Civil Engineering,Level 6,2024,sarah.mukamana@rp.ac.rw
+RPK20221064,Eric Tuyisenge,Female,2005-04-28,0722337266,Information Technology,L5,2022,eric.tuyisenge@rp.ac.rw
+RPK20241065,Patrick Iradukunda,,2006-04-02,0736742650,Computer Science,Level 5,2024,patrick.iradukunda@rp.ac.rw
+RPK20241066,Claude Habimana,Male,2005-09-11,0739075625,Computer Science,Level 6,2024,claude.habimana@rp.ac.rw
+RPK20251067,Eric Mugisha,M,2006-08-17,0783782211,Electronics,L4,2025,eric.mugisha@rp.ac.rw
+RPK20241068,Patrick Niyibizi,f,1999-06-25,0728271816,Mechanical Engineering,Level 4,2024,patrick.niyibizi@rp.ac.rw
+RPK20221069,Grace Mukamana,F,2001-07-19,0735232298,Electronics,Level 6,2022,grace.mukamana@rp.ac.rw
+RPK20231070,Emmanuel Ntawukuriryayo,Male,2003-06-26,0794827252,Electronics,L6,2023,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20251071,aline niyibizi,m,1999-10-21,0738213417,Mechanical Engineering,L5,2025,aline.niyibizi@rp.ac.rw
+RPK20231072,Emmanuel Gasana,Female,2001-09-19,0727196143,Computer Science,Level 6,2023,emmanuel.gasana@rp.ac.rw
+RPK20231073,Beatrice Uwamahoro,,2001-05-14,0789411723,Computer Science,L4,2023,beatrice.uwamahoro@rp.ac.rw
+RPK20251074,  Beatrice Mugisha  ,m,2000-11-24,0722231028,Mechanical Engineering,L5,2025,..beatrice.mugisha..@rp.ac.rw
+RPK20251075,Benjamin Uwamahoro,,2005-01-21,0787826797,Information Technology,Level 4,2025,benjamin.uwamahoro@rp.ac.rw
+RPK20251076,Joseph Habimana,f,1998-04-23,0726315850,Electronics,Level 5,2025,joseph.habimana@rp.ac.rw
+RPK20221077,Kevine Mukamana,,1999-01-04,0738068294,Civil Engineering,Level 5,2022,kevine.mukamana@rp.ac.rw
+RPK20231078,Francine Iradukunda,F,1999-01-19,0787639958,Software Engineering,Level 5,2023,francine.iradukunda@rp.ac.rw
+RPK20231079,  kevine kamanzi  ,,2002-01-22,0781294934,Electronics,Level 5,2023,..kevine.kamanzi..@rp.ac.rw
+RPK20251080,Sarah Habimana,m,2005-06-24,0722283871,Computer Science,L5,2025,sarah.habimana@rp.ac.rw
+RPK20231081,David Mugisha,,2005-02-19,0724860043,Software Engineering,Level 5,2023,david.mugisha@rp.ac.rw
+RPK20251082,ALINE NTAWUKURIRYAYO,F,2006-01-02,0782469117,Software Engineering,L4,2025,aline.ntawukuriryayo@rp.ac.rw
+RPK20241083,Joseph Uwase,,,0734914600,Computer Science,L6,2024,joseph.uwase@rp.ac.rw
+RPK20241084,Sarah Iradukunda,Female,2005-01-12,0724501134,Computer Science,Level 6,2024,sarah.iradukunda@rp.ac.rw
+RPK20221085,  Sarah Gasana  ,M,1999-04-15,0782533799,Civil Engineering,Level 5,2022,..sarah.gasana..@rp.ac.rw
+RPK20251086,Kevine Mugisha,M,2006-11-25,0728562633,Mechanical Engineering,Level 6,2025,kevine.mugisha@rp.ac.rw
+RPK20241087,Emmanuel Iradukunda,m,1998-07-05,0728233457,Computer Science,Level 4,2024,emmanuel.iradukunda@rp.ac.rw
+RPK20251088,Benjamin Iradukunda,,2001-12-12,0782603217,Computer Science,L5,2025,benjamin.iradukunda@rp.ac.rw
+RPK20241089,Kevine Mugisha,f,2002-11-28,0783735371,Mechanical Engineering,Level 6,2024,kevine.mugisha@rp.ac.rw
+RPK20241090,Samuel Gasana,,2002-10-22,0734117419,Computer Science,L5,2024,samuel.gasana@rp.ac.rw
+RPK20251091,Alice Kamanzi,Female,1998-05-26,0728091780,Information Technology,L6,2025,alice.kamanzi@rp.ac.rw
+RPK20231092,Alice Mutabazi,m,2003-02-22,0728550146,Electronics,Level 6,2023,alice.mutabazi@rp.ac.rw
+RPK20241093,Aline Mutabazi,f,1999-10-28,0728241219,COMPUTER SCIENCE,Level 5,2024,aline.mutabazi@rp.ac.rw
+RPK20251094,David Uwase,Male,2006-06-12,0732550479,Mechanical Engineering,Level 6,2025,david.uwase@rp.ac.rw
+RPK20251095,Emmanuel Ntawukuriryayo,,2000-11-12,0722270601,Software Engineering,Level 6,2025,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20231096,  Francine Nshimiyimana  ,,2006-03-25,0785613779,Computer Science,Level 6,2023,..francine.nshimiyimana..@rp.ac.rw
+RPK20241097,Marie Nshimiyimana,,1999-04-20,0733146335,Computer Science,L5,2024,marie.nshimiyimana@rp.ac.rw
+RPK20231098,Eric Kamanzi,f,1999-06-13,0738974221,Computer Science,Level 5,2023,eric.kamanzi@rp.ac.rw
+RPK20221099,Benjamin Mugisha,m,1999-05-09,0799954640,Electronics,L4,2022,benjamin.mugisha@rp.ac.rw
+RPK20251100,Francine Habimana,m,2001-04-17,0782306081,Information Technology,L4,2025,francine.habimana@rp.ac.rw
+RPK20231101,Patrick Habimana,f,1998-08-23,0798497603,Information Technology,L6,2023,patrick.habimana@rp.ac.rw
+RPK20221102,Beatrice Uwase,Male,1999-09-14,,Mechanical Engineering,Level 5,2022,beatrice.uwase@rp.ac.rw
+RPK20231103,Patrick Mukamana,Male,2000-07-28,0723913548,Software Engineering,L5,2023,patrick.mukamana@rp.ac.rw
+RPK20241104,  Marie Tuyisenge  ,,2003-07-12,0722112428,Information Technology,Level 6,2024,..marie.tuyisenge..@rp.ac.rw
+RPK20241105,Joseph Niyonzima,Male,2001-01-05,0792461329,Information Technology,Level 4,2024,joseph.niyonzima@rp.ac.rw
+RPK20221106,Alice Gasana,Female,1999-12-12,0729563250,COMPUTER SCIENCE,Level 4,2022,alice.gasana@rp.ac.rw
+RPK20231107,Jean Mutabazi,f,2000-07-14,,Mechanical Engineering,Level 4,2023,jean.mutabazi@rp.ac.rw
+RPK20251108,Benjamin Kamanzi,f,1999-09-04,0728004890,Civil Engineering,L4,2025,benjamin.kamanzi@rp.ac.rw
+RPK20251109,Jean Iradukunda,Female,2002-12-23,0797261021,Computer Science,L6,2025,jean.iradukunda@rp.ac.rw
+RPK20221110,patrick uwamahoro,M,1998-12-05,0791632295,Mechanical Engineering,L5,2022,patrick.uwamahoro@rp.ac.rw
+RPK20221111,Sarah Uwamahoro,Male,1998-07-01,0797086221,Computer Science,L5,2022,sarah.uwamahoro@rp.ac.rw
+RPK20231112,Sarah Mugisha,f,1999-06-25,,Information Technology,Level 6,2023,sarah.mugisha@rp.ac.rw
+RPK20231113,Kevine Kamanzi,M,2000-04-19,0721418470,Software Engineering,Level 4,2023,kevine.kamanzi@rp.ac.rw
+RPK20221114,Diane Tuyisenge,F,2005-02-11,0725153003,Software Engineering,L6,2022,diane.tuyisenge@rp.ac.rw
+RPK20221115,Benjamin Niyonzima,f,2004-07-04,0784664330,Electronics,Level 6,2022,benjamin.niyonzima@rp.ac.rw
+RPK20221116,  Kevine Nshimiyimana  ,Male,2002-05-08,,Computer Science,L4,2022,..kevine.nshimiyimana..@rp.ac.rw
+RPK20231117,  francine niyibizi  ,f,2002-10-17,0721723740,Software Engineering,L5,2023,..francine.niyibizi..@rp.ac.rw
+RPK20231118,Marie Niyonzima,,1998-12-04,0793918509,Civil Engineering,Level 5,2023,marie.niyonzima@rp.ac.rw
+RPK20231119,Alice Uwamahoro,m,2000-02-03,0733676423,Mechanical Engineering,L4,2023,alice.uwamahoro@rp.ac.rw
+RPK20221120,samuel iradukunda,f,1999-09-25,,Software Engineering,Level 4,2022,samuel.iradukunda@rp.ac.rw
+RPK20251121,Beatrice Kamanzi,,2002-06-14,0736240813,Civil Engineering,Level 6,2025,beatrice.kamanzi@rp.ac.rw
+RPK20241122,David Ntawukuriryayo,m,2002-08-08,0735577848,Software Engineering,L4,2024,david.ntawukuriryayo@rp.ac.rw
+RPK20221123,Alice Gasana,f,,0781451609,Software Engineering,L6,2022,alice.gasana@rp.ac.rw
+RPK20231124,Grace Mutabazi,Female,2005-07-13,0795984555,Software Engineering,Level 6,2023,grace.mutabazi@rp.ac.rw
+RPK20241125,Patrick Mugisha,M,2004-09-10,0792080330,Information Technology,Level 6,2024,patrick.mugisha@rp.ac.rw
+RPK20251126,Beatrice Uwase,Female,2004-06-20,0795166010,Civil Engineering,L6,2025,beatrice.uwase@rp.ac.rw
+RPK20251127,Aline Kamanzi,,1999-11-04,0789690044,Computer Science,L6,2025,aline.kamanzi@rp.ac.rw
+RPK20251128,Benjamin Habimana,,2003-03-14,0722862976,Civil Engineering,Level 5,2025,benjamin.habimana@rp.ac.rw
+RPK20251129,Grace Mukamana,Male,2006-09-09,0788193333,Information Technology,L6,2025,grace.mukamana@rp.ac.rw
+RPK20231130,  Eric Mutabazi  ,M,1998-10-18,0796100441,Software Engineering,Level 4,2023,..eric.mutabazi..@rp.ac.rw
+RPK20241131,David Mutabazi,F,,0784748760,Mechanical Engineering,Level 4,2024,david.mutabazi@rp.ac.rw
+RPK20241132,Aline Nshimiyimana,,2006-03-23,0793545913,Information Technology,Level 5,2024,aline.nshimiyimana@rp.ac.rw
+RPK20241133,Francine Niyibizi,,1999-05-18,0792589099,Computer Science,Level 5,2024,francine.niyibizi@rp.ac.rw
+RPK20231134,eric uwamahoro,M,2002-10-11,0722107844,Electronics,Level 4,2023,eric.uwamahoro@rp.ac.rw
+RPK20221135,Beatrice Iradukunda,m,2002-12-06,0731867284,Software Engineering,L5,2022,beatrice.iradukunda@rp.ac.rw
+RPK20251136,Kevine Habimana,,2002-03-05,0727624621,Civil Engineering,L4,2025,kevine.habimana@rp.ac.rw
+RPK20241137,Benjamin Kamanzi,f,1998-08-28,0726936149,Computer Science,Level 6,2024,benjamin.kamanzi@rp.ac.rw
+RPK20241138,Eric Mutabazi,m,2003-03-13,0728380714,Civil Engineering,Level 4,2024,eric.mutabazi@rp.ac.rw
+RPK20241139,David Habimana,f,,0791535099,Information Technology,Level 5,2024,david.habimana@rp.ac.rw
+RPK20251140,Beatrice Uwamahoro,,2002-09-02,0728812556,Computer Science,L4,2025,beatrice.uwamahoro@rp.ac.rw
+RPK20231141,Benjamin Kamanzi,Male,2005-08-03,0733897620,Information Technology,L5,2023,benjamin.kamanzi@rp.ac.rw
+RPK20241142,Jean Niyibizi,F,2002-02-21,0799950788,Civil Engineering,Level 4,2024,jean.niyibizi@rp.ac.rw
+RPK20231143,Jean Habimana,,2005-09-10,0724901535,Electronics,Level 6,2023,jean.habimana@rp.ac.rw
+RPK20221144,Eric Habimana,Female,2004-11-22,0788698814,Software Engineering,Level 5,2022,eric.habimana@rp.ac.rw
+RPK20241145,Aline Habimana,Female,1998-07-10,0722192753,Computer Science,L6,2024,aline.habimana@rp.ac.rw
+RPK20231146,Diane Uwamahoro,F,2000-10-02,0722786944,Information Technology,Level 6,2023,diane.uwamahoro@rp.ac.rw
+RPK20221147,Sarah Gasana,Female,2005-02-14,0798801274,Mechanical Engineering,Level 5,2022,sarah.gasana@rp.ac.rw
+RPK20251148,KEVINE NIYONZIMA,F,2000-10-06,0733884283,Software Engineering,Level 4,2025,kevine.niyonzima@rp.ac.rw
+RPK20221149,Patrick Mutabazi,Male,2004-05-28,0784113235,Software Engineering,Level 6,2022,patrick.mutabazi@rp.ac.rw
+RPK20221150,Alice Kamanzi,f,2002-02-27,0788069190,Software Engineering,L6,2022,alice.kamanzi@rp.ac.rw
+RPK20231151,David Kamanzi,,2003-03-25,0791591810,Software Engineering,Level 4,2023,david.kamanzi@rp.ac.rw
+RPK20231152,Benjamin Tuyisenge,,,0781212928,Civil Engineering,Level 4,2023,benjamin.tuyisenge@rp.ac.rw
+RPK20221153,Kevine Tuyisenge,M,2006-04-26,0789019669,MECHANICAL ENGINEERING,L5,2022,kevine.tuyisenge@rp.ac.rw
+RPK20231154,Diane Kamanzi,,,0738190496,Information Technology,L5,2023,diane.kamanzi@rp.ac.rw
+RPK20241155,Eric Niyonzima,F,2002-03-17,0738454528,Computer Science,Level 6,2024,eric.niyonzima@rp.ac.rw
+RPK20241156,Diane Mutabazi,M,2003-07-16,0782822849,Computer Science,Level 5,2024,diane.mutabazi@rp.ac.rw
+RPK20231157,MARIE NIYONZIMA,M,2005-04-12,0724740511,Computer Science,L6,2023,marie.niyonzima@rp.ac.rw
+RPK20241158,Francine Uwase,Female,2006-12-28,0795687836,MECHANICAL ENGINEERING,L4,2024,francine.uwase@rp.ac.rw
+RPK20221159,David Tuyisenge,,2004-03-28,0736751890,Computer Science,Level 6,2022,david.tuyisenge@rp.ac.rw
+RPK20251160,Samuel Mutabazi,f,2002-03-21,0723246333,Computer Science,L6,2025,samuel.mutabazi@rp.ac.rw
+RPK20221161,Benjamin Uwase,F,2003-05-24,0792111757,Electronics,L6,2022,benjamin.uwase@rp.ac.rw
+RPK20251162,Grace Mutabazi,m,1998-03-28,0793070898,Software Engineering,L6,2025,grace.mutabazi@rp.ac.rw
+RPK20231163,Grace Niyibizi,M,1998-10-16,0722852366,Electronics,Level 5,2023,grace.niyibizi@rp.ac.rw
+RPK20251164,Patrick Ntawukuriryayo,m,1998-08-15,0786213172,Computer Science,Level 4,2025,patrick.ntawukuriryayo@rp.ac.rw
+RPK20221165,  claude tuyisenge  ,,2005-02-04,0796088763,Electronics,Level 4,2022,..claude.tuyisenge..@rp.ac.rw
+RPK20251166,david uwamahoro,f,1999-02-13,0732748856,Computer Science,L4,2025,david.uwamahoro@rp.ac.rw
+RPK20221167,David Iradukunda,F,2005-10-16,0792980948,Information Technology,Level 6,2022,david.iradukunda@rp.ac.rw
+RPK20251168,  Claude Kamanzi  ,m,2002-06-10,0792563276,Electronics,Level 6,2025,..claude.kamanzi..@rp.ac.rw
+RPK20221169,Diane Mutabazi,Female,2000-09-13,0731773138,Electronics,L5,2022,diane.mutabazi@rp.ac.rw
+RPK20221170,Marie Kamanzi,Male,2004-03-04,0796414892,Software Engineering,Level 5,2022,marie.kamanzi@rp.ac.rw
+RPK20251171,Emmanuel Kamanzi,f,2003-01-16,0797630645,Mechanical Engineering,L6,2025,emmanuel.kamanzi@rp.ac.rw
+RPK20231172,Beatrice Tuyisenge,f,2006-12-02,,Information Technology,L6,2023,beatrice.tuyisenge@rp.ac.rw
+RPK20251173,Jean Uwase,m,2004-04-24,0738527615,Civil Engineering,Level 5,2025,jean.uwase@rp.ac.rw
+RPK20251174,Patrick Uwamahoro,,2006-05-28,0784041537,Mechanical Engineering,Level 4,2025,patrick.uwamahoro@rp.ac.rw
+RPK20231175,Francine Nshimiyimana,,1999-11-10,0732371566,Computer Science,L4,2023,francine.nshimiyimana@rp.ac.rw
+RPK20231176,Grace Gasana,F,1999-02-28,0735945080,Civil Engineering,L5,2023,grace.gasana@rp.ac.rw
+RPK20241177,Benjamin Habimana,,2003-06-21,0799743704,Information Technology,L5,2024,benjamin.habimana@rp.ac.rw
+RPK20241178,Alice Tuyisenge,F,2002-09-14,0784872878,Electronics,Level 5,2024,alice.tuyisenge@rp.ac.rw
+RPK20241179,Benjamin Ntawukuriryayo,M,2005-04-12,0736250297,Mechanical Engineering,Level 4,2024,benjamin.ntawukuriryayo@rp.ac.rw
+RPK20241180,  Joseph Mukamana  ,Female,1998-01-09,0782773298,Civil Engineering,Level 5,2024,..joseph.mukamana..@rp.ac.rw
+RPK20221181,  Samuel Iradukunda  ,,1999-05-05,0796914725,Computer Science,L5,2022,..samuel.iradukunda..@rp.ac.rw
+RPK20251182,  kevine niyibizi  ,m,1998-04-25,0727230840,Mechanical Engineering,L6,2025,..kevine.niyibizi..@rp.ac.rw
+RPK20251183,Jean Habimana,Female,2004-01-11,0726158613,Information Technology,Level 4,2025,jean.habimana@rp.ac.rw
+RPK20221184,  David Niyibizi  ,,2004-05-26,0739236707,Electronics,L4,2022,..david.niyibizi..@rp.ac.rw
+RPK20221185,Samuel Niyibizi,m,2001-01-28,0732423419,Mechanical Engineering,Level 6,2022,samuel.niyibizi@rp.ac.rw
+RPK20221186,Aline Habimana,M,2003-04-02,0785412307,Electronics,L6,2022,aline.habimana@rp.ac.rw
+RPK20251187,Alice Habimana,M,2002-05-18,0721070377,Civil Engineering,L6,2025,alice.habimana@rp.ac.rw
+RPK20231188,Emmanuel Niyibizi,,2005-09-10,0786065958,Mechanical Engineering,Level 5,2023,emmanuel.niyibizi@rp.ac.rw
+RPK20241189,David Uwase,Female,1998-03-27,0727571008,Computer Science,L5,2024,david.uwase@rp.ac.rw
+RPK20231190,Sarah Mugisha,,2006-05-14,0726871620,Software Engineering,L5,2023,sarah.mugisha@rp.ac.rw
+RPK20241191,Emmanuel Tuyisenge,m,2005-12-01,,Software Engineering,Level 4,2024,emmanuel.tuyisenge@rp.ac.rw
+RPK20231192,Marie Mugisha,F,2003-04-20,0785302700,Computer Science,L4,2023,marie.mugisha@rp.ac.rw
+RPK20221193,David Iradukunda,,2004-05-09,0792832388,Information Technology,Level 5,2022,david.iradukunda@rp.ac.rw
+RPK20221194,Diane Ntawukuriryayo,F,2001-07-19,0794040934,CIVIL ENGINEERING,L4,2022,diane.ntawukuriryayo@rp.ac.rw
+RPK20251195,Beatrice Tuyisenge,F,2005-09-14,0781574502,Electronics,L4,2025,beatrice.tuyisenge@rp.ac.rw
+RPK20241196,Kevine Ntawukuriryayo,f,2004-05-22,0727278031,Mechanical Engineering,L6,2024,kevine.ntawukuriryayo@rp.ac.rw
+RPK20221197,Diane Uwamahoro,,1998-04-04,0789601519,Civil Engineering,L5,2022,diane.uwamahoro@rp.ac.rw
+RPK20241198,Diane Ntawukuriryayo,F,2004-07-07,0721982221,Electronics,Level 6,2024,diane.ntawukuriryayo@rp.ac.rw
+RPK20251199,David Niyonzima,,1998-12-10,0734287389,Mechanical Engineering,L4,2025,david.niyonzima@rp.ac.rw
+RPK20231200,Samuel Mutabazi,Male,2000-04-06,0784921109,Software Engineering,Level 5,2023,samuel.mutabazi@rp.ac.rw
+RPK20221201,Marie Mugisha,Male,2005-02-09,0725500784,Mechanical Engineering,L5,2022,marie.mugisha@rp.ac.rw
+RPK20241202,Patrick Kamanzi,M,2000-09-05,0737152249,Mechanical Engineering,L5,2024,patrick.kamanzi@rp.ac.rw
+RPK20251203,David Gasana,,2005-01-06,0738571172,Information Technology,L5,2025,david.gasana@rp.ac.rw
+RPK20221204,Kevine Mugisha,m,2006-05-23,0793312884,Software Engineering,Level 4,2022,kevine.mugisha@rp.ac.rw
+RPK20231205,Marie Gasana,,2006-11-04,0728406654,INFORMATION TECHNOLOGY,Level 4,2023,marie.gasana@rp.ac.rw
+RPK20241206,Diane Mukamana,M,2001-07-14,0736752314,Civil Engineering,Level 5,2024,diane.mukamana@rp.ac.rw
+RPK20221207,Emmanuel Ntawukuriryayo,M,2003-02-24,0793943630,Computer Science,L5,2022,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20231208,Marie Niyibizi,Male,2005-06-17,0737502063,Civil Engineering,Level 6,2023,marie.niyibizi@rp.ac.rw
+RPK20251209,Beatrice Kamanzi,f,1998-06-25,0794250335,Information Technology,L6,2025,beatrice.kamanzi@rp.ac.rw
+RPK20251210,Jean Uwamahoro,,2006-03-01,0788437388,Computer Science,L5,2025,jean.uwamahoro@rp.ac.rw
+RPK20231211,Grace Kamanzi,Male,1998-08-18,0783355825,Electronics,Level 5,2023,grace.kamanzi@rp.ac.rw
+RPK20251212,Sarah Mutabazi,Male,1999-11-21,0785553659,Software Engineering,L4,2025,sarah.mutabazi@rp.ac.rw
+RPK20231213,Alice Nshimiyimana,m,2004-08-23,0724393068,Information Technology,L4,2023,alice.nshimiyimana@rp.ac.rw
+RPK20221214,claude mutabazi,Female,1998-08-07,0731607900,Software Engineering,Level 5,2022,claude.mutabazi@rp.ac.rw
+RPK20231215,Jean Nshimiyimana,M,2000-11-01,0738458903,Electronics,Level 6,2023,jean.nshimiyimana@rp.ac.rw
+RPK20241216,Aline Gasana,F,2005-06-02,0781084622,Information Technology,Level 4,2024,aline.gasana@rp.ac.rw
+RPK20221217,Emmanuel Mukamana,,2002-11-16,0732718660,Software Engineering,L6,2022,emmanuel.mukamana@rp.ac.rw
+RPK20251218,Kevine Mukamana,Male,2000-09-06,0731891822,Mechanical Engineering,L6,2025,kevine.mukamana@rp.ac.rw
+RPK20251219,Francine Mutabazi,Female,2006-10-27,0722724957,CIVIL ENGINEERING,Level 5,2025,francine.mutabazi@rp.ac.rw
+RPK20221220,  PATRICK NSHIMIYIMANA  ,,1998-02-28,0794753888,Civil Engineering,Level 5,2022,..patrick.nshimiyimana..@rp.ac.rw
+RPK20251221,  Eric Niyonzima  ,Male,1998-06-16,0733552969,Civil Engineering,L4,2025,..eric.niyonzima..@rp.ac.rw
+RPK20221222,Diane Gasana,M,,0736938246,Computer Science,Level 4,2022,diane.gasana@rp.ac.rw
+RPK20221223,Francine Tuyisenge,Male,2006-12-01,0725483127,Computer Science,L4,2022,francine.tuyisenge@rp.ac.rw
+RPK20251224,Patrick Uwase,,2000-03-27,0799460939,Electronics,L5,2025,patrick.uwase@rp.ac.rw
+RPK20221225,Claude Uwamahoro,M,2003-09-23,0793046496,Software Engineering,Level 5,2022,claude.uwamahoro@rp.ac.rw
+RPK20231226,Jean Iradukunda,,1999-08-28,0737490606,Computer Science,L4,2023,jean.iradukunda@rp.ac.rw
+RPK20221227,  Diane Uwamahoro  ,F,2000-12-13,0729780536,Software Engineering,Level 5,2022,..diane.uwamahoro..@rp.ac.rw
+RPK20231228,Sarah Ntawukuriryayo,m,1998-01-21,0731396129,Software Engineering,L4,2023,sarah.ntawukuriryayo@rp.ac.rw
+RPK20241229,Joseph Mutabazi,,2006-12-25,0733393496,Software Engineering,L4,2024,joseph.mutabazi@rp.ac.rw
+RPK20221230,Sarah Mukamana,,2000-05-21,0724157399,Software Engineering,Level 5,2022,sarah.mukamana@rp.ac.rw
+RPK20251231,Grace Habimana,,1998-01-12,0728278540,Computer Science,Level 4,2025,grace.habimana@rp.ac.rw
+RPK20221232,Joseph Niyonzima,Female,2004-02-20,0791822141,Information Technology,L5,2022,joseph.niyonzima@rp.ac.rw
+RPK20251233,Alice Iradukunda,Male,1999-10-27,0799319958,Computer Science,Level 4,2025,alice.iradukunda@rp.ac.rw
+RPK20241234,  Grace Mukamana  ,m,2003-06-06,0798520625,COMPUTER SCIENCE,Level 4,2024,..grace.mukamana..@rp.ac.rw
+RPK20231235,Beatrice Uwase,m,2000-03-06,0787827759,Information Technology,L4,2023,beatrice.uwase@rp.ac.rw
+RPK20231236,Alice Habimana,f,2001-11-18,0723951540,Civil Engineering,L4,2023,alice.habimana@rp.ac.rw
+RPK20231237,  Kevine Gasana  ,M,2001-09-10,0796950517,Computer Science,L6,2023,..kevine.gasana..@rp.ac.rw
+RPK20221238,  Eric Mugisha  ,,2005-01-10,0791194761,Information Technology,Level 6,2022,..eric.mugisha..@rp.ac.rw
+RPK20231239,Sarah Ntawukuriryayo,,2005-04-20,0734146756,Information Technology,Level 4,2023,sarah.ntawukuriryayo@rp.ac.rw
+RPK20251240,  aline mugisha  ,,2003-11-15,0733699989,Mechanical Engineering,L4,2025,..aline.mugisha..@rp.ac.rw
+RPK20231241,Aline Mugisha,Male,1999-05-02,0729664268,INFORMATION TECHNOLOGY,L5,2023,aline.mugisha@rp.ac.rw
+RPK20221242,jean mukamana,,1998-04-12,0791000205,Electronics,L4,2022,jean.mukamana@rp.ac.rw
+RPK20221243,Patrick Uwamahoro,,2004-09-06,0787409579,SOFTWARE ENGINEERING,Level 4,2022,patrick.uwamahoro@rp.ac.rw
+RPK20221244,Grace Mutabazi,M,2001-02-06,0781915489,Computer Science,L5,2022,grace.mutabazi@rp.ac.rw
+RPK20231245,samuel niyonzima,f,2002-01-24,0797703814,Computer Science,L5,2023,samuel.niyonzima@rp.ac.rw
+RPK20221246,Marie Niyonzima,F,2004-08-05,0792902767,Computer Science,L6,2022,marie.niyonzima@rp.ac.rw
+RPK20231247,JOSEPH NTAWUKURIRYAYO,F,2000-10-21,0799148639,Civil Engineering,Level 6,2023,joseph.ntawukuriryayo@rp.ac.rw
+RPK20251248,  Francine Mukamana  ,Male,2002-07-04,,Mechanical Engineering,L4,2025,..francine.mukamana..@rp.ac.rw
+RPK20251249,Marie Kamanzi,,2006-09-27,0798142506,Electronics,L4,2025,marie.kamanzi@rp.ac.rw
+RPK20221250,Diane Iradukunda,,1998-03-19,0734746059,Information Technology,Level 6,2022,diane.iradukunda@rp.ac.rw
+RPK20221251,DAVID MUTABAZI,,1998-04-06,0782843446,Software Engineering,Level 6,2022,david.mutabazi@rp.ac.rw
+RPK20251252,Jean Gasana,,1999-06-18,,Electronics,L6,2025,jean.gasana@rp.ac.rw
+RPK20221253,Samuel Mukamana,,2000-12-18,0794045632,Mechanical Engineering,Level 4,2022,samuel.mukamana@rp.ac.rw
+RPK20251254,Jean Mutabazi,F,2005-02-02,0738429522,Information Technology,L6,2025,jean.mutabazi@rp.ac.rw
+RPK20251255,beatrice mukamana,F,1999-10-21,0731313609,Mechanical Engineering,Level 5,2025,beatrice.mukamana@rp.ac.rw
+RPK20221256,Patrick Niyibizi,Male,2000-11-22,0793484921,COMPUTER SCIENCE,Level 4,2022,patrick.niyibizi@rp.ac.rw
+RPK20221257,Emmanuel Uwase,F,2006-04-19,0737400055,Information Technology,Level 5,2022,emmanuel.uwase@rp.ac.rw
+RPK20221258,Sarah Uwamahoro,,2002-11-10,0736702869,Mechanical Engineering,L4,2022,sarah.uwamahoro@rp.ac.rw
+RPK20251259,Samuel Mukamana,Female,2006-12-17,0738498730,Civil Engineering,Level 5,2025,samuel.mukamana@rp.ac.rw
+RPK20241260,  Kevine Uwamahoro  ,Female,2001-09-13,,Computer Science,Level 5,2024,..kevine.uwamahoro..@rp.ac.rw
+RPK20221261,GRACE UWAMAHORO,Female,2001-07-18,0739379756,Software Engineering,L6,2022,grace.uwamahoro@rp.ac.rw
+RPK20241262,Samuel Uwamahoro,Female,2005-11-05,0731486948,Mechanical Engineering,Level 5,2024,samuel.uwamahoro@rp.ac.rw
+RPK20221263,  Samuel Gasana  ,,2004-08-07,0729942007,Information Technology,Level 5,2022,..samuel.gasana..@rp.ac.rw
+RPK20251264,  Francine Nshimiyimana  ,f,2005-07-19,0797598230,Civil Engineering,L6,2025,..francine.nshimiyimana..@rp.ac.rw
+RPK20231265,Patrick Iradukunda,Female,2006-02-17,0729670121,Electronics,Level 5,2023,patrick.iradukunda@rp.ac.rw
+RPK20241266,Beatrice Niyonzima,m,2000-01-12,0729260129,Electronics,L5,2024,beatrice.niyonzima@rp.ac.rw
+RPK20251267,Samuel Habimana,Male,2000-07-21,0733974122,COMPUTER SCIENCE,Level 4,2025,samuel.habimana@rp.ac.rw
+RPK20241268,Grace Habimana,f,2002-01-26,0721272495,Information Technology,L5,2024,grace.habimana@rp.ac.rw
+RPK20221269,Beatrice Nshimiyimana,,1999-07-25,0789115514,Mechanical Engineering,L4,2022,beatrice.nshimiyimana@rp.ac.rw
+RPK20231270,Grace Mugisha,F,2005-03-26,0799089936,Electronics,L4,2023,grace.mugisha@rp.ac.rw
+RPK20231271,  Jean Habimana  ,M,2004-02-21,0732189948,Computer Science,L6,2023,..jean.habimana..@rp.ac.rw
+RPK20241272,Marie Niyonzima,Female,2006-02-25,0721895050,Computer Science,Level 4,2024,marie.niyonzima@rp.ac.rw
+RPK20251273,Kevine Niyibizi,m,2001-02-10,0738658448,Mechanical Engineering,L6,2025,kevine.niyibizi@rp.ac.rw
+RPK20251274,Beatrice Kamanzi,Male,2004-06-17,0786044025,Software Engineering,Level 4,2025,beatrice.kamanzi@rp.ac.rw
+RPK20231275,Benjamin Habimana,Female,1998-01-13,0796527587,Computer Science,L6,2023,benjamin.habimana@rp.ac.rw
+RPK20221276,Beatrice Gasana,m,2005-05-22,0791446980,Information Technology,L4,2022,beatrice.gasana@rp.ac.rw
+RPK20231277,Grace Gasana,F,2003-02-28,0737478713,Mechanical Engineering,L6,2023,grace.gasana@rp.ac.rw
+RPK20221278,  samuel mukamana  ,Male,2004-12-26,0799233365,Mechanical Engineering,Level 6,2022,..samuel.mukamana..@rp.ac.rw
+RPK20251279,Grace Niyonzima,M,2001-09-12,0792676642,Electronics,Level 4,2025,grace.niyonzima@rp.ac.rw
+RPK20241280,Marie Habimana,,2003-03-27,,Mechanical Engineering,Level 4,2024,marie.habimana@rp.ac.rw
+RPK20231281,Francine Mukamana,M,1999-05-13,0787631368,Electronics,Level 4,2023,francine.mukamana@rp.ac.rw
+RPK20231282,Emmanuel Tuyisenge,Male,2005-07-01,0725698628,Civil Engineering,L5,2023,emmanuel.tuyisenge@rp.ac.rw
+RPK20241283,Joseph Mugisha,m,2004-07-20,0795697055,Electronics,Level 4,2024,joseph.mugisha@rp.ac.rw
+RPK20251284,Jean Nshimiyimana,,2003-06-17,0789132335,Software Engineering,Level 5,2025,jean.nshimiyimana@rp.ac.rw
+RPK20221285,Joseph Mutabazi,F,2001-03-13,0723299810,Information Technology,L6,2022,joseph.mutabazi@rp.ac.rw
+RPK20221286,Alice Mukamana,,1998-09-24,0724959238,Mechanical Engineering,Level 4,2022,alice.mukamana@rp.ac.rw
+RPK20221287,  Jean Niyonzima  ,M,1999-07-24,,Civil Engineering,L4,2022,..jean.niyonzima..@rp.ac.rw
+RPK20241288,Kevine Niyibizi,f,2006-01-08,0726868967,Mechanical Engineering,L4,2024,kevine.niyibizi@rp.ac.rw
+RPK20251289,  Jean Mugisha  ,Male,2005-10-19,0789326620,Software Engineering,L5,2025,..jean.mugisha..@rp.ac.rw
+RPK20221290,Grace Gasana,F,2002-08-22,0734233042,Electronics,L5,2022,grace.gasana@rp.ac.rw
+RPK20241291,Joseph Nshimiyimana,Female,2002-09-28,0725534821,Electronics,Level 4,2024,joseph.nshimiyimana@rp.ac.rw
+RPK20251292,Samuel Nshimiyimana,,2000-07-11,0723567803,Electronics,L5,2025,samuel.nshimiyimana@rp.ac.rw
+RPK20231293,Patrick Mugisha,Female,2003-09-20,0799381977,Civil Engineering,L5,2023,patrick.mugisha@rp.ac.rw
+RPK20221294,Claude Mukamana,F,2006-05-19,0782675847,Information Technology,Level 5,2022,claude.mukamana@rp.ac.rw
+RPK20251295,Francine Niyibizi,Male,1999-08-22,0721689167,Electronics,L6,2025,francine.niyibizi@rp.ac.rw
+RPK20221296,Diane Ntawukuriryayo,M,,0732687607,Software Engineering,Level 6,2022,diane.ntawukuriryayo@rp.ac.rw
+RPK20251297,ALINE TUYISENGE,f,,0799128044,INFORMATION TECHNOLOGY,Level 4,2025,aline.tuyisenge@rp.ac.rw
+RPK20251298,Emmanuel Uwase,,1999-12-12,0792925603,Computer Science,L6,2025,emmanuel.uwase@rp.ac.rw
+RPK20251299,Benjamin Niyonzima,Female,2003-06-02,0795969799,Civil Engineering,L6,2025,benjamin.niyonzima@rp.ac.rw
+RPK20251300,  Sarah Niyonzima  ,Male,1998-06-15,0792848698,Software Engineering,Level 4,2025,..sarah.niyonzima..@rp.ac.rw
+RPK20251301,Emmanuel Habimana,F,1998-06-13,0731583170,Civil Engineering,Level 5,2025,emmanuel.habimana@rp.ac.rw
+RPK20251302,Emmanuel Iradukunda,Female,2002-02-19,0796003230,Software Engineering,L5,2025,emmanuel.iradukunda@rp.ac.rw
+RPK20231303,Samuel Niyonzima,,2000-03-06,0739073609,Software Engineering,L6,2023,samuel.niyonzima@rp.ac.rw
+RPK20251304,Diane Ntawukuriryayo,Male,2003-02-26,0799284005,Civil Engineering,Level 5,2025,diane.ntawukuriryayo@rp.ac.rw
+RPK20231305,  Marie Niyonzima  ,F,2004-09-02,0791834861,Computer Science,L4,2023,..marie.niyonzima..@rp.ac.rw
+RPK20221306,Eric Habimana,Female,2004-07-28,0732818101,Software Engineering,Level 6,2022,eric.habimana@rp.ac.rw
+RPK20231307,Aline Mutabazi,m,2005-07-08,0722476219,Information Technology,Level 6,2023,aline.mutabazi@rp.ac.rw
+RPK20251308,Emmanuel Niyibizi,M,1999-02-17,0738400552,Computer Science,L5,2025,emmanuel.niyibizi@rp.ac.rw
+RPK20241309,Alice Niyibizi,f,1999-06-19,0731463573,Mechanical Engineering,L5,2024,alice.niyibizi@rp.ac.rw
+RPK20241310,Samuel Nshimiyimana,,1999-10-28,0798507580,Software Engineering,L4,2024,samuel.nshimiyimana@rp.ac.rw
+RPK20251311,Patrick Niyibizi,Female,,,Mechanical Engineering,L5,2025,patrick.niyibizi@rp.ac.rw
+RPK20241312,  Alice Mukamana  ,Male,2006-01-16,0796635779,Electronics,L4,2024,..alice.mukamana..@rp.ac.rw
+RPK20231313,Aline Habimana,Female,2003-06-14,0793577284,Mechanical Engineering,L6,2023,aline.habimana@rp.ac.rw
+RPK20251314,Kevine Uwamahoro,,2000-08-12,0727376801,Civil Engineering,Level 4,2025,kevine.uwamahoro@rp.ac.rw
+RPK20251315,Benjamin Niyibizi,f,2000-07-19,0788299974,SOFTWARE ENGINEERING,L4,2025,benjamin.niyibizi@rp.ac.rw
+RPK20251316,  eric niyibizi  ,,2005-03-23,0733904779,Information Technology,Level 4,2025,..eric.niyibizi..@rp.ac.rw
+RPK20241317,Beatrice Ntawukuriryayo,,,,Software Engineering,L6,2024,beatrice.ntawukuriryayo@rp.ac.rw
+RPK20221318,Patrick Mukamana,Female,2006-05-05,0734951587,Mechanical Engineering,Level 5,2022,patrick.mukamana@rp.ac.rw
+RPK20241319,Diane Kamanzi,,1998-09-25,0797006957,Civil Engineering,L4,2024,diane.kamanzi@rp.ac.rw
+RPK20251320,Benjamin Gasana,F,1998-09-28,0799547174,Information Technology,Level 4,2025,benjamin.gasana@rp.ac.rw
+RPK20251321,  Benjamin Nshimiyimana  ,f,1998-03-04,0788524966,Electronics,Level 5,2025,..benjamin.nshimiyimana..@rp.ac.rw
+RPK20221322,Aline Uwase,F,2001-11-20,0797445598,Computer Science,L4,2022,aline.uwase@rp.ac.rw
+RPK20251323,Patrick Iradukunda,Male,2002-11-19,0722990048,Software Engineering,Level 4,2025,patrick.iradukunda@rp.ac.rw
+RPK20231324,Claude Niyonzima,,2004-01-09,0799674087,Information Technology,L5,2023,claude.niyonzima@rp.ac.rw
+RPK20241325,Diane Ntawukuriryayo,m,2004-12-05,0735011322,MECHANICAL ENGINEERING,L5,2024,diane.ntawukuriryayo@rp.ac.rw
+RPK20251326,SAMUEL NSHIMIYIMANA,,2005-01-09,0731681673,Software Engineering,L5,2025,samuel.nshimiyimana@rp.ac.rw
+RPK20241327,  KEVINE UWASE  ,m,1999-01-21,0791370813,Software Engineering,L4,2024,..kevine.uwase..@rp.ac.rw
+RPK20221328,Claude Mukamana,Male,2005-06-04,0783005405,Civil Engineering,Level 4,2022,claude.mukamana@rp.ac.rw
+RPK20231329,Diane Uwamahoro,M,1998-01-07,0794116811,Civil Engineering,Level 4,2023,diane.uwamahoro@rp.ac.rw
+RPK20251330,  Joseph Niyonzima  ,Female,1998-01-22,0728846291,Software Engineering,Level 6,2025,..joseph.niyonzima..@rp.ac.rw
+RPK20241331,ALINE KAMANZI,F,2002-03-21,0732716312,Mechanical Engineering,L4,2024,aline.kamanzi@rp.ac.rw
+RPK20241332,Aline Mugisha,Male,2001-09-13,0725312354,Mechanical Engineering,L6,2024,aline.mugisha@rp.ac.rw
+RPK20231333,Joseph Niyonzima,f,1998-05-25,0733168093,Civil Engineering,Level 5,2023,joseph.niyonzima@rp.ac.rw
+RPK20241334,Marie Mugisha,F,2001-11-19,0725427891,Civil Engineering,L4,2024,marie.mugisha@rp.ac.rw
+RPK20251335,Jean Mutabazi,,1999-08-01,0799758437,ELECTRONICS,L4,2025,jean.mutabazi@rp.ac.rw
+RPK20241336,Grace Nshimiyimana,M,2001-08-20,0795856511,Mechanical Engineering,L4,2024,grace.nshimiyimana@rp.ac.rw
+RPK20251337,Aline Habimana,Male,2005-07-14,0794223539,Information Technology,L4,2025,aline.habimana@rp.ac.rw
+RPK20241338,Francine Mutabazi,Female,1999-12-01,,Computer Science,Level 5,2024,francine.mutabazi@rp.ac.rw
+RPK20231339,Joseph Uwase,Male,,0734253897,Software Engineering,Level 6,2023,joseph.uwase@rp.ac.rw
+RPK20251340,Emmanuel Kamanzi,f,2003-01-15,0781428540,Mechanical Engineering,Level 5,2025,emmanuel.kamanzi@rp.ac.rw
+RPK20221341,Joseph Ntawukuriryayo,F,2003-04-11,0794754931,Civil Engineering,Level 6,2022,joseph.ntawukuriryayo@rp.ac.rw
+RPK20231342,  Beatrice Niyibizi  ,,2002-08-21,0796869774,Electronics,L4,2023,..beatrice.niyibizi..@rp.ac.rw
+RPK20241343,Eric Iradukunda,Female,1999-03-07,0794885381,Information Technology,Level 5,2024,eric.iradukunda@rp.ac.rw
+RPK20221344,Kevine Mugisha,,2006-09-16,0795038884,Electronics,L6,2022,kevine.mugisha@rp.ac.rw
+RPK20251345,Sarah Mukamana,,2001-07-03,0794809282,Software Engineering,Level 4,2025,sarah.mukamana@rp.ac.rw
+RPK20231346,Joseph Habimana,,2005-12-15,,Civil Engineering,Level 5,2023,joseph.habimana@rp.ac.rw
+RPK20231347,Aline Mutabazi,F,2002-07-17,0786770898,Computer Science,L4,2023,aline.mutabazi@rp.ac.rw
+RPK20221348,Sarah Uwamahoro,,1999-05-26,0797440130,Software Engineering,Level 4,2022,sarah.uwamahoro@rp.ac.rw
+RPK20231349,marie kamanzi,M,2000-06-18,0737218275,Mechanical Engineering,Level 4,2023,marie.kamanzi@rp.ac.rw
+RPK20251350,Claude Nshimiyimana,,,,Mechanical Engineering,L5,2025,claude.nshimiyimana@rp.ac.rw
+RPK20251351,  Diane Tuyisenge  ,m,2003-08-25,0726521427,Civil Engineering,Level 6,2025,..diane.tuyisenge..@rp.ac.rw
+RPK20231352,  Francine Mukamana  ,f,,0724967768,Civil Engineering,Level 6,2023,..francine.mukamana..@rp.ac.rw
+RPK20251353,Claude Mutabazi,Male,1999-07-28,0721833381,Civil Engineering,Level 6,2025,claude.mutabazi@rp.ac.rw
+RPK20231354,Grace Kamanzi,Female,2003-08-10,0739479326,Computer Science,Level 5,2023,grace.kamanzi@rp.ac.rw
+RPK20231355,David Niyibizi,F,1998-09-01,0794507593,Electronics,L4,2023,david.niyibizi@rp.ac.rw
+RPK20241356,Marie Niyibizi,,2000-12-11,0727300424,Software Engineering,Level 6,2024,marie.niyibizi@rp.ac.rw
+RPK20251357,Emmanuel Iradukunda,,2002-11-24,0726264642,Computer Science,Level 6,2025,emmanuel.iradukunda@rp.ac.rw
+RPK20241358,  Francine Habimana  ,M,2004-01-16,0782944903,Electronics,Level 4,2024,..francine.habimana..@rp.ac.rw
+RPK20221359,ALICE MUGISHA,Male,2002-03-13,0728515935,Information Technology,Level 5,2022,alice.mugisha@rp.ac.rw
+RPK20251360,  Sarah Iradukunda  ,,2004-07-22,0795897135,Software Engineering,L5,2025,..sarah.iradukunda..@rp.ac.rw
+RPK20251361,Diane Kamanzi,f,2004-06-14,0737114184,Electronics,Level 5,2025,diane.kamanzi@rp.ac.rw
+RPK20251362,Benjamin Tuyisenge,m,,0733353621,Mechanical Engineering,L4,2025,benjamin.tuyisenge@rp.ac.rw
+RPK20251363,Samuel Iradukunda,m,2002-11-15,0734901536,Electronics,L5,2025,samuel.iradukunda@rp.ac.rw
+RPK20241364,Emmanuel Niyonzima,Male,2002-06-09,0793912210,Civil Engineering,Level 6,2024,emmanuel.niyonzima@rp.ac.rw
+RPK20231365,Samuel Mutabazi,Male,2005-01-12,0799792131,Civil Engineering,Level 4,2023,samuel.mutabazi@rp.ac.rw
+RPK20221366,Sarah Uwase,Male,2005-01-05,0794746762,Software Engineering,Level 4,2022,sarah.uwase@rp.ac.rw
+RPK20231367,kevine mukamana,f,2004-10-23,0787867060,Civil Engineering,Level 4,2023,kevine.mukamana@rp.ac.rw
+RPK20241368,Patrick Tuyisenge,,2004-04-05,0793459464,Electronics,Level 4,2024,patrick.tuyisenge@rp.ac.rw
+RPK20221369,Benjamin Uwamahoro,,2006-03-21,0723566945,Information Technology,L6,2022,benjamin.uwamahoro@rp.ac.rw
+RPK20231370,CLAUDE NIYIBIZI,f,2001-12-08,0784298331,Mechanical Engineering,L6,2023,claude.niyibizi@rp.ac.rw
+RPK20241371,Beatrice Mukamana,F,1998-03-01,0789773295,ELECTRONICS,L5,2024,beatrice.mukamana@rp.ac.rw
+RPK20231372,Joseph Habimana,,2005-12-01,0724294113,Civil Engineering,L5,2023,joseph.habimana@rp.ac.rw
+RPK20231373,Kevine Kamanzi,Female,1998-10-06,0795708561,Mechanical Engineering,L4,2023,kevine.kamanzi@rp.ac.rw
+RPK20221374,Francine Uwamahoro,f,1999-05-11,0792795945,Mechanical Engineering,Level 4,2022,francine.uwamahoro@rp.ac.rw
+RPK20221375,Francine Ntawukuriryayo,Male,2005-06-02,0791644804,Computer Science,Level 4,2022,francine.ntawukuriryayo@rp.ac.rw
+RPK20231376,Benjamin Niyonzima,Female,2005-08-21,0734990265,Information Technology,L5,2023,benjamin.niyonzima@rp.ac.rw
+RPK20241377,Alice Niyibizi,F,1999-04-19,0787946452,Information Technology,Level 4,2024,alice.niyibizi@rp.ac.rw
+RPK20251378,KEVINE UWAMAHORO,m,2004-04-10,0728158872,Software Engineering,Level 6,2025,kevine.uwamahoro@rp.ac.rw
+RPK20231379,Benjamin Gasana,m,2000-02-11,0789093243,Civil Engineering,L6,2023,benjamin.gasana@rp.ac.rw
+RPK20221380,Patrick Mutabazi,f,1999-07-21,0727355266,Software Engineering,Level 4,2022,patrick.mutabazi@rp.ac.rw
+RPK20231381,Francine Nshimiyimana,,2006-01-14,0724457478,Electronics,L5,2023,francine.nshimiyimana@rp.ac.rw
+RPK20241382,Sarah Tuyisenge,Male,2002-07-18,0722424493,ELECTRONICS,Level 4,2024,sarah.tuyisenge@rp.ac.rw
+RPK20241383,Emmanuel Tuyisenge,,1998-08-09,0725538301,Electronics,L4,2024,emmanuel.tuyisenge@rp.ac.rw
+RPK20221384,Alice Nshimiyimana,Male,1998-02-13,0731806557,Electronics,L4,2022,alice.nshimiyimana@rp.ac.rw
+RPK20251385,Sarah Mukamana,M,1999-02-19,0791377237,Mechanical Engineering,Level 6,2025,sarah.mukamana@rp.ac.rw
+RPK20241386,  Jean Habimana  ,,2003-01-07,0796377609,Electronics,L5,2024,..jean.habimana..@rp.ac.rw
+RPK20241387,Samuel Tuyisenge,m,1998-07-14,0738577037,Software Engineering,L6,2024,samuel.tuyisenge@rp.ac.rw
+RPK20241388,Claude Uwamahoro,m,2000-02-03,0729478758,Mechanical Engineering,L6,2024,claude.uwamahoro@rp.ac.rw
+RPK20251389,BEATRICE MUTABAZI,,2004-10-21,0739179436,Electronics,Level 6,2025,beatrice.mutabazi@rp.ac.rw
+RPK20241390,Patrick Niyonzima,M,2006-02-01,0785106157,Information Technology,L5,2024,patrick.niyonzima@rp.ac.rw
+RPK20231391,Sarah Nshimiyimana,,2002-04-03,0797871460,Software Engineering,L6,2023,sarah.nshimiyimana@rp.ac.rw
+RPK20241392,  Francine Tuyisenge  ,m,1998-10-12,,Computer Science,L6,2024,..francine.tuyisenge..@rp.ac.rw
+RPK20231393,Aline Uwamahoro,,1998-06-16,0728807352,Information Technology,Level 5,2023,aline.uwamahoro@rp.ac.rw
+RPK20241394,  Alice Nshimiyimana  ,Female,2006-05-11,0784263441,Electronics,L5,2024,..alice.nshimiyimana..@rp.ac.rw
+RPK20221395,Claude Mukamana,Male,2002-10-05,0728866223,Civil Engineering,L5,2022,claude.mukamana@rp.ac.rw
+RPK20221396,  Beatrice Uwase  ,M,2006-02-06,,Software Engineering,L4,2022,..beatrice.uwase..@rp.ac.rw
+RPK20221397,Jean Gasana,Female,2002-02-22,0794121109,Civil Engineering,Level 4,2022,jean.gasana@rp.ac.rw
+RPK20251398,Emmanuel Uwase,f,2001-11-02,0736143642,Information Technology,Level 6,2025,emmanuel.uwase@rp.ac.rw
+RPK20231399,Grace Uwase,M,1998-10-08,0721871244,Mechanical Engineering,L5,2023,grace.uwase@rp.ac.rw
+RPK20221400,Kevine Uwase,f,2004-08-22,0737529428,Mechanical Engineering,Level 6,2022,kevine.uwase@rp.ac.rw
+RPK20251401,Claude Mukamana,Female,1999-04-16,0789443817,Information Technology,Level 5,2025,claude.mukamana@rp.ac.rw
+RPK20221402,GRACE GASANA,Female,2004-06-05,0787392159,Information Technology,Level 6,2022,grace.gasana@rp.ac.rw
+RPK20221403,Jean Mukamana,,2006-09-16,0737317433,Electronics,Level 4,2022,jean.mukamana@rp.ac.rw
+RPK20221404,Beatrice Nshimiyimana,f,2003-10-15,0729890409,Software Engineering,Level 5,2022,beatrice.nshimiyimana@rp.ac.rw
+RPK20251405,Eric Uwamahoro,Female,1999-12-28,0727526606,Mechanical Engineering,Level 6,2025,eric.uwamahoro@rp.ac.rw
+RPK20221406,Patrick Niyonzima,m,2004-08-22,0729649033,Civil Engineering,L5,2022,patrick.niyonzima@rp.ac.rw
+RPK20241407,Francine Habimana,m,1999-01-03,0791849520,Computer Science,L6,2024,francine.habimana@rp.ac.rw
+RPK20241408,Benjamin Uwamahoro,f,2003-01-06,0728064698,Civil Engineering,Level 6,2024,benjamin.uwamahoro@rp.ac.rw
+RPK20231409,Joseph Kamanzi,,2006-07-02,0727508220,Electronics,L5,2023,joseph.kamanzi@rp.ac.rw
+RPK20241410,Samuel Niyonzima,F,2004-11-26,0795896423,Information Technology,Level 4,2024,samuel.niyonzima@rp.ac.rw
+RPK20221411,Beatrice Ntawukuriryayo,m,1998-09-28,0731014244,INFORMATION TECHNOLOGY,L4,2022,beatrice.ntawukuriryayo@rp.ac.rw
+RPK20231412,David Gasana,F,2003-12-24,0799766598,Mechanical Engineering,Level 6,2023,david.gasana@rp.ac.rw
+RPK20231413,Samuel Ntawukuriryayo,F,2003-08-12,0731064512,Civil Engineering,L5,2023,samuel.ntawukuriryayo@rp.ac.rw
+RPK20251414,Emmanuel Nshimiyimana,,2002-01-20,0786807215,Computer Science,L5,2025,emmanuel.nshimiyimana@rp.ac.rw
+RPK20251415,Jean Mutabazi,M,2006-08-01,0721001216,Computer Science,L6,2025,jean.mutabazi@rp.ac.rw
+RPK20221416,Diane Niyibizi,Male,1998-09-17,0735466633,Mechanical Engineering,Level 5,2022,diane.niyibizi@rp.ac.rw
+RPK20251417,Emmanuel Habimana,F,2003-09-05,0792193807,Civil Engineering,Level 5,2025,emmanuel.habimana@rp.ac.rw
+RPK20231418,Aline Mutabazi,,2004-04-21,0786761709,Civil Engineering,L4,2023,aline.mutabazi@rp.ac.rw
+RPK20251419,Eric Mugisha,m,2006-09-18,0793508368,Mechanical Engineering,L4,2025,eric.mugisha@rp.ac.rw
+RPK20251420,Diane Uwase,m,2000-12-12,0788332876,Computer Science,L4,2025,diane.uwase@rp.ac.rw
+RPK20231421,Benjamin Niyibizi,f,2001-11-13,0721414982,Mechanical Engineering,L5,2023,benjamin.niyibizi@rp.ac.rw
+RPK20251422,Grace Nshimiyimana,M,2004-12-02,0791027103,Software Engineering,Level 4,2025,grace.nshimiyimana@rp.ac.rw
+RPK20251423,Aline Uwase,f,2001-06-03,0782424776,Electronics,L6,2025,aline.uwase@rp.ac.rw
+RPK20221424,Grace Tuyisenge,M,1999-02-22,0735284292,Electronics,L4,2022,grace.tuyisenge@rp.ac.rw
+RPK20221425,Sarah Mutabazi,f,2006-03-13,0798753820,Software Engineering,Level 4,2022,sarah.mutabazi@rp.ac.rw
+RPK20251426,Emmanuel Niyonzima,m,2006-08-02,0721270573,INFORMATION TECHNOLOGY,Level 4,2025,emmanuel.niyonzima@rp.ac.rw
+RPK20221427,Beatrice Niyibizi,Male,2002-12-11,0732090096,Mechanical Engineering,L4,2022,beatrice.niyibizi@rp.ac.rw
+RPK20251428,Emmanuel Uwase,Female,1998-03-13,0793605839,Computer Science,Level 4,2025,emmanuel.uwase@rp.ac.rw
+RPK20251429,Benjamin Iradukunda,,1999-10-26,0798729083,Mechanical Engineering,Level 5,2025,benjamin.iradukunda@rp.ac.rw
+RPK20241430,Francine Kamanzi,M,1998-03-16,0738549063,Electronics,L6,2024,francine.kamanzi@rp.ac.rw
+RPK20251431,Sarah Mugisha,,2006-07-13,0731113984,Electronics,L5,2025,sarah.mugisha@rp.ac.rw
+RPK20231432,Diane Ntawukuriryayo,f,2000-04-10,0784183468,Software Engineering,L5,2023,diane.ntawukuriryayo@rp.ac.rw
+RPK20251433,  Jean Mukamana  ,Female,,0733049161,Information Technology,Level 6,2025,..jean.mukamana..@rp.ac.rw
+RPK20241434,Eric Nshimiyimana,M,2002-09-22,,Mechanical Engineering,Level 5,2024,eric.nshimiyimana@rp.ac.rw
+RPK20221435,Claude Nshimiyimana,f,,0788245876,Computer Science,L4,2022,claude.nshimiyimana@rp.ac.rw
+RPK20251436,Francine Kamanzi,F,,0784672221,Electronics,Level 4,2025,francine.kamanzi@rp.ac.rw
+RPK20231437,  Claude Gasana  ,m,1999-12-23,0722183794,COMPUTER SCIENCE,L5,2023,..claude.gasana..@rp.ac.rw
+RPK20221438,  DIANE MUTABAZI  ,Female,2004-06-13,0722177132,Civil Engineering,L5,2022,..diane.mutabazi..@rp.ac.rw
+RPK20241439,Emmanuel Kamanzi,Male,2000-09-11,0727916946,Computer Science,L6,2024,emmanuel.kamanzi@rp.ac.rw
+RPK20251440,Samuel Iradukunda,,1999-01-20,0794455214,Mechanical Engineering,Level 5,2025,samuel.iradukunda@rp.ac.rw
+RPK20251441,Claude Mugisha,,2003-08-19,0735975962,Information Technology,L4,2025,claude.mugisha@rp.ac.rw
+RPK20231442,  Kevine Ntawukuriryayo  ,Male,2005-03-26,0798310066,Mechanical Engineering,Level 6,2023,..kevine.ntawukuriryayo..@rp.ac.rw
+RPK20251443,Marie Mukamana,,2005-11-06,0789877448,Electronics,Level 6,2025,marie.mukamana@rp.ac.rw
+RPK20221444,Beatrice Mukamana,f,2000-10-08,0786195323,Civil Engineering,L5,2022,beatrice.mukamana@rp.ac.rw
+RPK20241445,Benjamin Mukamana,m,1998-07-01,0785768229,Information Technology,Level 6,2024,benjamin.mukamana@rp.ac.rw
+RPK20241446,Grace Mukamana,,2000-12-22,0724633550,Software Engineering,L5,2024,grace.mukamana@rp.ac.rw
+RPK20231447,BEATRICE MUGISHA,m,1998-10-09,0797307763,Computer Science,L5,2023,beatrice.mugisha@rp.ac.rw
+RPK20221448,Marie Kamanzi,,2003-03-14,0798649641,Electronics,L5,2022,marie.kamanzi@rp.ac.rw
+RPK20251449,aline kamanzi,Female,1999-06-22,0789034458,Mechanical Engineering,L6,2025,aline.kamanzi@rp.ac.rw
+RPK20221450,  Marie Habimana  ,Female,2005-12-10,0731162343,Electronics,Level 4,2022,..marie.habimana..@rp.ac.rw
+RPK20251451,Patrick Uwase,f,2000-03-26,0738511134,Computer Science,L6,2025,patrick.uwase@rp.ac.rw
+RPK20231452,Emmanuel Mutabazi,M,2003-01-08,0797701374,Software Engineering,L5,2023,emmanuel.mutabazi@rp.ac.rw
+RPK20231453,Eric Niyibizi,F,2005-06-09,0729175398,Computer Science,Level 6,2023,eric.niyibizi@rp.ac.rw
+RPK20241454,Francine Mugisha,,1999-03-19,0725706167,Mechanical Engineering,L5,2024,francine.mugisha@rp.ac.rw
+RPK20241455,Samuel Ntawukuriryayo,F,1998-06-01,0734780259,Electronics,L5,2024,samuel.ntawukuriryayo@rp.ac.rw
+RPK20251456,Eric Mutabazi,,2000-02-03,0793359340,Software Engineering,L4,2025,eric.mutabazi@rp.ac.rw
+RPK20251457,Marie Niyonzima,Male,2005-08-14,0784977276,Information Technology,L6,2025,marie.niyonzima@rp.ac.rw
+RPK20251458,Emmanuel Uwamahoro,,2003-10-08,,Computer Science,Level 5,2025,emmanuel.uwamahoro@rp.ac.rw
+RPK20251459,David Mutabazi,m,2000-02-28,0786282255,INFORMATION TECHNOLOGY,L6,2025,david.mutabazi@rp.ac.rw
+RPK20231460,Emmanuel Mukamana,m,1998-01-08,0786498893,Information Technology,Level 6,2023,emmanuel.mukamana@rp.ac.rw
+RPK20221461,Aline Niyonzima,F,2006-03-25,0782270532,Mechanical Engineering,Level 6,2022,aline.niyonzima@rp.ac.rw
+RPK20251462,Kevine Habimana,M,2004-02-20,0731924412,Software Engineering,Level 5,2025,kevine.habimana@rp.ac.rw
+RPK20221463,Joseph Gasana,Female,2003-03-21,0722455316,Electronics,L6,2022,joseph.gasana@rp.ac.rw
+RPK20221464,francine iradukunda,Male,2003-03-12,0791174901,Electronics,Level 6,2022,francine.iradukunda@rp.ac.rw
+RPK20231465,Emmanuel Ntawukuriryayo,,1999-06-28,0723334562,Information Technology,L5,2023,emmanuel.ntawukuriryayo@rp.ac.rw
+RPK20251466,Sarah Mukamana,F,2000-09-26,0791938042,Mechanical Engineering,Level 6,2025,sarah.mukamana@rp.ac.rw
+RPK20221467,Emmanuel Gasana,,2005-03-23,0724259777,Information Technology,L6,2022,emmanuel.gasana@rp.ac.rw
+RPK20231468,Claude Mugisha,Male,2002-09-17,0781699159,INFORMATION TECHNOLOGY,L6,2023,claude.mugisha@rp.ac.rw
+RPK20251469,Grace Niyibizi,M,2005-11-28,0725758687,CIVIL ENGINEERING,L6,2025,grace.niyibizi@rp.ac.rw
+RPK20251470,Sarah Mutabazi,f,2001-07-03,0736996364,INFORMATION TECHNOLOGY,Level 4,2025,sarah.mutabazi@rp.ac.rw
+RPK20231471,Sarah Mukamana,F,1998-09-06,0796004113,Civil Engineering,L5,2023,sarah.mukamana@rp.ac.rw
+RPK20221472,Francine Niyibizi,Male,1998-06-09,0799470590,Electronics,Level 6,2022,francine.niyibizi@rp.ac.rw
+RPK20251473,  Alice Nshimiyimana  ,M,1999-03-16,0734979682,Civil Engineering,L5,2025,..alice.nshimiyimana..@rp.ac.rw
+RPK20251474,Marie Tuyisenge,F,2002-09-15,0733875333,Information Technology,L6,2025,marie.tuyisenge@rp.ac.rw
+RPK20221475,Alice Ntawukuriryayo,,2001-04-28,0792443096,Software Engineering,L6,2022,alice.ntawukuriryayo@rp.ac.rw
+RPK20231476,Patrick Nshimiyimana,M,2006-02-10,0789908154,Civil Engineering,L4,2023,patrick.nshimiyimana@rp.ac.rw
+RPK20231477,Grace Mukamana,,2006-01-11,0796800014,Mechanical Engineering,L6,2023,grace.mukamana@rp.ac.rw
+RPK20231478,Marie Mutabazi,Female,,0727590567,Civil Engineering,L6,2023,marie.mutabazi@rp.ac.rw
+RPK20231479,Beatrice Tuyisenge,,2006-01-08,0734319680,Information Technology,Level 4,2023,beatrice.tuyisenge@rp.ac.rw
+RPK20241480,Francine Uwase,,2006-01-13,0797079858,Civil Engineering,L4,2024,francine.uwase@rp.ac.rw
+RPK20241481,GRACE MUTABAZI,Female,1999-09-22,0795312260,Electronics,L4,2024,grace.mutabazi@rp.ac.rw
+RPK20231482,Aline Niyonzima,F,2002-02-14,0783119432,Information Technology,L5,2023,aline.niyonzima@rp.ac.rw
+RPK20231483,Sarah Uwase,,2003-07-13,0731430775,Mechanical Engineering,L6,2023,sarah.uwase@rp.ac.rw
+RPK20251484,Kevine Niyibizi,,2006-10-05,0782735358,Computer Science,L4,2025,kevine.niyibizi@rp.ac.rw
+RPK20251485,PATRICK HABIMANA,f,2003-01-24,0723695474,Software Engineering,Level 5,2025,patrick.habimana@rp.ac.rw
+RPK20251486,  Aline Niyibizi  ,,2003-12-26,,COMPUTER SCIENCE,Level 4,2025,..aline.niyibizi..@rp.ac.rw
+RPK20251487,Marie Mugisha,f,2006-03-08,0725461152,Civil Engineering,L4,2025,marie.mugisha@rp.ac.rw
+RPK20251488,Marie Nshimiyimana,F,1998-01-12,0738858804,Civil Engineering,L4,2025,marie.nshimiyimana@rp.ac.rw
+RPK20221489,Joseph Niyonzima,Female,1998-03-26,0738301226,COMPUTER SCIENCE,Level 6,2022,joseph.niyonzima@rp.ac.rw
+RPK20241490,David Ntawukuriryayo,f,2004-10-06,0786960146,Mechanical Engineering,Level 6,2024,david.ntawukuriryayo@rp.ac.rw
+RPK20221491,joseph mutabazi,M,2006-04-04,0729593296,Information Technology,L6,2022,joseph.mutabazi@rp.ac.rw
+RPK20241492,Samuel Ntawukuriryayo,Female,2006-10-24,0789372324,Information Technology,L5,2024,samuel.ntawukuriryayo@rp.ac.rw
+RPK20241493,Joseph Habimana,F,2002-08-24,0788758403,Information Technology,Level 6,2024,joseph.habimana@rp.ac.rw
+RPK20241494,Beatrice Mugisha,M,,0735353443,Civil Engineering,L5,2024,beatrice.mugisha@rp.ac.rw
+RPK20231495,Patrick Uwase,,2004-12-07,0736635561,Computer Science,L4,2023,patrick.uwase@rp.ac.rw
+RPK20221496,Jean Kamanzi,Female,2001-05-14,0797716071,Software Engineering,L5,2022,jean.kamanzi@rp.ac.rw
+RPK20241497,Joseph Niyonzima,,2004-02-28,0734893468,Civil Engineering,Level 6,2024,joseph.niyonzima@rp.ac.rw
+RPK20221498,benjamin nshimiyimana,F,2002-04-05,0787608497,Electronics,Level 5,2022,benjamin.nshimiyimana@rp.ac.rw
+RPK20231499,Beatrice Habimana,f,2002-10-11,,Computer Science,Level 4,2023,beatrice.habimana@rp.ac.rw
+RPK20231500,Grace Niyibizi,m,2004-12-05,0733069886,Electronics,L5,2023,grace.niyibizi@rp.ac.rw
+RPK20251320,Benjamin Gasana,F,1998-09-28,0795241692,Information Technology,Level 4,2025,benjamin.gasana@rp.ac.rw
+RPK20220435,Benjamin Habimana,M,2003-08-16,0727951301,Information Technology,L4,2022,benjamin.habimana@rp.ac.rw
+RPK20231376,Benjamin Niyonzima,Female,2005-08-21,0789328508,Information Technology,L5,2023,benjamin.niyonzima@rp.ac.rw
+RPK20220160,Diane Niyonzima,,2006-10-25,0796925406,Civil Engineering,L4,2022,diane.niyonzima@rp.ac.rw
+RPK20250634,Francine Niyibizi,,,0731776566,Information Technology,L5,2025,francine.niyibizi@rp.ac.rw
+RPK20240411,Marie Mutabazi,m,2005-02-12,0731102653,Mechanical Engineering,L4,2024,marie.mutabazi@rp.ac.rw
+RPK20241052,Patrick Habimana,F,2001-06-27,0784166817,Civil Engineering,Level 6,2024,patrick.habimana@rp.ac.rw
+RPK20221220,  PATRICK NSHIMIYIMANA  ,,1998-02-28,0729372258,Civil Engineering,Level 5,2022,..patrick.nshimiyimana..@rp.ac.rw
+RPK20240642,Claude Nshimiyimana,M,2000-07-27,0799243721,Computer Science,L4,2024,claude.nshimiyimana@rp.ac.rw
+RPK20230640,Beatrice Iradukunda,,1999-09-12,0733778345,Civil Engineering,L4,2023,beatrice.iradukunda@rp.ac.rw
+RPK20250825,Grace Tuyisenge,m,1999-02-15,0786906098,Mechanical Engineering,L4,2025,grace.tuyisenge@rp.ac.rw
+RPK20221153,Kevine Tuyisenge,M,2006-04-26,0785886234,MECHANICAL ENGINEERING,L5,2022,kevine.tuyisenge@rp.ac.rw
+RPK20230082,Kevine Iradukunda,Female,2001-12-26,0732045066,Mechanical Engineering,Level 6,2023,kevine.iradukunda@rp.ac.rw
+RPK20240202,Jean Habimana,Male,2001-05-24,0793652890,Computer Science,Level 4,2024,jean.habimana@rp.ac.rw
+RPK20220563,ALICE IRADUKUNDA,f,2006-04-11,0797828538,Computer Science,L4,2022,alice.iradukunda@rp.ac.rw
+RPK20220941,Samuel Ntawukuriryayo,Male,2003-02-28,0794262555,Computer Science,L6,2022,samuel.ntawukuriryayo@rp.ac.rw
+RPK20250408,  Claude Mugisha  ,Male,2004-05-05,0736513412,Civil Engineering,Level 4,2025,..claude.mugisha..@rp.ac.rw
+RPK20250173,David Tuyisenge,F,2002-08-11,0784028005,Electronics,Level 6,2025,david.tuyisenge@rp.ac.rw
+RPK20221153,Kevine Tuyisenge,M,2006-04-26,0795214353,MECHANICAL ENGINEERING,L5,2022,kevine.tuyisenge@rp.ac.rw
+RPK20230364,Aline Iradukunda,Male,1999-06-11,0789590054,Mechanical Engineering,Level 4,2023,aline.iradukunda@rp.ac.rw
+RPK20230713,Grace Mutabazi,Male,1998-07-22,0799689155,Information Technology,Level 6,2023,grace.mutabazi@rp.ac.rw
+RPK20230699,Aline Mutabazi,Female,1999-10-13,0731906127,SOFTWARE ENGINEERING,L6,2023,aline.mutabazi@rp.ac.rw
+RPK20231061,Kevine Mugisha,,2002-03-10,0799387783,Civil Engineering,L6,2023,kevine.mugisha@rp.ac.rw
+RPK20250274,  Grace Gasana  ,M,1998-08-23,0784584521,Computer Science,Level 5,2025,..grace.gasana..@rp.ac.rw
+RPK20220886,Aline Iradukunda,Female,2004-10-21,0795860879,Software Engineering,L5,2022,aline.iradukunda@rp.ac.rw
+RPK20240914,Eric Habimana,,2006-02-23,0737644663,INFORMATION TECHNOLOGY,Level 4,2024,eric.habimana@rp.ac.rw
+RPK20231151,David Kamanzi,,2003-03-25,0781805836,Software Engineering,Level 4,2023,david.kamanzi@rp.ac.rw
+RPK20220626,David Kamanzi,Female,2002-12-21,0799359618,Mechanical Engineering,Level 4,2022,david.kamanzi@rp.ac.rw
+RPK20251022,Francine Mutabazi,F,1998-10-23,0786000753,Mechanical Engineering,L5,2025,francine.mutabazi@rp.ac.rw
+RPK20221290,Grace Gasana,F,2002-08-22,0789782580,Electronics,L5,2022,grace.gasana@rp.ac.rw
+RPK20220651,Jean Uwase,F,2006-04-11,0798001026,Software Engineering,Level 6,2022,jean.uwase@rp.ac.rw
+RPK20240183,Benjamin Habimana,Male,2006-09-01,0732917462,Computer Science,Level 5,2024,benjamin.habimana@rp.ac.rw
+RPK20230255,Samuel Uwamahoro,f,,0784701217,Information Technology,Level 6,2023,samuel.uwamahoro@rp.ac.rw
+RPK20230148,  Patrick Mutabazi  ,f,2004-07-21,0794502549,Mechanical Engineering,Level 6,2023,..patrick.mutabazi..@rp.ac.rw
+RPK20230426,Kevine Uwamahoro,F,1998-07-28,0784127547,Information Technology,Level 5,2023,kevine.uwamahoro@rp.ac.rw
+RPK20220700,Emmanuel Kamanzi,Male,2001-08-02,0729077898,Mechanical Engineering,L6,2022,emmanuel.kamanzi@rp.ac.rw
+RPK20221011,Eric Iradukunda,Male,2000-11-16,0791057853,Software Engineering,Level 6,2022,eric.iradukunda@rp.ac.rw
+RPK20221294,Claude Mukamana,F,2006-05-19,0735274788,Information Technology,Level 5,2022,claude.mukamana@rp.ac.rw
+RPK20241089,Kevine Mugisha,f,2002-11-28,0793310156,Mechanical Engineering,Level 6,2024,kevine.mugisha@rp.ac.rw
+RPK20240598,  Marie Iradukunda  ,Male,2003-07-24,0794700390,Information Technology,Level 5,2024,..marie.iradukunda..@rp.ac.rw
+RPK20240141,Kevine Ntawukuriryayo,F,1998-04-15,0788323096,Electronics,L5,2024,kevine.ntawukuriryayo@rp.ac.rw
+RPK20240798,  Eric Tuyisenge  ,Female,2006-12-17,0787325775,Mechanical Engineering,Level 6,2024,..eric.tuyisenge..@rp.ac.rw
+RPK20220665,Claude Niyonzima,,2002-12-02,0735794920,Mechanical Engineering,Level 5,2022,claude.niyonzima@rp.ac.rw
+RPK20250483,Aline Uwase,,2002-12-01,0784868745,Electronics,L5,2025,aline.uwase@rp.ac.rw
+RPK20241317,Beatrice Ntawukuriryayo,,,0784201970,Software Engineering,L6,2024,beatrice.ntawukuriryayo@rp.ac.rw
